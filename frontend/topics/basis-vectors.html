@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basis Vectors - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🏗️ Basis Vectors</h1>
+
+            <h2>What is a Basis?</h2>
+            <p>A <strong>basis</strong> for a vector space is a set of vectors that are linearly independent and span the entire space.</p>
+
+            <h2>Standard Basis</h2>
+            <div class="example-box">
+                <p>For $\mathbb{R}^2$: $\{\vec{e}_1, \vec{e}_2\} = \{(1,0), (0,1)\}$</p>
+                <p>For $\mathbb{R}^3$: $\{\vec{e}_1, \vec{e}_2, \vec{e}_3\} = \{(1,0,0), (0,1,0), (0,0,1)\}$</p>
+            </div>
+
+            <h2>Key Properties</h2>
+            <div class="example-box">
+                <p><strong>1.</strong> Every vector in the space has a unique representation as a linear combination of basis vectors.</p>
+                <p><strong>2.</strong> The number of basis vectors = the <strong>dimension</strong> of the space.</p>
+                <p><strong>3.</strong> A basis must be linearly independent and span the space.</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=basis-vectors'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

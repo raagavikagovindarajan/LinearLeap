@@ -1,0 +1,8859 @@
+[
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "0",
+      "m (number of rows)",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×5 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "orthogonal",
+      "parallel",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Domain",
+      "Range of A",
+      "Kernel"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×5 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×7 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×6 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "6",
+      "6",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×6 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "parallel",
+      "equal",
+      "orthogonal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×4 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(A^T\\)",
+      "\\(I\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "orthogonal",
+      "parallel",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×6 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "similar",
+      "orthogonal",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×7 with rank 5, what is the dimension of the column space?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "1"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "parallel",
+      "orthogonal",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×5 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "5",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×7 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A^T\\)",
+      "\\(A\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "equal",
+      "similar",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×4 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Domain",
+      "Kernel",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A^T\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×4 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×5 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Null space",
+      "Domain",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "7",
+      "7",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "rank",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×4 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×7 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Kernel",
+      "Range of A",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "0",
+      "m (number of rows)",
+      "rank"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×6 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(A\\)",
+      "\\(A^{-1}\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A\\)",
+      "\\(A^{-1}\\)",
+      "\\(A^T\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×7 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×7 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "4",
+      "7",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "rank",
+      "n (number of columns)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×4 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×4 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "4",
+      "4",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×4 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "rank",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "rank",
+      "m (number of rows)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Kernel",
+      "Null space",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "m (number of rows)",
+      "0",
+      "rank"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×6 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "4",
+      "6",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Domain",
+      "Range of A",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×4 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Range of A",
+      "Null space",
+      "Domain",
+      "Kernel"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×4 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "rank",
+      "m (number of rows)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "rank",
+      "n (number of columns)",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×5 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Range of A",
+      "Null space",
+      "Kernel"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "5",
+      "7",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "m (number of rows)",
+      "n (number of columns)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "7",
+      "7",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Domain",
+      "Range of A",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×4 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A^{-1}\\)",
+      "\\(A^T\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "m (number of rows)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×7 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×3 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "7",
+      "3",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^T\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "parallel",
+      "equal",
+      "orthogonal",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×6 with rank 5, what is the dimension of the column space?",
+    "options": [
+      "5",
+      "5",
+      "6",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "orthogonal",
+      "similar",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "m (number of rows)",
+      "rank",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(I\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(I\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×6 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "7",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×6 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "7",
+      "6",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Range of A",
+      "Domain",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×5 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "5",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Range of A",
+      "Domain",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×6 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "orthogonal",
+      "parallel",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "n (number of columns)",
+      "0",
+      "rank"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×4 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×4 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "4",
+      "4",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "rank",
+      "n (number of columns)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "7",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "0",
+      "n (number of columns)",
+      "rank"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×6 with rank 5, what is the dimension of the column space?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "2"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "parallel",
+      "equal",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Null space",
+      "Domain",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×5 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Range of A",
+      "Domain",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Range of A",
+      "Null space",
+      "Domain",
+      "Kernel"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×6 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×3 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "6",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "rank",
+      "n (number of columns)",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×7 with rank 5, what is the dimension of the column space?",
+    "options": [
+      "5",
+      "5",
+      "7",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "parallel",
+      "orthogonal",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×6 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "4",
+      "6",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "equal",
+      "orthogonal",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "m (number of rows)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×6 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "rank",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "equal",
+      "parallel",
+      "orthogonal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×5 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×4 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "m (number of rows)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×6 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "6",
+      "6",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×4 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(I\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^{-1}\\)",
+      "\\(A^T\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×5 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Kernel",
+      "Null space",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "similar",
+      "parallel",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×4 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×3 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "7",
+      "3",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A^T\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "4",
+      "7",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "parallel",
+      "orthogonal",
+      "similar",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "7",
+      "7",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×5 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(I\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "parallel",
+      "orthogonal",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×4 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Domain",
+      "Range of A",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×6 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "6",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "0",
+      "rank",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×6 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "m (number of rows)",
+      "0",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×5 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(A\\)",
+      "\\(I\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "equal",
+      "similar",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×7 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(I\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(A^T\\)",
+      "\\(I\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×7 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×6 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(A\\)",
+      "\\(A^{-1}\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×4 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "4",
+      "4",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "parallel",
+      "orthogonal",
+      "similar",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×6 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×6 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Kernel",
+      "Domain",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "0",
+      "m (number of rows)",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×6 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "parallel",
+      "similar",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "0",
+      "m (number of rows)",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×4 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×4 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "orthogonal",
+      "parallel",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "parallel",
+      "orthogonal",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×6 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "6",
+      "6",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×6 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "parallel",
+      "equal",
+      "orthogonal",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×5 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "rank",
+      "n (number of columns)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×4 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×6 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "7",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "m (number of rows)",
+      "rank",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "7",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×6 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "equal",
+      "parallel",
+      "orthogonal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Kernel",
+      "Range of A",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×7 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A^T\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "7",
+      "7",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Range of A",
+      "Kernel",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×5 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "0",
+      "rank",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×6 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "4",
+      "6",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×7 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "parallel",
+      "orthogonal",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "m (number of rows)",
+      "0",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×6 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "m (number of rows)",
+      "n (number of columns)",
+      "rank"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "rank",
+      "n (number of columns)",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×6 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "6",
+      "6",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Null space",
+      "Range of A",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×5 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "5",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "rank",
+      "0",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×5 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×7 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "n (number of columns)",
+      "rank",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×7 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)",
+      "\\(A^T\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Kernel",
+      "Range of A",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×6 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "6",
+      "6",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "m (number of rows)",
+      "n (number of columns)",
+      "rank"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "7",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "parallel",
+      "orthogonal",
+      "similar",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×4 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "4",
+      "4",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×3 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Kernel",
+      "Null space",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "similar",
+      "parallel",
+      "orthogonal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×6 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "similar",
+      "parallel",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "n (number of columns)",
+      "rank",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×5 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×4 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "7",
+      "4",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Null space",
+      "Range of A",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×4 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "4",
+      "4",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "orthogonal",
+      "similar",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×4 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "4",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×5 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Range of A",
+      "Null space",
+      "Kernel",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "m (number of rows)",
+      "rank",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×4 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Range of A",
+      "Null space",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Domain",
+      "Range of A",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×6 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×5 with rank 5, what is the dimension of the column space?",
+    "options": [
+      "5",
+      "7",
+      "5",
+      "2"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Range of A",
+      "Null space",
+      "Kernel"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×7 with rank 5, what is the dimension of the column space?",
+    "options": [
+      "5",
+      "5",
+      "7",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Domain",
+      "Range of A",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "7",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×5 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "parallel",
+      "similar",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Range of A",
+      "Kernel",
+      "Null space",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×5 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "similar",
+      "parallel",
+      "orthogonal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "m (number of rows)",
+      "0",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×6 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×4 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "7",
+      "4",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "n (number of columns)",
+      "rank",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×5 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Range of A",
+      "Domain",
+      "Kernel",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "3",
+      "7",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Null space",
+      "Domain",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "parallel",
+      "orthogonal",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×4 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^T\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "parallel",
+      "similar",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×4 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×3 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "parallel",
+      "equal",
+      "orthogonal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×4 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "4",
+      "4",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "rank",
+      "m (number of rows)",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×4 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×6 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "parallel",
+      "orthogonal",
+      "similar",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(A^T\\)",
+      "\\(A\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×7 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "0",
+      "n (number of columns)",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "parallel",
+      "equal",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×4 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "6",
+      "3",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "rank",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×6 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "7",
+      "6",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "parallel",
+      "orthogonal",
+      "similar",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "7",
+      "7",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×4 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A^T\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×4 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "equal",
+      "parallel",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "similar",
+      "equal",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×7 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×7 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "6",
+      "7",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "parallel",
+      "equal",
+      "similar",
+      "orthogonal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×5 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "7",
+      "5",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×6 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "6",
+      "6",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×6 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(A\\)",
+      "\\(I\\)",
+      "\\(A^T\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×4 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^{-1}\\)",
+      "\\(A^T\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×6 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×4 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "7",
+      "4",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "equal",
+      "parallel",
+      "orthogonal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×5 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "4",
+      "5",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Kernel",
+      "Domain",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×5 with rank 5, what is the dimension of the column space?",
+    "options": [
+      "5",
+      "7",
+      "5",
+      "2"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×4 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "m (number of rows)",
+      "n (number of columns)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "parallel",
+      "equal",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×5 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "m (number of rows)",
+      "rank",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Kernel",
+      "Range of A",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×5 with rank 5, what is the dimension of the column space?",
+    "options": [
+      "5",
+      "6",
+      "5",
+      "1"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "orthogonal",
+      "parallel",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×5 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "5",
+      "5",
+      "1"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Range of A",
+      "Null space",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×6 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "6",
+      "6",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×6 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "orthogonal",
+      "equal",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Range of A",
+      "Kernel",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "equal",
+      "similar",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "parallel",
+      "similar",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×7 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "orthogonal",
+      "parallel",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×4 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "4",
+      "4",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Domain",
+      "Null space",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "3",
+      "7",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×6 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A\\)",
+      "\\(A^{-1}\\)",
+      "\\(A^T\\)",
+      "\\(I\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A^T\\)",
+      "\\(A\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×7 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×4 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "similar",
+      "orthogonal",
+      "parallel",
+      "equal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "4",
+      "7",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "equal",
+      "parallel",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "3",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×7 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "m (number of rows)",
+      "rank",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^{-1}\\)",
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^T\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "0",
+      "rank",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^{-1}\\)",
+      "\\(A^T\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×7 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "6",
+      "3",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×4 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "4",
+      "4",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(I\\)",
+      "\\(A\\)",
+      "\\(A^T\\)",
+      "\\(A^{-1}\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×6 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "6",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 7×7 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "orthogonal",
+      "similar",
+      "equal",
+      "parallel"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Range of A",
+      "Domain",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×6 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "orthogonal",
+      "parallel",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Null space",
+      "Kernel",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 6×6 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "parallel",
+      "equal",
+      "similar",
+      "orthogonal"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×4 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Domain",
+      "Range of A",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 4×5 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "1"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×3 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Range of A",
+      "Kernel",
+      "Domain",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row space equals column space of:",
+    "options": [
+      "\\(A^T\\)",
+      "\\(I\\)",
+      "\\(A^{-1}\\)",
+      "\\(A\\)"
+    ],
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×4 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Range of A",
+      "Kernel",
+      "Domain"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "0",
+      "rank",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 3×3 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "3",
+      "3",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "0",
+      "rank",
+      "m (number of rows)",
+      "n (number of columns)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 7×5 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "7",
+      "5",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "0",
+      "m (number of rows)",
+      "rank"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×5 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×6 with rank 5, what is the dimension of the column space?",
+    "options": null,
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "rank",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "m (number of rows)",
+      "n (number of columns)",
+      "0",
+      "rank"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×7 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Kernel",
+      "Domain",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Null space",
+      "Kernel",
+      "Domain",
+      "Range of A"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 5×4 with rank 4, what is the dimension of the column space?",
+    "options": null,
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×7 with rank 2, what is the dimension of the column space?",
+    "options": [
+      "2",
+      "5",
+      "7",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "0",
+      "n (number of columns)",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is _____ to the row space",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 6×4 with rank 4, what is the dimension of the column space?",
+    "options": [
+      "4",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "dim(col space) + dim(null space) =",
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Kernel",
+      "Range of A",
+      "Domain",
+      "Null space"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is 5×6 with rank 3, what is the dimension of the column space?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of the column space equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×6 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Column space is also called:",
+    "options": [
+      "Domain",
+      "Range of A",
+      "Null space",
+      "Kernel"
+    ],
+    "answer": "Range of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Column space is also called:",
+    "answer": "Range of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is m×n with rank r, what is dim(col space)?",
+    "options": [
+      "r",
+      "m",
+      "n",
+      "m+n"
+    ],
+    "answer": "r"
+  },
+  {
+    "type": "MCQ",
+    "question": "The column space of A is spanned by:",
+    "options": [
+      "Columns of A",
+      "Rows of A",
+      "Diagonals of A",
+      "Eigenvalues"
+    ],
+    "answer": "Columns of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "n (number of columns)",
+      "rank",
+      "0",
+      "m (number of rows)"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 3×3 with rank 2, what is the dimension of the column space?",
+    "options": null,
+    "answer": "2"
+  },
+  {
+    "type": "MCQ",
+    "question": "dim(col space) + dim(null space) =",
+    "options": [
+      "rank",
+      "n (number of columns)",
+      "m (number of rows)",
+      "0"
+    ],
+    "answer": "n (number of columns)"
+  },
+  {
+    "type": "FIB",
+    "question": "The row space and column space have the same _____.",
+    "answer": "dimension"
+  },
+  {
+    "type": "MCQ",
+    "question": "The row space of A is spanned by:",
+    "options": [
+      "Rows of A",
+      "Columns of A",
+      "Eigenvectors",
+      "Null space"
+    ],
+    "answer": "Rows of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row space equals column space of:",
+    "answer": "\\(A^T\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is _____ to the row space",
+    "options": [
+      "equal",
+      "parallel",
+      "orthogonal",
+      "similar"
+    ],
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is 4×3 with rank 3, what is the dimension of the column space?",
+    "options": null,
+    "answer": "3"
+  }
+]

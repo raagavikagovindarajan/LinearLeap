@@ -1,0 +1,8002 @@
+[
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Column rank",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "False",
+      "Sometimes",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Column rank",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = 1",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Trace",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "A is singular",
+      "A is invertible",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = 0",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "min(m, n)",
+      "max(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "False",
+      "Never",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = 1",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "True",
+      "False",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "m + n",
+      "max(m, n)",
+      "min(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "1",
+      "n-1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of zeros",
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 0",
+      "rank = min(m, n)",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Column rank",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "min(m, n)",
+      "m + n",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "Undefined",
+      "n",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Trace",
+      "Column rank",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is singular",
+      "A is invertible",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A = I",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Ones",
+      "Columns",
+      "Zeros",
+      "Pivots"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Column rank",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "A is singular",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "min(m, n)",
+      "max(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "Never",
+      "False",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n-1",
+      "0",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "m + n",
+      "min(m, n)",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "mn",
+      "min(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "Undefined",
+      "0",
+      "n",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Column rank",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "Determinant",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Trace",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 0",
+      "rank = min(m, n)",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "A is singular",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "det(A) ≠ 0",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Column rank",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is singular",
+      "A = I",
+      "A is invertible",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n (size of A)",
+      "0",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Ones",
+      "Columns",
+      "Zeros",
+      "Pivots"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "max(m, n)",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of zeros",
+      "Trace",
+      "Determinant",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "n",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Number of rows",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "det(A) ≠ 0",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Number of zeros",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A is singular",
+      "det(A) ≠ 0",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of linearly independent rows/columns",
+      "Number of zeros",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "m + n",
+      "min(m, n)",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Trace",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "Undefined",
+      "0",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Ones",
+      "Zeros",
+      "Pivots"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Trace",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n-1",
+      "n (size of A)",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "0",
+      "1",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Determinant",
+      "Number of rows",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "0",
+      "n",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "A is singular",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "n",
+      "0",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Number of rows",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "Undefined",
+      "0",
+      "n",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "m + n",
+      "mn",
+      "min(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "1",
+      "0",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "0",
+      "1",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "min(m, n)",
+      "m + n",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "0",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A = I",
+      "A is singular",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "0",
+      "1",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "0",
+      "1",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "n (size of A)",
+      "n-1",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Pivots",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Column rank",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A = I",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Number of zeros",
+      "Trace",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "0",
+      "n (size of A)",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = max(m, n)",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "n-1",
+      "0",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "min(m, n)",
+      "max(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Columns",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Determinant",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 1",
+      "rank = 0",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Columns",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "A is singular",
+      "A is invertible",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "0",
+      "n-1",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Columns",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Determinant",
+      "Trace",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Columns",
+      "Ones",
+      "Pivots"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of linearly independent rows/columns",
+      "Trace",
+      "Number of zeros",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "Undefined",
+      "1",
+      "0",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "0",
+      "n-1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "Never",
+      "True",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Determinant",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = 1",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Columns",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "0",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A is singular",
+      "A = I",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Columns",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 1",
+      "rank = 0",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Determinant",
+      "Number of rows",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "A is singular",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "False",
+      "Never",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Columns",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "0",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "n",
+      "0",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "0",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "n-1",
+      "n (size of A)",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "Sometimes",
+      "Never",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Number of rows",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A = I",
+      "A is singular",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "Undefined",
+      "n",
+      "0",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "n (size of A)",
+      "1",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Number of rows",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "min(m, n)",
+      "max(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Number of zeros",
+      "Determinant",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "n-1",
+      "1",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Trace",
+      "Number of rows",
+      "Determinant",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "False",
+      "Never",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "det(A) ≠ 0",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of rows",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Number of rows",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of zeros",
+      "Trace",
+      "Determinant",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A is singular",
+      "det(A) ≠ 0",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Trace",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "Undefined",
+      "1",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "m + n",
+      "max(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Columns",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Columns",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = 0",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "False",
+      "Never",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "Undefined",
+      "n",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "mn",
+      "m + n",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is singular",
+      "A = I",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Zeros",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Number of zeros",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "Undefined",
+      "n",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "False",
+      "Sometimes",
+      "Never"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Number of rows",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Trace",
+      "Determinant",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "m + n",
+      "mn",
+      "min(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "1",
+      "n",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Columns",
+      "Ones",
+      "Pivots"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "False",
+      "Sometimes",
+      "Never",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "False",
+      "True",
+      "Never"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "0",
+      "n",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "True",
+      "Sometimes",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Trace",
+      "Column rank",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A = I",
+      "det(A) ≠ 0",
+      "A is singular"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "A = I",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Number of zeros",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of zeros",
+      "Trace",
+      "Determinant",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of zeros",
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Ones",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "mn",
+      "m + n",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is singular",
+      "A is invertible",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Column rank",
+      "Number of rows",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Number of zeros",
+      "Trace",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "0",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Determinant",
+      "Number of rows",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "False",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Determinant",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "False",
+      "Never",
+      "True",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "1",
+      "n",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "True",
+      "False",
+      "Never"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "m + n",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Pivots",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "m + n",
+      "max(m, n)",
+      "min(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "max(m, n)",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Trace",
+      "Column rank",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Number of rows",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "0",
+      "n-1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Trace",
+      "Column rank",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Number of zeros",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = max(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Number of rows",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Number of linearly independent rows/columns",
+      "Trace",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "A is invertible",
+      "A is singular",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "m + n",
+      "mn",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "True",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "0",
+      "n",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n-1",
+      "0",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = max(m, n)",
+      "rank = 1",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of zeros",
+      "Trace",
+      "Determinant",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "False",
+      "Never",
+      "True",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Number of zeros",
+      "Number of linearly independent rows/columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "0",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is singular",
+      "det(A) ≠ 0",
+      "A = I",
+      "A is invertible"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Column rank",
+      "Trace",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "1",
+      "Undefined",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n (size of A)",
+      "0",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "1",
+      "Undefined",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Number of zeros",
+      "Number of linearly independent rows/columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "n-1",
+      "0",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "False",
+      "True",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Columns",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "n-1",
+      "1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "n (size of A)",
+      "0",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Column rank",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Number of zeros",
+      "Determinant",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "1",
+      "n (size of A)",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of zeros",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "1",
+      "n (size of A)",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Number of linearly independent rows/columns",
+      "Trace",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Columns",
+      "Ones",
+      "Pivots"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "n",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Ones",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "0",
+      "n",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "n",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = 0",
+      "rank = min(m, n)",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Pivots",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "False",
+      "Never",
+      "True",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 0",
+      "rank = 1",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "False",
+      "Never",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Trace",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "mn",
+      "min(m, n)",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "m + n",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Columns",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "Undefined",
+      "0",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "0",
+      "n-1",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Ones",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "Never",
+      "Sometimes",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "n-1",
+      "1",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n (size of A)",
+      "0",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Columns",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "min(m, n)",
+      "max(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "0",
+      "n (size of A)",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Number of zeros",
+      "Number of linearly independent rows/columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "Undefined",
+      "1",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "0",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "Never",
+      "Sometimes",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Trace",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = max(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of zeros",
+      "Number of linearly independent rows/columns",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of linearly independent rows/columns",
+      "Trace",
+      "Determinant",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Columns",
+      "Pivots"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Number of rows",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "0",
+      "n (size of A)",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "m + n",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "Undefined",
+      "n",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Pivots",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "max(m, n)",
+      "min(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "A is invertible",
+      "det(A) ≠ 0",
+      "A is singular"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Pivots",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Column rank",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Column rank",
+      "Trace",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Ones",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "A is invertible",
+      "det(A) ≠ 0",
+      "A is singular"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "1",
+      "0",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "m + n",
+      "min(m, n)",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is singular",
+      "A is invertible",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "mn",
+      "max(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Number of rows",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "False",
+      "Never",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "mn",
+      "max(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "min(m, n)",
+      "m + n",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "1",
+      "Undefined",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "max(m, n)",
+      "mn",
+      "min(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "Sometimes",
+      "Never",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "n-1",
+      "0",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "Undefined",
+      "0",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "0",
+      "n-1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Zeros",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "max(m, n)",
+      "mn",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "0",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Number of linearly independent rows/columns",
+      "Number of zeros",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is singular",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Columns",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n (size of A)",
+      "0",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "0",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "min(m, n)",
+      "max(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "A is singular",
+      "A is invertible",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "True",
+      "Never",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Column rank",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Number of rows",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "True",
+      "False",
+      "Never"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of zeros",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is singular",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is singular",
+      "A is invertible",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "m + n",
+      "max(m, n)",
+      "min(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of zeros",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = max(m, n)",
+      "rank = 1",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "0",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "det(A) ≠ 0",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Column rank",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Ones",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Number of rows",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "min(m, n)",
+      "m + n",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "0",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "0",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "mn",
+      "m + n",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Column rank",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of zeros",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Pivots",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "max(m, n)",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "0",
+      "n-1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "0",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "False",
+      "Never",
+      "True",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "1",
+      "n",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Column rank",
+      "Trace",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Pivots",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of zeros",
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "0",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "n (size of A)",
+      "1",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "min(m, n)",
+      "mn",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "1",
+      "n-1",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "min(m, n)",
+      "mn",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Trace",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "max(m, n)",
+      "mn",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "A is singular",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n (size of A)",
+      "n-1",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n (size of A)",
+      "1",
+      "0",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "n",
+      "Undefined",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "1",
+      "n (size of A)",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "True",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Columns",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "Never",
+      "True",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "0",
+      "1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Trace",
+      "Column rank",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "Undefined",
+      "n",
+      "1",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "0",
+      "n (size of A)",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "mn",
+      "min(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "n",
+      "1",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "mn",
+      "min(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = min(m, n)",
+      "rank = max(m, n)",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Number of zeros",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = 0",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "True",
+      "False",
+      "Never"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "Never",
+      "False",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "0",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Zeros",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Trace",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "0",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = 1",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "True",
+      "Never",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "True",
+      "Sometimes",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "False",
+      "True",
+      "Never"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Column rank",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "0",
+      "n-1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 1",
+      "rank = 0",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "True",
+      "False",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "mn",
+      "max(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "0",
+      "n (size of A)",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Column rank",
+      "Trace",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "1",
+      "n (size of A)",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = max(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "A is singular",
+      "A is invertible",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "max(m, n)",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Trace",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "A = I",
+      "A is singular"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Trace",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "n (size of A)",
+      "1",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 1",
+      "rank = 0",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Zeros",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Trace",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "Determinant",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A = I",
+      "A is singular",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of rows",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "False",
+      "Never",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "1",
+      "n-1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "A is singular",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n-1",
+      "n (size of A)",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "False",
+      "Never",
+      "Sometimes",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Column rank",
+      "Determinant",
+      "Trace",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "n-1",
+      "1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "A = I",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "Undefined",
+      "0",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Trace",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = max(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "1",
+      "0",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "0",
+      "n (size of A)",
+      "1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A is singular",
+      "det(A) ≠ 0",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Column rank",
+      "Number of rows",
+      "Trace"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "True",
+      "False",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "min(m, n)",
+      "mn",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = max(m, n)",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "Determinant",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "False",
+      "True",
+      "Never",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Trace",
+      "Number of rows",
+      "Determinant",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Pivots",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "False",
+      "True",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "A is singular",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "False",
+      "True",
+      "Sometimes"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of rows",
+      "Column rank"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "n",
+      "0",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "0",
+      "n",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "min(m, n)",
+      "mn",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Number of zeros",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 1",
+      "rank = 0",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Determinant",
+      "Number of zeros",
+      "Trace",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Number of zeros",
+      "Number of linearly independent rows/columns"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 0",
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "1",
+      "n-1",
+      "0",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Ones",
+      "Columns"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "min(m, n)",
+      "mn",
+      "m + n",
+      "max(m, n)"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Ones",
+      "Columns",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "max(m, n)",
+      "min(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "A = I",
+      "A is singular"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "Undefined",
+      "0",
+      "n",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "mn",
+      "min(m, n)",
+      "max(m, n)",
+      "m + n"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "1",
+      "n",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Trace",
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 0",
+      "rank = 1"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix is:",
+    "options": [
+      "Number of linearly independent rows/columns",
+      "Determinant",
+      "Trace",
+      "Number of zeros"
+    ],
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "Never",
+      "Sometimes",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "False",
+      "True",
+      "Never"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "Undefined",
+      "1",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "max(m, n)",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "0",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = 0",
+      "rank = min(m, n)",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A = I",
+      "A is invertible",
+      "A is singular"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Columns",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "1",
+      "Undefined",
+      "0",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A = I",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "A is singular"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "max(m, n)",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = 0",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "1",
+      "0",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "0",
+      "n (size of A)",
+      "1",
+      "n-1"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "False",
+      "Sometimes",
+      "Never"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A is singular",
+      "A = I",
+      "det(A) ≠ 0"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "det(A) ≠ 0",
+      "A = I",
+      "A is invertible",
+      "A is singular"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Column rank",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row rank equals:",
+    "options": [
+      "Trace",
+      "Column rank",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Column rank"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = 1",
+      "rank = max(m, n)",
+      "rank = min(m, n)",
+      "rank = 0"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "0",
+      "Determinant",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero matrix has rank:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "0",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "answer": "A is singular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "max(m, n)",
+      "m + n",
+      "min(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "n",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "1",
+      "n (size of A)",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = max(m, n)",
+      "rank = 0",
+      "rank = 1",
+      "rank = min(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "A = I",
+      "det(A) ≠ 0",
+      "A is singular"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "n (size of A)",
+      "1",
+      "0"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "0",
+      "Undefined",
+      "n",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "False",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Sometimes",
+      "Never",
+      "False",
+      "True"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "True",
+      "Sometimes",
+      "False",
+      "Never"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "Row rank equals:",
+    "answer": "Column rank"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "n",
+      "Undefined",
+      "0",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Full rank means:",
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Columns",
+      "Zeros",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero matrix has rank:",
+    "options": [
+      "Undefined",
+      "1",
+      "0",
+      "n"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank is the number of _____ in RREF",
+    "options": [
+      "Zeros",
+      "Columns",
+      "Ones",
+      "Pivots"
+    ],
+    "answer": "Pivots"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank is the number of _____ in RREF",
+    "answer": "Pivots"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, rank(A) =",
+    "options": [
+      "n-1",
+      "0",
+      "1",
+      "n (size of A)"
+    ],
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "0",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix is:",
+    "answer": "Number of linearly independent rows/columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "min(m, n)",
+      "max(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If rank(A) < n for n×n matrix A:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "A is singular",
+      "A = I"
+    ],
+    "answer": "A is singular"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) = rank(A^T)?",
+    "answer": " True"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) = rank(A^T)?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "True",
+      "False"
+    ],
+    "answer": " True"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + dim(null space) =",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + dim(null space) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Rank of m×n matrix is at most:",
+    "options": [
+      "m + n",
+      "min(m, n)",
+      "max(m, n)",
+      "mn"
+    ],
+    "answer": "min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, rank(A) =",
+    "answer": "n (size of A)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Full rank means:",
+    "options": [
+      "rank = min(m, n)",
+      "rank = 1",
+      "rank = 0",
+      "rank = max(m, n)"
+    ],
+    "answer": "rank = min(m, n)"
+  },
+  {
+    "type": "FIB",
+    "question": "Rank of m×n matrix is at most:",
+    "answer": "min(m, n)"
+  }
+]

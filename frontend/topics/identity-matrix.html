@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Identity Matrix - Learn</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🆔 Identity Matrix</h1>
+
+            <h2>What is an Identity Matrix?</h2>
+            <p>
+                The <strong>identity matrix</strong> is a special square matrix that acts as the "1" of matrix
+                multiplication.
+                When you multiply any matrix by the identity matrix, you get the original matrix back unchanged.
+            </p>
+
+            <div class="example-box">
+                <h4>📌 Key Property</h4>
+                <p style="text-align: center; font-size: 1.3rem; margin: 1.5rem 0;">
+                    $$AI = IA = A$$
+                </p>
+                <p>Where \(A\) is any matrix and \(I\) is the identity matrix of compatible size.</p>
+            </div>
+
+            <h2>Structure</h2>
+            <p>
+                An identity matrix has <strong>1s on the main diagonal</strong> (top-left to bottom-right)
+                and <strong>0s everywhere else</strong>:
+            </p>
+
+            <div class="example-box">
+                <h4>2×2 Identity Matrix</h4>
+                <p style="text-align: center; font-size: 1.3rem; margin: 1.5rem 0;">
+                    $$I_2 = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$$
+                </p>
+
+                <h4>3×3 Identity Matrix</h4>
+                <p style="text-align: center; font-size: 1.3rem; margin: 1.5rem 0;">
+                    $$I_3 = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}$$
+                </p>
+
+                <h4>General n×n Identity Matrix</h4>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$(I)_{ij} = \begin{cases} 1 & \text{if } i = j \\ 0 & \text{if } i \neq j \end{cases}$$
+                </p>
+            </div>
+
+            <h2>Example Verification</h2>
+            <p>Let's verify that multiplying a matrix by the identity gives us the original matrix:</p>
+
+            <div class="example-box">
+                <h4>Given Matrix</h4>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1rem 0;">
+                    $$A = \begin{bmatrix} 2 & 3 \\ 4 & 5 \end{bmatrix}$$
+                </p>
+
+                <h4>Multiply by Identity</h4>
+                <p style="text-align: center; font-size: 1.1rem; margin: 1.5rem 0;">
+                    $$AI = \begin{bmatrix} 2 & 3 \\ 4 & 5 \end{bmatrix} \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$$
+                </p>
+
+                <h4>Result</h4>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$AI = \begin{bmatrix} 2 \cdot 1 + 3 \cdot 0 & 2 \cdot 0 + 3 \cdot 1 \\ 4 \cdot 1 + 5 \cdot 0 & 4
+                    \cdot 0 + 5 \cdot 1 \end{bmatrix} = \begin{bmatrix} 2 & 3 \\ 4 & 5 \end{bmatrix} = A$$
+                </p>
+            </div>
+
+            <h2>Applications</h2>
+            <div class="example-box">
+                <p><strong>1. Matrix Equations:</strong> The identity matrix is used in solving systems of linear
+                    equations</p>
+                <p><strong>2. Matrix Inverses:</strong> \(A A^{-1} = I\) defines the inverse of matrix \(A\)</p>
+                <p><strong>3. Transformations:</strong> Represents "doing nothing" in linear transformations</p>
+                <p><strong>4. Eigenvalues:</strong> Used in the characteristic equation \(\det(A - \lambda I) = 0\)</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=identity-matrix'">📝 Take the
+                    Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

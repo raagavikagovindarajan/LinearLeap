@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eigenvalues & Eigenvectors - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">λ Eigenvalues & Eigenvectors</h1>
+
+            <h2>What are Eigenvalues and Eigenvectors?</h2>
+            <p>For a square matrix $A$, a non-zero vector $\vec{v}$ is an <strong>eigenvector</strong> if multiplying it by $A$ only scales it:</p>
+            <p style="text-align:center; font-size:1.3rem; margin:1.5rem 0;">$$A\vec{v} = \lambda\vec{v}$$</p>
+            <p>The scalar $\lambda$ is the corresponding <strong>eigenvalue</strong>.</p>
+
+            <h2>Finding Eigenvalues</h2>
+            <div class="example-box">
+                <p>Solve the <strong>characteristic equation</strong>:</p>
+                <p style="text-align:center; font-size:1.2rem; margin:1rem 0;">$$\det(A - \lambda I) = 0$$</p>
+            </div>
+
+            <h2>Applications</h2>
+            <ul style="color: var(--text-secondary); line-height: 2; margin-left: 2rem;">
+                <li><strong>PCA:</strong> Dimensionality reduction in machine learning</li>
+                <li><strong>Vibration Analysis:</strong> Natural frequencies of structures</li>
+                <li><strong>Google PageRank:</strong> Ranking web pages</li>
+            </ul>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=eigenvalues-eigenvectors'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

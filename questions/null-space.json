@@ -1,0 +1,8002 @@
+[
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Single vector",
+      "Empty set",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Empty set",
+      "Single vector",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "Ax = 0",
+      "x = 0",
+      "A = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Kernel",
+      "Image",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Codomain",
+      "Kernel",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "{0}",
+      "Undefined",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A scalar",
+      "A vector space",
+      "Empty always",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Number of rows",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Codomain",
+      "Range",
+      "Kernel",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Single vector",
+      "Basis",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Empty set",
+      "Single vector",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A scalar",
+      "A single vector",
+      "Empty always"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Codomain",
+      "Range",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Single vector",
+      "Empty set",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "R^n",
+      "Infinite",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Codomain",
+      "Kernel",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "x = 0",
+      "A = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "{0}",
+      "R^n",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Empty",
+      "{0}",
+      "Infinite",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Determinant",
+      "Nullity",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Codomain",
+      "Range",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "Ax = b",
+      "Ax = 0",
+      "A = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Codomain",
+      "Range",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Nullity",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Undefined",
+      "{0}",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "A = 0",
+      "Ax = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "A = 0",
+      "Ax = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "0",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "0",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "{0}",
+      "R^n",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "{0}",
+      "Undefined",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A single vector",
+      "A scalar",
+      "Empty always"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "{0}",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "R^n",
+      "Empty",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "R^n",
+      "Empty",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "Empty",
+      "R^n",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Number of rows",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Codomain",
+      "Range",
+      "Kernel",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A single vector",
+      "A scalar",
+      "A vector space",
+      "Empty always"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Determinant",
+      "Nullity",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Range",
+      "Image",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "Ax = b",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Infinite",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "0",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Basis",
+      "Single vector",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Infinite",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "x = 0",
+      "A = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Linearly independent",
+      "Parallel",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Empty set",
+      "Single vector",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A vector space",
+      "A single vector",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "A = 0",
+      "Ax = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "Ax = b",
+      "A = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Basis",
+      "Single vector",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A scalar",
+      "Empty always",
+      "A vector space",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Image",
+      "Range",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Undefined",
+      "Empty",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A single vector",
+      "Empty always",
+      "A scalar",
+      "A vector space"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "{0}",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Empty set",
+      "Basis",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Subspace",
+      "Basis",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "Ax = 0",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "0",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "Empty",
+      "{0}",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Basis",
+      "Empty set",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Basis",
+      "Single vector",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Image",
+      "Kernel",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Codomain",
+      "Image",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A vector space",
+      "A single vector",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Single vector",
+      "Subspace",
+      "Empty set",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A scalar",
+      "A vector space",
+      "Empty always",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Empty set",
+      "Single vector",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "Determinant",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "A = 0",
+      "x = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Range",
+      "Codomain",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Empty set",
+      "Single vector",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "{0}",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A single vector",
+      "Empty always",
+      "A vector space",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "{0}",
+      "Infinite",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "R^n",
+      "{0}",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "A = 0",
+      "Ax = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Codomain",
+      "Image",
+      "Kernel",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Infinite",
+      "R^n",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A scalar",
+      "A single vector",
+      "Empty always"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "Ax = b",
+      "Ax = 0",
+      "A = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "Empty",
+      "Infinite",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Determinant",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of columns",
+      "0",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "R^n",
+      "Empty",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Kernel",
+      "Image",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Trace",
+      "Determinant",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "Infinite",
+      "Empty",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Empty",
+      "{0}",
+      "R^n",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "Ax = b",
+      "Ax = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Subspace",
+      "Empty set",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Subspace",
+      "Single vector",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Kernel",
+      "Image",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Image",
+      "Codomain",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Nullity",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A single vector",
+      "Empty always",
+      "A vector space",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Empty",
+      "R^n",
+      "Infinite",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Codomain",
+      "Kernel",
+      "Image",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Determinant",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "Empty always",
+      "A single vector",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Number of rows",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "0",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Image",
+      "Range",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "A = 0",
+      "x = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "A = 0",
+      "Ax = b",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Subspace",
+      "Basis",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "{0}",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "R^n",
+      "Empty",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Kernel",
+      "Codomain",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Nullity",
+      "Rank",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "Undefined",
+      "R^n",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A scalar",
+      "A single vector",
+      "A vector space",
+      "Empty always"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "Infinite",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "R^n",
+      "Empty",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A single vector",
+      "Empty always",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Subspace",
+      "Single vector",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A single vector",
+      "Empty always",
+      "A scalar",
+      "A vector space"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "Ax = 0",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "Undefined",
+      "R^n",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Image",
+      "Kernel",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Codomain",
+      "Range",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Zero",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "Ax = 0",
+      "x = 0",
+      "A = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "Empty always",
+      "A scalar",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "A = 0",
+      "Ax = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Basis",
+      "Single vector",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Nullity",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "x = 0",
+      "Ax = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of columns",
+      "0",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "Ax = 0",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "x = 0",
+      "A = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "Infinite",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Empty set",
+      "Single vector",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "{0}",
+      "R^n",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Rank",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly independent",
+      "Zero",
+      "Parallel",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Undefined",
+      "{0}",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "{0}",
+      "Empty",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "Empty",
+      "R^n",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "{0}",
+      "R^n",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "Empty always",
+      "A single vector",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "{0}",
+      "R^n",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Range",
+      "Image",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "Ax = b",
+      "Ax = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Nullity",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Empty",
+      "{0}",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Empty",
+      "Undefined",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A single vector",
+      "A vector space",
+      "Empty always",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A scalar",
+      "A vector space",
+      "A single vector",
+      "Empty always"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Basis",
+      "Single vector",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Empty set",
+      "Subspace",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A scalar",
+      "A vector space",
+      "Empty always",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Empty",
+      "R^n",
+      "Infinite",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Single vector",
+      "Subspace",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Single vector",
+      "Basis",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Kernel",
+      "Codomain",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "Undefined",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "Empty",
+      "{0}",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Single vector",
+      "Basis",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Single vector",
+      "Subspace",
+      "Empty set",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Subspace",
+      "Single vector",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Rank",
+      "Nullity",
+      "Determinant"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "Ax = 0",
+      "Ax = b",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Basis",
+      "Single vector",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Nullity",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "Infinite",
+      "{0}",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "Empty",
+      "R^n",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Basis",
+      "Single vector",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Range",
+      "Codomain",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Nullity",
+      "Rank",
+      "Determinant"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "x = 0",
+      "Ax = b",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Basis",
+      "Single vector",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "Ax = b",
+      "A = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Number of rows",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Codomain",
+      "Image",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A scalar",
+      "Empty always",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of columns",
+      "0",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "x = 0",
+      "A = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Zero",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Rank",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Undefined",
+      "Empty",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Codomain",
+      "Range",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Empty",
+      "Undefined",
+      "R^n",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Linearly independent",
+      "Parallel",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "x = 0",
+      "A = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Basis",
+      "Subspace",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Nullity",
+      "Trace",
+      "Rank",
+      "Determinant"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "{0}",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "Ax = b",
+      "Ax = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Codomain",
+      "Image",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A single vector",
+      "Empty always",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Empty",
+      "Undefined",
+      "{0}",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Nullity",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Codomain",
+      "Image",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Nullity",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Nullity",
+      "Rank",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "{0}",
+      "R^n",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Empty",
+      "R^n",
+      "{0}",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Rank",
+      "Determinant",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A single vector",
+      "A scalar",
+      "Empty always",
+      "A vector space"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Rank",
+      "Nullity",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A scalar",
+      "Empty always",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "Empty",
+      "R^n",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Determinant",
+      "Nullity",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Kernel",
+      "Codomain",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Rank",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Single vector",
+      "Subspace",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A scalar",
+      "A single vector",
+      "A vector space",
+      "Empty always"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Trace",
+      "Determinant",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "R^n",
+      "Undefined",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Codomain",
+      "Range",
+      "Image",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Range",
+      "Image",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Rank",
+      "Trace",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Parallel",
+      "Zero",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Rank",
+      "Trace",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "{0}",
+      "Empty",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Single vector",
+      "Basis",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Nullity",
+      "Rank",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "x = 0",
+      "Ax = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "R^n",
+      "{0}",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "Ax = 0",
+      "x = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "Empty",
+      "R^n",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Empty set",
+      "Single vector",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Single vector",
+      "Basis",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Zero",
+      "Parallel",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Rank",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Codomain",
+      "Range",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Empty",
+      "Undefined",
+      "{0}",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Empty",
+      "{0}",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Trace",
+      "Determinant",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "Empty always",
+      "A single vector",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Subspace",
+      "Empty set",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Nullity",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Empty set",
+      "Basis",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Rank",
+      "Nullity",
+      "Determinant"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "Undefined",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Image",
+      "Codomain",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "x = 0",
+      "Ax = b",
+      "A = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Number of columns",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "A = 0",
+      "x = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A scalar",
+      "A single vector",
+      "A vector space"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "R^n",
+      "Infinite",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "Ax = b",
+      "x = 0",
+      "A = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Empty",
+      "{0}",
+      "Undefined",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "{0}",
+      "Empty",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Range",
+      "Kernel",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Empty",
+      "Undefined",
+      "R^n",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "x = 0",
+      "Ax = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "x = 0",
+      "Ax = 0",
+      "A = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Subspace",
+      "Single vector",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "{0}",
+      "Undefined",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Codomain",
+      "Kernel",
+      "Range",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A vector space",
+      "A single vector",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A scalar",
+      "A vector space",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "A = 0",
+      "Ax = b",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "0",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A scalar",
+      "A single vector",
+      "A vector space"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Image",
+      "Kernel",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Subspace",
+      "Basis",
+      "Empty set",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A vector space",
+      "A single vector",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "Ax = b",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "R^n",
+      "Empty",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "{0}",
+      "Empty",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Empty set",
+      "Subspace",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "Ax = 0",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly independent",
+      "Zero",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Determinant",
+      "Nullity",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Nullity",
+      "Determinant",
+      "Rank",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Empty",
+      "{0}",
+      "Undefined"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Nullity",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "Infinite",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Empty",
+      "R^n",
+      "Undefined",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Rank",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "Ax = b",
+      "x = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "Ax = 0",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Kernel",
+      "Range",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Nullity",
+      "Determinant",
+      "Trace",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "Empty",
+      "R^n",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A single vector",
+      "Empty always",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "Ax = 0",
+      "Ax = b",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Determinant",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Nullity",
+      "Determinant",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Empty",
+      "R^n",
+      "Undefined",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A scalar",
+      "Empty always",
+      "A vector space",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Undefined",
+      "{0}",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "0",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "Ax = 0",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A single vector",
+      "A vector space",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Empty",
+      "{0}",
+      "Infinite",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Rank",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A single vector",
+      "A scalar",
+      "A vector space"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "R^n",
+      "Infinite",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Single vector",
+      "Basis",
+      "Subspace",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Rank",
+      "Determinant",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A scalar",
+      "Empty always",
+      "A single vector",
+      "A vector space"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Trace",
+      "Determinant",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "x = 0",
+      "Ax = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "Infinite",
+      "{0}",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Codomain",
+      "Image",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "Empty always",
+      "A scalar",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A single vector",
+      "Empty always",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Codomain",
+      "Kernel",
+      "Image",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "Empty always",
+      "A single vector",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "Ax = b",
+      "A = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Empty set",
+      "Single vector",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "0",
+      "Determinant",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Kernel",
+      "Codomain",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Single vector",
+      "Basis",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Kernel",
+      "Range",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A single vector",
+      "A scalar",
+      "Empty always"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A single vector",
+      "Empty always",
+      "A vector space",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Nullity",
+      "Determinant",
+      "Trace",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "R^n",
+      "Empty",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Nullity",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "R^n",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Codomain",
+      "Kernel",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "Determinant",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of columns",
+      "0",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Rank",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Codomain",
+      "Kernel",
+      "Range"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Codomain",
+      "Kernel",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "R^n",
+      "Empty",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Undefined",
+      "Empty",
+      "{0}",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "Empty",
+      "R^n",
+      "Undefined",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "A single vector",
+      "A scalar",
+      "Empty always"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Nullity",
+      "Determinant",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Single vector",
+      "Subspace",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "{0}",
+      "Empty",
+      "Undefined",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Basis",
+      "Single vector",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "x = 0",
+      "A = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Empty",
+      "Infinite",
+      "{0}",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "Empty",
+      "R^n",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A vector space",
+      "A scalar",
+      "A single vector"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Range",
+      "Image",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A single vector",
+      "Empty always",
+      "A vector space",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly independent",
+      "Parallel",
+      "Zero",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If A is invertible, null space is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Codomain",
+      "Range",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "0",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "Infinite",
+      "{0}",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "Infinite",
+      "Empty",
+      "R^n"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "Empty always",
+      "A single vector",
+      "A scalar",
+      "A vector space"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "{0}",
+      "R^n",
+      "Empty",
+      "Infinite"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "0",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "Empty",
+      "Infinite",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Rank",
+      "Nullity",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "Ax = b",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Range",
+      "Image",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "A = 0",
+      "Ax = 0",
+      "x = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Zero",
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Kernel",
+      "Range",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "Ax = 0",
+      "x = 0",
+      "A = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If A is invertible, null space is:",
+    "options": [
+      "R^n",
+      "Empty",
+      "Infinite",
+      "{0}"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Codomain",
+      "Range",
+      "Image",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Nullity",
+      "Trace",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "If null space = {0}, columns are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "x = 0",
+      "A = 0",
+      "Ax = 0",
+      "Ax = b"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Nullity",
+      "Trace",
+      "Determinant",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Kernel",
+      "Codomain",
+      "Range",
+      "Image"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "To find null space, solve:",
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Single vector",
+      "Empty set",
+      "Subspace",
+      "Basis"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Basis",
+      "Empty set",
+      "Single vector",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is always a:",
+    "answer": "Subspace"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Determinant",
+      "0",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Trace",
+      "Nullity",
+      "Determinant",
+      "Rank"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Single vector",
+      "Basis",
+      "Subspace"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space of A contains all vectors x where:",
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space is:",
+    "options": [
+      "A vector space",
+      "Empty always",
+      "A single vector",
+      "A scalar"
+    ],
+    "answer": "A vector space"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of columns",
+      "0",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "0",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Dimension of null space is called:",
+    "answer": "Nullity"
+  },
+  {
+    "type": "MCQ",
+    "question": "rank(A) + nullity(A) =",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Number of columns",
+      "0"
+    ],
+    "answer": "Number of columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Single vector",
+      "Basis",
+      "Subspace",
+      "Empty set"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = b",
+      "x = 0",
+      "A = 0",
+      "Ax = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "rank(A) + nullity(A) =",
+    "answer": "Number of columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "To find null space, solve:",
+    "options": [
+      "Ax = 0",
+      "Ax = b",
+      "A = 0",
+      "x = 0"
+    ],
+    "answer": "Ax = 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is always a:",
+    "options": [
+      "Empty set",
+      "Basis",
+      "Subspace",
+      "Single vector"
+    ],
+    "answer": "Subspace"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Range",
+      "Kernel",
+      "Image",
+      "Codomain"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Dimension of null space is called:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Rank",
+      "Nullity"
+    ],
+    "answer": "Nullity"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space of A contains all vectors x where:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(Ax = x\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = A\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(Ax = I\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(Ax = 0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The null space is also called:",
+    "options": [
+      "Image",
+      "Range",
+      "Codomain",
+      "Kernel"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "type": "FIB",
+    "question": "The null space is also called:",
+    "answer": "Kernel"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "Undefined",
+      "{0}",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space of identity matrix is:",
+    "answer": "{0}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Null space of identity matrix is:",
+    "options": [
+      "R^n",
+      "{0}",
+      "Undefined",
+      "Empty"
+    ],
+    "answer": "{0}"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If null space = {0}, columns are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Null space is:",
+    "answer": "A vector space"
+  }
+]

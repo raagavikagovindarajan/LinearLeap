@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vector Magnitude - Learn</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">📏 Vector Magnitude</h1>
+
+            <h2>What is Vector Magnitude?</h2>
+            <p>
+                The <strong>magnitude</strong> (or <strong>length</strong>) of a vector is the distance from the
+                origin to the point represented by the vector. It's always a non-negative number.
+            </p>
+
+            <h2>Formula</h2>
+            <p>The magnitude is calculated using the Pythagorean theorem:</p>
+            <p style="text-align: center; font-size: 1.3rem; margin: 2rem 0;">
+                $$|\vec{v}| = \sqrt{v_1^2 + v_2^2 + \cdots + v_n^2}$$
+            </p>
+
+            <div class="example-box">
+                <h4>2D Example</h4>
+                <p>Find the magnitude of \(\vec{v} = (3, 4)\):</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$|\vec{v}| = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$$
+                </p>
+
+                <h4>3D Example</h4>
+                <p>Find the magnitude of \(\vec{u} = (1, 2, 2)\):</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$|\vec{u}| = \sqrt{1^2 + 2^2 + 2^2} = \sqrt{1 + 4 + 4} = \sqrt{9} = 3$$
+                </p>
+
+                <h4>Another Example</h4>
+                <p>Find the magnitude of \(\vec{w} = (2, -3, 6)\):</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$|\vec{w}| = \sqrt{2^2 + (-3)^2 + 6^2} = \sqrt{4 + 9 + 36} = \sqrt{49} = 7$$
+                </p>
+            </div>
+
+            <h2>Unit Vectors</h2>
+            <p>
+                A <strong>unit vector</strong> is a vector with magnitude 1. Any vector can be converted to a unit
+                vector
+                by dividing by its magnitude:
+            </p>
+            <p style="text-align: center; font-size: 1.3rem; margin: 2rem 0;">
+                $$\hat{v} = \frac{\vec{v}}{|\vec{v}|}$$
+            </p>
+
+            <div class="example-box">
+                <h4>Creating a Unit Vector</h4>
+                <p>Given \(\vec{v} = (3, 4)\) with magnitude 5:</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$\hat{v} = \frac{(3, 4)}{5} = \left(\frac{3}{5}, \frac{4}{5}\right) = (0.6, 0.8)$$
+                </p>
+                <p>Verify: \(|\hat{v}| = \sqrt{0.6^2 + 0.8^2} = \sqrt{0.36 + 0.64} = \sqrt{1} = 1\) ✓</p>
+            </div>
+
+            <h2>Properties</h2>
+            <div class="example-box">
+                <p><strong>1. Non-negative:</strong> \(|\vec{v}| \geq 0\), and \(|\vec{v}| = 0\) only if \(\vec{v} =
+                    \vec{0}\)</p>
+                <p><strong>2. Scalar multiplication:</strong> \(|c\vec{v}| = |c| \cdot |\vec{v}|\)</p>
+                <p><strong>3. Triangle inequality:</strong> \(|\vec{u} + \vec{v}| \leq |\vec{u}| + |\vec{v}|\)</p>
+                <p><strong>4. Dot product relation:</strong> \(|\vec{v}|^2 = \vec{v} \cdot \vec{v}\)</p>
+            </div>
+
+            <h2>Applications</h2>
+            <ul style="color: var(--text-secondary); line-height: 2; margin-left: 2rem;">
+                <li><strong>Distance:</strong> Finding distance between two points</li>
+                <li><strong>Normalization:</strong> Creating unit vectors for directions</li>
+                <li><strong>Physics:</strong> Calculating speed from velocity vector</li>
+                <li><strong>Computer Graphics:</strong> Normalizing normal vectors for lighting</li>
+            </ul>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=vector-magnitude'">📝 Take the
+                    Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

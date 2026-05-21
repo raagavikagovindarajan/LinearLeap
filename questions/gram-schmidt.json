@@ -1,0 +1,8098 @@
+[
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Linearly dependent set",
+      "Orthonormal set",
+      "Parallel vectors",
+      "Zero vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Parallel vectors",
+      "Orthonormal set",
+      "Linearly dependent set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Parallel vectors",
+      "Linearly dependent set",
+      "Orthonormal set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "LU decomposition",
+      "Matrix addition",
+      "Cross products"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Orthonormal set",
+      "Linearly dependent set",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "LU decomposition",
+      "QR decomposition",
+      "Cross products",
+      "Matrix addition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "Matrix addition",
+      "Cross products",
+      "QR decomposition",
+      "LU decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Zero vectors",
+      "Orthogonal vectors",
+      "Any vectors",
+      "Linearly independent vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "1",
+      "0",
+      "Undefined",
+      "-1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Orthogonal vectors",
+      "Linearly independent vectors",
+      "Zero vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Linearly independent vectors",
+      "Orthogonal vectors",
+      "Any vectors",
+      "Zero vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "LU decomposition",
+      "QR decomposition",
+      "Cross products",
+      "Matrix addition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Linearly independent vectors",
+      "Orthogonal vectors",
+      "Zero vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Any vectors",
+      "Orthogonal vectors",
+      "Zero vectors",
+      "Linearly independent vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "0",
+      "Undefined",
+      "1",
+      "-1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Linearly dependent set",
+      "Zero vectors",
+      "Orthonormal set",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Any vectors",
+      "Zero vectors",
+      "Linearly independent vectors",
+      "Orthogonal vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Zero vectors",
+      "Linearly independent vectors",
+      "Orthogonal vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "LU decomposition",
+      "Cross products",
+      "Matrix addition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Linearly dependent set",
+      "Orthonormal set",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Orthogonal vectors",
+      "Any vectors",
+      "Zero vectors",
+      "Linearly independent vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Orthonormal set",
+      "Linearly dependent set",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Linearly independent vectors",
+      "Zero vectors",
+      "Orthogonal vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Linearly independent vectors",
+      "Zero vectors",
+      "Orthogonal vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "Undefined",
+      "1",
+      "0",
+      "-1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "0",
+      "Undefined",
+      "-1",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Orthonormal set",
+      "Linearly dependent set",
+      "Zero vectors",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Linearly independent vectors",
+      "Orthogonal vectors",
+      "Zero vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Linearly dependent set",
+      "Parallel vectors",
+      "Orthonormal set",
+      "Zero vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Orthogonal vectors",
+      "Linearly independent vectors",
+      "Any vectors",
+      "Zero vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "Cross products",
+      "Matrix addition",
+      "LU decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Zero vectors",
+      "Linearly independent vectors",
+      "Orthogonal vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "0",
+      "Undefined",
+      "-1",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Zero vectors",
+      "Linearly independent vectors",
+      "Orthogonal vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "Undefined",
+      "-1",
+      "0",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Parallel vectors",
+      "Zero vectors",
+      "Linearly dependent set",
+      "Orthonormal set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Linearly dependent set",
+      "Zero vectors",
+      "Parallel vectors",
+      "Orthonormal set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Zero vectors",
+      "Any vectors",
+      "Linearly independent vectors",
+      "Orthogonal vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "-1",
+      "Undefined",
+      "1",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Parallel vectors",
+      "Linearly dependent set",
+      "Zero vectors",
+      "Orthonormal set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Linearly dependent set",
+      "Orthonormal set",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "Undefined",
+      "0",
+      "1",
+      "-1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Linearly dependent set",
+      "Parallel vectors",
+      "Orthonormal set",
+      "Zero vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Linearly independent vectors",
+      "Zero vectors",
+      "Any vectors",
+      "Orthogonal vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "-1",
+      "Undefined",
+      "1",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Orthonormal set",
+      "Parallel vectors",
+      "Linearly dependent set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "-1",
+      "0",
+      "1",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Linearly independent vectors",
+      "Any vectors",
+      "Zero vectors",
+      "Orthogonal vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "Undefined",
+      "1",
+      "0",
+      "-1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Linearly dependent set",
+      "Orthonormal set",
+      "Zero vectors",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "LU decomposition",
+      "Cross products",
+      "QR decomposition",
+      "Matrix addition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Linearly dependent set",
+      "Parallel vectors",
+      "Orthonormal set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "Matrix addition",
+      "LU decomposition",
+      "Cross products",
+      "QR decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Linearly independent vectors",
+      "Orthogonal vectors",
+      "Any vectors",
+      "Zero vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "Cross products",
+      "Matrix addition",
+      "LU decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Parallel vectors",
+      "Orthonormal set",
+      "Linearly dependent set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "LU decomposition",
+      "QR decomposition",
+      "Matrix addition",
+      "Cross products"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Linearly dependent set",
+      "Zero vectors",
+      "Parallel vectors",
+      "Orthonormal set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "Undefined",
+      "1",
+      "0",
+      "-1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Parallel vectors",
+      "Zero vectors",
+      "Orthonormal set",
+      "Linearly dependent set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "LU decomposition",
+      "QR decomposition",
+      "Cross products",
+      "Matrix addition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "Matrix addition",
+      "LU decomposition",
+      "Cross products"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "Matrix addition",
+      "Cross products",
+      "LU decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Linearly dependent set",
+      "Parallel vectors",
+      "Orthonormal set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "Matrix addition",
+      "QR decomposition",
+      "Cross products",
+      "LU decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "Cross products",
+      "LU decomposition",
+      "Matrix addition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Zero vectors",
+      "Any vectors",
+      "Orthogonal vectors",
+      "Linearly independent vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Orthonormal set",
+      "Zero vectors",
+      "Parallel vectors",
+      "Linearly dependent set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Linearly dependent set",
+      "Zero vectors",
+      "Orthonormal set",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Orthogonal vectors",
+      "Linearly independent vectors",
+      "Zero vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "Cross products",
+      "Matrix addition",
+      "LU decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Orthonormal set",
+      "Linearly dependent set",
+      "Zero vectors",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Zero vectors",
+      "Any vectors",
+      "Linearly independent vectors",
+      "Orthogonal vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "-1",
+      "1",
+      "0",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "-1",
+      "0",
+      "1",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Orthonormal set",
+      "Linearly dependent set",
+      "Parallel vectors",
+      "Zero vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "LU decomposition",
+      "Cross products",
+      "Matrix addition",
+      "QR decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Parallel vectors",
+      "Zero vectors",
+      "Linearly dependent set",
+      "Orthonormal set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Parallel vectors",
+      "Zero vectors",
+      "Linearly dependent set",
+      "Orthonormal set"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "Matrix addition",
+      "LU decomposition",
+      "Cross products",
+      "QR decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Parallel vectors",
+      "Linearly dependent set",
+      "Orthonormal set",
+      "Zero vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "LU decomposition",
+      "Cross products",
+      "QR decomposition",
+      "Matrix addition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "Matrix addition",
+      "Cross products",
+      "LU decomposition",
+      "QR decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "Cross products",
+      "Matrix addition",
+      "QR decomposition",
+      "LU decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Zero vectors",
+      "Any vectors",
+      "Orthogonal vectors",
+      "Linearly independent vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Linearly independent vectors",
+      "Orthogonal vectors",
+      "Zero vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "Matrix addition",
+      "LU decomposition",
+      "Cross products"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Orthonormal set",
+      "Parallel vectors",
+      "Linearly dependent set",
+      "Zero vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "Undefined",
+      "0",
+      "1",
+      "-1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Linearly dependent set",
+      "Orthonormal set",
+      "Zero vectors",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "QR decomposition",
+      "LU decomposition",
+      "Matrix addition",
+      "Cross products"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Zero vectors",
+      "Orthogonal vectors",
+      "Linearly independent vectors",
+      "Any vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "0",
+      "-1",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "-1",
+      "0",
+      "Undefined",
+      "1"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors have dot product:",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The output of Gram-Schmidt is:",
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt is used in:",
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((3, 0)\\), divide by:",
+    "options": [
+      "3",
+      "9",
+      "1",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt starts with:",
+    "options": [
+      "Any vectors",
+      "Zero vectors",
+      "Orthogonal vectors",
+      "Linearly independent vectors"
+    ],
+    "answer": "Linearly independent vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt process creates:",
+    "options": [
+      "Orthogonal vectors",
+      "Parallel vectors",
+      "Zero vectors",
+      "Identical vectors"
+    ],
+    "answer": "Orthogonal vectors"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used in:",
+    "options": [
+      "LU decomposition",
+      "Cross products",
+      "Matrix addition",
+      "QR decomposition"
+    ],
+    "answer": "QR decomposition"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "The output of Gram-Schmidt is:",
+    "options": [
+      "Zero vectors",
+      "Orthonormal set",
+      "Linearly dependent set",
+      "Parallel vectors"
+    ],
+    "answer": "Orthonormal set"
+  },
+  {
+    "type": "MCQ",
+    "question": "The first step in Gram-Schmidt is:",
+    "options": [
+      "Normalize the first vector",
+      "Take the cross product",
+      "Find determinant",
+      "Square the matrix"
+    ],
+    "answer": "Normalize the first vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((4, 0)\\), divide by:",
+    "options": [
+      "4",
+      "16",
+      "1",
+      "0"
+    ],
+    "answer": "4"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gram-Schmidt is used to create:",
+    "options": [
+      "Orthonormal basis",
+      "Any basis",
+      "Eigenvectors",
+      "Determinants"
+    ],
+    "answer": "Orthonormal basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt produces vectors that are _____ to each other.",
+    "answer": "orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "To normalize vector \\((5, 0)\\), divide by:",
+    "options": [
+      "5",
+      "25",
+      "1",
+      "0"
+    ],
+    "answer": "5"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors have dot product:",
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "After Gram-Schmidt, the vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Unchanged"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "A unit vector has magnitude:",
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Gram-Schmidt starts with:",
+    "answer": "Linearly independent vectors"
+  }
+]

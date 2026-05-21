@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vectors - Learn</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">📊 Vectors</h1>
+
+            <h2>What is a Vector?</h2>
+            <p>
+                A <strong>vector</strong> is a mathematical quantity that has both <strong>magnitude</strong> (size)
+                and <strong>direction</strong>. Vectors are used to represent physical quantities like velocity,
+                force, or displacement.
+            </p>
+
+            <h2>Representation</h2>
+            <p>Vectors can be written as ordered lists of numbers, where each number represents a component:</p>
+            <p style="text-align: center; font-size: 1.3rem; margin: 2rem 0;">
+                $$\vec{v} = (v_1, v_2, v_3)$$
+            </p>
+            <p>For example, in 3D space, the vector \(\vec{v} = (3, 4, 5)\) has components along the x, y, and z axes.
+            </p>
+
+            <h2>Vector Operations</h2>
+
+            <div class="example-box">
+                <h4>1. Vector Addition</h4>
+                <p>Vectors are added component by component:</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$\vec{u} + \vec{v} = (u_1 + v_1, u_2 + v_2, u_3 + v_3)$$
+                </p>
+                <p><strong>Example:</strong></p>
+                <p style="text-align: center; font-size: 1.1rem;">
+                    $$\vec{u} = (1, 2, 3), \quad \vec{v} = (4, 5, 6)$$
+                    $$\vec{u} + \vec{v} = (5, 7, 9)$$
+                </p>
+            </div>
+
+            <div class="example-box">
+                <h4>2. Magnitude (Length)</h4>
+                <p>The magnitude of a vector is its length, calculated using the Pythagorean theorem:</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$|\vec{v}| = \sqrt{v_1^2 + v_2^2 + v_3^2}$$
+                </p>
+                <p><strong>Example:</strong></p>
+                <p style="text-align: center; font-size: 1.1rem;">
+                    $$\vec{v} = (3, 4) \implies |\vec{v}| = \sqrt{3^2 + 4^2} = \sqrt{25} = 5$$
+                </p>
+            </div>
+
+            <div class="example-box">
+                <h4>3. Dot Product</h4>
+                <p>The dot product of two vectors produces a scalar (single number):</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$\vec{u} \cdot \vec{v} = u_1v_1 + u_2v_2 + u_3v_3$$
+                </p>
+                <p><strong>Example:</strong></p>
+                <p style="text-align: center; font-size: 1.1rem;">
+                    $$\vec{u} = (2, 3), \quad \vec{v} = (4, 5)$$
+                    $$\vec{u} \cdot \vec{v} = 2 \cdot 4 + 3 \cdot 5 = 8 + 15 = 23$$
+                </p>
+            </div>
+
+            <div class="example-box">
+                <h4>4. Cross Product</h4>
+                <p>The cross product of two 3D vectors produces another vector perpendicular to both:</p>
+                <p style="text-align: center; font-size: 1.1rem; margin: 1.5rem 0;">
+                    $$\vec{i} \times \vec{j} = \vec{k}$$
+                    $$\vec{j} \times \vec{k} = \vec{i}$$
+                    $$\vec{k} \times \vec{i} = \vec{j}$$
+                </p>
+            </div>
+
+            <h2>Key Applications</h2>
+            <p>Vectors are essential in:</p>
+            <ul style="color: var(--text-secondary); line-height: 2; margin-left: 2rem;">
+                <li>Physics: representing forces, velocities, and accelerations</li>
+                <li>Computer Graphics: 3D modeling and transformations</li>
+                <li>Machine Learning: representing data points and features</li>
+                <li>Engineering: analyzing structures and systems</li>
+            </ul>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=vectors'">📝 Take the Vectors
+                    Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

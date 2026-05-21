@@ -1,0 +1,8002 @@
+[
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n",
+      "n-1",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Zero",
+      "Infinite",
+      "Linear",
+      "Nonlinear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Multiple representations",
+      "Infinite representations",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Dot product",
+      "Vector magnitude",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "Remove vectors to get basis",
+      "No basis exists",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes the space",
+      "Changes the vector",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "Unique representation for each vector",
+      "Infinite representations",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Zero",
+      "Infinite",
+      "Linear",
+      "Nonlinear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "n+1",
+      "n",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "No representation",
+      "Multiple representations",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n-1",
+      "n",
+      "n+1",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Infinite",
+      "Normalized",
+      "Linearly independent and span the space",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Choice of basis",
+      "Dot product",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n-1",
+      "Infinite",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "n+1",
+      "n-1",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Infinite",
+      "Linear",
+      "Zero",
+      "Nonlinear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Cross product",
+      "Vector magnitude",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Infinite",
+      "Linear",
+      "Nonlinear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "Add vectors to get basis",
+      "No basis exists",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Infinite representations",
+      "Unique representation for each vector",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes the space",
+      "Changes coordinates but not the vector",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Linear",
+      "Infinite",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Nonlinear",
+      "Infinite",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "No representation",
+      "Unique representation for each vector",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Long",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Dot product",
+      "Cross product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Dot product",
+      "Choice of basis",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Infinite",
+      "Linear",
+      "Nonlinear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Infinite",
+      "Orthogonal",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "Remove vectors to get basis",
+      "Add vectors to get basis",
+      "No basis exists"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the space",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Linearly independent and span the space",
+      "Orthogonal",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes dimension",
+      "Changes the vector",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Orthogonal",
+      "Infinite",
+      "Normalized",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Zero",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n-1",
+      "n+1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "Add vectors to get basis",
+      "No basis exists",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n-1",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Infinite",
+      "Orthogonal",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "They form a basis",
+      "No basis exists",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Long",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "Infinite",
+      "n-1",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n",
+      "Infinite",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Long",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Zero",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Normalized",
+      "Orthogonal",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "Infinite representations",
+      "No representation",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Infinite",
+      "Orthogonal",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Zero",
+      "Infinite",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes dimension",
+      "Changes the space",
+      "Changes the vector",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Dot product",
+      "Cross product",
+      "Choice of basis",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "They form a basis",
+      "No basis exists"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes dimension",
+      "Changes the vector",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Dot product",
+      "Vector magnitude",
+      "Choice of basis",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Cross product",
+      "Dot product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "No basis exists",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Zero",
+      "Nonlinear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "They form a basis",
+      "Add vectors to get basis",
+      "No basis exists"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Remove vectors to get basis",
+      "Add vectors to get basis",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Zero",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n",
+      "n-1",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "No basis exists",
+      "Add vectors to get basis",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "They form a basis",
+      "Remove vectors to get basis",
+      "No basis exists"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "They form a basis",
+      "No basis exists",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "n+1",
+      "Infinite",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the space",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n+1",
+      "2n",
+      "n-1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "Infinite",
+      "n",
+      "n+1",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Infinite",
+      "Linearly independent and span the space",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes dimension",
+      "Changes the vector",
+      "Changes coordinates but not the vector",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n",
+      "n-1",
+      "2n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Cross product",
+      "Vector magnitude",
+      "Dot product",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Dot product",
+      "Cross product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Dot product",
+      "Vector magnitude",
+      "Cross product",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Cross product",
+      "Choice of basis",
+      "Dot product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n",
+      "n-1",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "They form a basis",
+      "No basis exists",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "They form a basis",
+      "Add vectors to get basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes dimension",
+      "Changes the space",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "n",
+      "n+1",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the space",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "No basis exists",
+      "Remove vectors to get basis",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n",
+      "n-1",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes the vector",
+      "Changes dimension",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Unique representation for each vector",
+      "Multiple representations",
+      "No representation",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes the space",
+      "Changes dimension",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Unique representation for each vector",
+      "Multiple representations",
+      "Infinite representations",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Choice of basis",
+      "Cross product",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Nonlinear",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Unique representation for each vector",
+      "Infinite representations",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Zero",
+      "Infinite",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n-1",
+      "Infinite",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Zero",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "No basis exists",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Infinite",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "n",
+      "n+1",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n+1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Long",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "Unique representation for each vector",
+      "Multiple representations",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Infinite",
+      "Zero",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Long",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Multiple representations",
+      "Unique representation for each vector",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "No basis exists",
+      "Add vectors to get basis",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "n-1",
+      "Infinite",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Orthogonal",
+      "Infinite",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Unique representation for each vector",
+      "Multiple representations",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n+1",
+      "n-1",
+      "n",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n-1",
+      "n",
+      "n+1",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Infinite",
+      "Linearly independent and span the space",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Multiple representations",
+      "Unique representation for each vector",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n",
+      "n+1",
+      "n-1",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes the space",
+      "Changes coordinates but not the vector",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Infinite representations",
+      "Multiple representations",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Long",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "Multiple representations",
+      "Unique representation for each vector",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Infinite",
+      "Orthogonal",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "They form a basis",
+      "No basis exists",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Cross product",
+      "Choice of basis",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Vector magnitude",
+      "Dot product",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Parallel",
+      "Zero",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "No basis exists",
+      "Add vectors to get basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Zero",
+      "Infinite",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n-1",
+      "n",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "They form a basis",
+      "Remove vectors to get basis",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n",
+      "n-1",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Orthogonal",
+      "Infinite",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Orthogonal and unit length",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Orthogonal",
+      "Infinite",
+      "Linearly independent and span the space",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Zero",
+      "Orthogonal and unit length",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Orthogonal",
+      "Normalized",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Infinite representations",
+      "Unique representation for each vector",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Long",
+      "Zero",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "No representation",
+      "Unique representation for each vector",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "Multiple representations",
+      "No representation",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n",
+      "n-1",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "They form a basis",
+      "No basis exists",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Cross product",
+      "Choice of basis",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Infinite",
+      "Nonlinear",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Zero",
+      "Nonlinear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "No basis exists",
+      "Remove vectors to get basis",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Zero",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Infinite",
+      "Orthogonal",
+      "Linearly independent and span the space",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n-1",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes dimension",
+      "Changes coordinates but not the vector",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Unique representation for each vector",
+      "No representation",
+      "Infinite representations",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "n+1",
+      "n-1",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Infinite",
+      "Orthogonal",
+      "Linearly independent and span the space",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Orthogonal",
+      "Infinite",
+      "Normalized",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Dot product",
+      "Vector magnitude",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Cross product",
+      "Vector magnitude",
+      "Dot product",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "No basis exists"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Parallel",
+      "Zero",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "They form a basis",
+      "Remove vectors to get basis",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "No basis exists",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Linear",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes dimension",
+      "Changes the vector",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "No basis exists",
+      "They form a basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Unique representation for each vector",
+      "Infinite representations",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "Infinite",
+      "n-1",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Infinite",
+      "Linearly independent and span the space",
+      "Normalized",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "No representation",
+      "Multiple representations",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Dot product",
+      "Vector magnitude",
+      "Choice of basis",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Infinite",
+      "Nonlinear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "n-1",
+      "Infinite",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Long",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n+1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Remove vectors to get basis",
+      "They form a basis",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes the vector",
+      "Changes the space",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n-1",
+      "n",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Cross product",
+      "Vector magnitude",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Cross product",
+      "Dot product",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n-1",
+      "n",
+      "n+1",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes dimension",
+      "Changes the vector",
+      "Changes the space",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes dimension",
+      "Changes the space",
+      "Changes the vector",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Infinite",
+      "Nonlinear",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Zero",
+      "Infinite",
+      "Nonlinear",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n+1",
+      "n-1",
+      "n",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Zero",
+      "Long",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes the space",
+      "Changes dimension",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "They form a basis",
+      "Add vectors to get basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Infinite",
+      "Normalized",
+      "Linearly independent and span the space",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "No representation",
+      "Infinite representations",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "Add vectors to get basis",
+      "No basis exists",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Zero",
+      "Parallel",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Dot product",
+      "Cross product",
+      "Vector magnitude",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "No basis exists",
+      "Remove vectors to get basis",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "They form a basis",
+      "No basis exists",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "No basis exists",
+      "They form a basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "Infinite",
+      "n-1",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Orthogonal and unit length",
+      "Long",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "Add vectors to get basis",
+      "No basis exists",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Cross product",
+      "Vector magnitude",
+      "Choice of basis",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Cross product",
+      "Dot product",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Unique representation for each vector",
+      "No representation",
+      "Infinite representations",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes the vector",
+      "Changes dimension",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "Infinite",
+      "n-1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Nonlinear",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "Infinite",
+      "n-1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "No basis exists",
+      "Remove vectors to get basis",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n-1",
+      "n",
+      "Infinite",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Infinite",
+      "Linear",
+      "Zero",
+      "Nonlinear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Orthogonal",
+      "Linearly independent and span the space",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Long",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Zero",
+      "Nonlinear",
+      "Linear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Orthogonal",
+      "Infinite",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes coordinates but not the vector",
+      "Changes the vector",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "Infinite",
+      "n+1",
+      "n-1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Zero",
+      "Infinite",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Orthogonal and unit length",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Orthogonal and unit length",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "n+1",
+      "n",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "n+1",
+      "Infinite",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n",
+      "n-1",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes dimension",
+      "Changes the vector",
+      "Changes coordinates but not the vector",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Infinite",
+      "Linearly independent and span the space",
+      "Normalized",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Orthogonal and unit length",
+      "Parallel",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "Infinite",
+      "n-1",
+      "n+1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Long",
+      "Orthogonal and unit length",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes the vector",
+      "Changes dimension",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Infinite",
+      "Nonlinear",
+      "Zero",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "Unique representation for each vector",
+      "Infinite representations",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n+1",
+      "2n",
+      "n-1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n",
+      "Infinite",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Orthogonal",
+      "Infinite",
+      "Normalized",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n+1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n-1",
+      "Infinite",
+      "n+1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "Add vectors to get basis",
+      "No basis exists",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n",
+      "Infinite",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Zero",
+      "Orthogonal and unit length",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "No representation",
+      "Unique representation for each vector",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Zero",
+      "Nonlinear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n+1",
+      "2n",
+      "n-1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Dot product",
+      "Vector magnitude",
+      "Choice of basis",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Infinite",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "They form a basis",
+      "Remove vectors to get basis",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "They form a basis",
+      "No basis exists",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Normalized",
+      "Infinite",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Normalized",
+      "Orthogonal",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Dot product",
+      "Cross product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "Infinite",
+      "n-1",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Dot product",
+      "Cross product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Linear",
+      "Infinite",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes the space",
+      "Changes dimension",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Orthogonal",
+      "Infinite",
+      "Linearly independent and span the space",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Dot product",
+      "Choice of basis",
+      "Cross product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the vector",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Infinite",
+      "Linearly independent and span the space",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Unique representation for each vector",
+      "Infinite representations",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Cross product",
+      "Choice of basis",
+      "Dot product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "n+1",
+      "2n",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "No basis exists",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "n-1",
+      "Infinite",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Infinite representations",
+      "Unique representation for each vector",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Unique representation for each vector",
+      "Infinite representations",
+      "No representation",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent and span the space",
+      "Normalized",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Infinite",
+      "Nonlinear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes the vector",
+      "Changes dimension",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n-1",
+      "Infinite",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n-1",
+      "n+1",
+      "Infinite",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Infinite",
+      "Linearly independent and span the space",
+      "Orthogonal",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Dot product",
+      "Choice of basis",
+      "Cross product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Parallel",
+      "Zero",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Infinite",
+      "Zero",
+      "Nonlinear",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n+1",
+      "2n",
+      "n",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Long",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Infinite",
+      "Orthogonal",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "No basis exists"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n",
+      "n+1",
+      "n-1",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Zero",
+      "Linear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent and span the space",
+      "Normalized",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Cross product",
+      "Dot product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Cross product",
+      "Vector magnitude",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Zero",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Linear",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Long",
+      "Orthogonal and unit length",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "Multiple representations",
+      "No representation",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Linearly independent and span the space",
+      "Orthogonal",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes coordinates but not the vector",
+      "Changes the vector",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Long",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Linear",
+      "Infinite",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Vector magnitude",
+      "Cross product",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Zero",
+      "Nonlinear",
+      "Linear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "No representation",
+      "Unique representation for each vector",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Dot product",
+      "Choice of basis",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Add vectors to get basis",
+      "They form a basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Orthogonal and unit length",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "n",
+      "2n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Infinite",
+      "Normalized",
+      "Orthogonal",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Orthogonal and unit length",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Unique representation for each vector",
+      "Infinite representations",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "No basis exists",
+      "Add vectors to get basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "No representation",
+      "Multiple representations",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "No basis exists",
+      "Add vectors to get basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n-1",
+      "n+1",
+      "Infinite",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Long",
+      "Zero",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Orthogonal",
+      "Normalized",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "n",
+      "2n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n+1",
+      "n",
+      "n-1",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Dot product",
+      "Cross product",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "Infinite",
+      "n",
+      "n+1",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "Remove vectors to get basis",
+      "No basis exists",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Add vectors to get basis",
+      "They form a basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "They form a basis",
+      "No basis exists"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "Add vectors to get basis",
+      "No basis exists",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n",
+      "2n",
+      "n-1",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "They form a basis",
+      "Add vectors to get basis",
+      "No basis exists",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "Infinite",
+      "n-1",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Remove vectors to get basis",
+      "Add vectors to get basis",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Orthogonal",
+      "Linearly independent and span the space",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Multiple representations",
+      "Unique representation for each vector",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Orthogonal",
+      "Infinite",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "Infinite representations",
+      "Unique representation for each vector",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes coordinates but not the vector",
+      "Changes the space",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "Unique representation for each vector",
+      "Multiple representations",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Parallel",
+      "Zero",
+      "Long"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Orthogonal",
+      "Normalized",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n",
+      "2n",
+      "n+1",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n+1",
+      "n-1",
+      "n",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes dimension",
+      "Changes coordinates but not the vector",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent and span the space",
+      "Normalized",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n-1",
+      "n+1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Orthogonal",
+      "Infinite",
+      "Linearly independent and span the space",
+      "Normalized"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Zero",
+      "Nonlinear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the space",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "n+1",
+      "Infinite",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Long",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Add vectors to get basis",
+      "They form a basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Normalized",
+      "Infinite",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "No representation",
+      "Infinite representations",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Cross product",
+      "Choice of basis",
+      "Dot product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,1,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "Unique representation for each vector",
+      "No representation",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "Add vectors to get basis",
+      "They form a basis",
+      "No basis exists"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Vector magnitude",
+      "Cross product",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "2n",
+      "n+1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Dot product",
+      "Cross product",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Zero",
+      "Infinite",
+      "Nonlinear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,1,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Zero",
+      "Nonlinear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Dot product",
+      "Vector magnitude",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Linear",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes coordinates but not the vector",
+      "Changes the space",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes the vector",
+      "Changes the space",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Cross product",
+      "Vector magnitude",
+      "Dot product",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n",
+      "n+1",
+      "2n",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n-1",
+      "n",
+      "n+1",
+      "Infinite"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Zero",
+      "Long",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Infinite",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Dot product",
+      "Choice of basis",
+      "Cross product",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n-1",
+      "n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes dimension",
+      "Changes the space",
+      "Changes coordinates but not the vector",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Long",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the space",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes the vector",
+      "Changes coordinates but not the vector",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n+1",
+      "Infinite",
+      "n",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Zero",
+      "Linear",
+      "Infinite",
+      "Nonlinear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "They form a basis",
+      "Add vectors to get basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Infinite representations",
+      "Unique representation for each vector",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "n",
+      "2n",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n",
+      "n-1",
+      "n+1",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Zero",
+      "Infinite",
+      "Nonlinear",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes the space",
+      "Changes dimension",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Zero",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "No representation",
+      "Multiple representations",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n-1",
+      "n",
+      "n+1",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Infinite",
+      "Linearly independent and span the space",
+      "Normalized",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Normalized",
+      "Orthogonal",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Cross product",
+      "Dot product",
+      "Choice of basis",
+      "Vector magnitude"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Multiple representations",
+      "Unique representation for each vector",
+      "Infinite representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes dimension",
+      "Changes the space",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Dot product",
+      "Choice of basis",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Zero",
+      "Linear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes dimension",
+      "Changes the vector",
+      "Changes coordinates but not the vector",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the vector",
+      "Changes the space",
+      "Changes coordinates but not the vector",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Dot product",
+      "Cross product",
+      "Choice of basis"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Choice of basis",
+      "Dot product",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "They form a basis",
+      "Add vectors to get basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(0,0,0)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes the space",
+      "Changes dimension",
+      "Changes the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Zero",
+      "Infinite",
+      "Nonlinear",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Infinite",
+      "Linear",
+      "Zero",
+      "Nonlinear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Linear",
+      "Zero",
+      "Nonlinear",
+      "Infinite"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes the vector",
+      "Changes coordinates but not the vector",
+      "Changes dimension"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Parallel",
+      "Long",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Add vectors to get basis",
+      "Remove vectors to get basis",
+      "They form a basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes dimension",
+      "Changes the vector",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "options": [
+      "Nonlinear",
+      "Zero",
+      "Infinite",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "Infinite",
+      "n-1",
+      "n+1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "No basis exists",
+      "Add vectors to get basis",
+      "They form a basis",
+      "Remove vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes the space",
+      "Changes the vector",
+      "Changes dimension",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Vector magnitude",
+      "Choice of basis",
+      "Dot product",
+      "Cross product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Orthogonal and unit length",
+      "Long",
+      "Parallel"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes dimension",
+      "Changes the space",
+      "Changes the vector",
+      "Changes coordinates but not the vector"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "Multiple representations",
+      "Unique representation for each vector",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "The dimension of R^n is:",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Infinite representations",
+      "Unique representation for each vector",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "2n",
+      "n+1",
+      "n-1",
+      "n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis for R^3 is:",
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "Add vectors to get basis",
+      "They form a basis",
+      "No basis exists"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Normalized",
+      "Infinite",
+      "Orthogonal",
+      "Linearly independent and span the space"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "The dimension of R^n is:",
+    "options": [
+      "n",
+      "n-1",
+      "Infinite",
+      "n+1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis must be:",
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "MCQ",
+    "question": "Coordinates of a vector depend on:",
+    "options": [
+      "Choice of basis",
+      "Cross product",
+      "Vector magnitude",
+      "Dot product"
+    ],
+    "answer": "Choice of basis"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors span R^n but are not independent:",
+    "options": [
+      "Remove vectors to get basis",
+      "No basis exists",
+      "They form a basis",
+      "Add vectors to get basis"
+    ],
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis provides:",
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n",
+      "n+1",
+      "n-1",
+      "2n"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Zero",
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "Infinite representations",
+      "Unique representation for each vector",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Changing basis:",
+    "options": [
+      "Changes coordinates but not the vector",
+      "Changes dimension",
+      "Changes the vector",
+      "Changes the space"
+    ],
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}",
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis for R^n contains how many vectors?",
+    "options": [
+      "n",
+      "2n",
+      "n+1",
+      "n-1"
+    ],
+    "answer": "n"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors span R^n but are not independent:",
+    "answer": "Remove vectors to get basis"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "No representation",
+      "Unique representation for each vector",
+      "Infinite representations",
+      "Multiple representations"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Multiple representations",
+      "Infinite representations",
+      "Unique representation for each vector",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "Multiple representations",
+      "Unique representation for each vector",
+      "No representation"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Every vector can be written as a _____ combination of basis vectors",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis must be:",
+    "options": [
+      "Linearly independent and span the space",
+      "Normalized",
+      "Orthogonal",
+      "Infinite"
+    ],
+    "answer": "Linearly independent and span the space"
+  },
+  {
+    "type": "FIB",
+    "question": "A basis for R^n contains how many vectors?",
+    "answer": "n"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis for R^3 is:",
+    "options": [
+      "{(1,1,0), (0,1,1), (1,0,1)}",
+      "{(0,0,0)}",
+      "{(1,0,0), (0,1,0), (0,0,1)}",
+      "{(1,1,1)}"
+    ],
+    "answer": "{(1,0,0), (0,1,0), (0,0,1)}"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal basis has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "A basis provides:",
+    "options": [
+      "Infinite representations",
+      "Multiple representations",
+      "No representation",
+      "Unique representation for each vector"
+    ],
+    "answer": "Unique representation for each vector"
+  },
+  {
+    "type": "FIB",
+    "question": "Changing basis:",
+    "answer": "Changes coordinates but not the vector"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal basis has vectors that are:",
+    "options": [
+      "Long",
+      "Parallel",
+      "Orthogonal and unit length",
+      "Zero"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Coordinates of a vector depend on:",
+    "answer": "Choice of basis"
+  }
+]

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Null Space - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">∅ Null Space</h1>
+
+            <h2>What is the Null Space?</h2>
+            <p>The <strong>null space</strong> (or kernel) of a matrix $A$ is the set of all vectors $\vec{x}$ such that $A\vec{x} = \vec{0}$.</p>
+            <p style="text-align:center; font-size:1.2rem; margin:1.5rem 0;">$$\text{Null}(A) = \{\vec{x} : A\vec{x} = \vec{0}\}$$</p>
+
+            <h2>Finding the Null Space</h2>
+            <div class="example-box">
+                <p>1. Write the augmented matrix $[A | \vec{0}]$</p>
+                <p>2. Row-reduce to RREF</p>
+                <p>3. Express free variables as parameters</p>
+                <p>4. Write the general solution</p>
+            </div>
+
+            <h2>Nullity</h2>
+            <div class="example-box">
+                <p>The <strong>nullity</strong> = dimension of the null space = number of free variables.</p>
+                <p>By the Rank-Nullity Theorem: $\text{rank}(A) + \text{nullity}(A) = n$</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=null-space'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

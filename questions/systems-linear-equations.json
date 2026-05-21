@@ -1,0 +1,8002 @@
+[
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "Unique non-zero solution",
+      "No solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Unique solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "Two solutions",
+      "Infinite solutions",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "det(A) = 0",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has at least one solution",
+      "A is singular",
+      "It has no solution",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "A is invertible",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "Two solutions",
+      "No solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "A is invertible",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Only particular",
+      "Zero",
+      "Particular + homogeneous solutions"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "At least the zero solution",
+      "Infinite solutions always",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no solution always",
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "det(A) = 0",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is rectangular",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "It has at least one solution",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no solution always",
+      "Has no unique solution",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "No solution",
+      "At least the zero solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "A is rectangular",
+      "b = 0",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no solution always",
+      "Has no unique solution",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "At least the zero solution",
+      "No solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "It has at least one solution",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no unique solution",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "Two solutions",
+      "Unique solution",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b ≠ 0",
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "b = 0",
+      "A is invertible",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "No solution",
+      "Two solutions",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Determinant",
+      "Eigenvalues",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Two solutions",
+      "Unique solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Two solutions",
+      "No solution",
+      "Infinite solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "A is invertible",
+      "b = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "A is square and invertible",
+      "b = 0",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "A is rectangular",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Unique solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has no solution",
+      "It has at least one solution",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "det(A) ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has unique solution",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has infinite solutions always",
+      "Has no solution always",
+      "Has no unique solution",
+      "Has unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is rectangular",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "b = 0",
+      "A is square and invertible",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only particular",
+      "Only homogeneous",
+      "Zero",
+      "Particular + homogeneous solutions"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "No solution",
+      "Infinite solutions always",
+      "Unique non-zero solution",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "A is invertible",
+      "b = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Cramer's rule",
+      "Gaussian elimination",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Particular + homogeneous solutions",
+      "Only particular",
+      "Zero",
+      "Only homogeneous"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "It has at least one solution",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "b = 0",
+      "A is invertible",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Unique solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is singular",
+      "A is rectangular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "No solution",
+      "At least the zero solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "It has no solution",
+      "A is singular",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has at least one solution",
+      "b = 0",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "A is singular",
+      "b = 0",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "It has at least one solution",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only particular",
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only homogeneous"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b not in column space of A",
+      "b = 0",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Cramer's rule",
+      "Determinant",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "b = 0",
+      "It has at least one solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "A is singular",
+      "b = 0",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "A is invertible",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no solution always",
+      "Has unique solution",
+      "Has no unique solution",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Zero",
+      "Particular + homogeneous solutions",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "A is square and invertible",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Determinant",
+      "Eigenvalues",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "det(A) = 0",
+      "A is invertible"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Zero",
+      "Only particular",
+      "Particular + homogeneous solutions"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has infinite solutions always",
+      "Has unique solution",
+      "Has no unique solution",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "b = 0",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "det(A) = 0",
+      "A is invertible"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b not in column space of A",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is rectangular",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Two solutions",
+      "Infinite solutions",
+      "Unique solution",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "A is square and invertible",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "At least the zero solution",
+      "No solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "b = 0",
+      "A is rectangular",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "It has at least one solution",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has at least one solution",
+      "b = 0",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is singular",
+      "b = 0",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "Unique solution",
+      "No solution",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Particular + homogeneous solutions",
+      "Only particular",
+      "Zero"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "No solution",
+      "Infinite solutions always",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "It has no solution",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "No solution",
+      "Unique solution",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Infinite solutions",
+      "Two solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "b = 0",
+      "A is singular",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has no solution",
+      "It has at least one solution",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Determinant",
+      "Eigenvalues",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "A is rectangular",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) ≠ 0",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only homogeneous",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "det(A) = 0",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "It has no solution",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "No solution",
+      "At least the zero solution",
+      "Infinite solutions always",
+      "Unique non-zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "No solution",
+      "Infinite solutions always",
+      "Unique non-zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Zero",
+      "Particular + homogeneous solutions",
+      "Only homogeneous",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "b = 0",
+      "It has at least one solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Two solutions",
+      "Infinite solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "A is invertible",
+      "b = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b not in column space of A",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only particular",
+      "Only homogeneous",
+      "Particular + homogeneous solutions",
+      "Zero"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has unique solution",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Zero",
+      "Particular + homogeneous solutions",
+      "Only particular",
+      "Only homogeneous"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no unique solution",
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "Two solutions",
+      "No solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Determinant",
+      "Cramer's rule",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Cramer's rule",
+      "Determinant",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "b ≠ 0",
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "b = 0",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only particular",
+      "Particular + homogeneous solutions",
+      "Only homogeneous",
+      "Zero"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "Two solutions",
+      "Infinite solutions",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has at least one solution",
+      "b = 0",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "Two solutions",
+      "No solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "No solution",
+      "Infinite solutions always",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Infinite solutions always",
+      "No solution",
+      "At least the zero solution",
+      "Unique non-zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is square and invertible",
+      "A is singular",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Zero",
+      "Only homogeneous",
+      "Only particular",
+      "Particular + homogeneous solutions"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "No solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only particular",
+      "Only homogeneous"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Two solutions",
+      "No solution",
+      "Infinite solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Two solutions",
+      "Unique solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Cramer's rule",
+      "Gaussian elimination",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "b not in column space of A",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) ≠ 0",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "A is singular",
+      "det(A) = 0",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "At least the zero solution",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Determinant",
+      "Gaussian elimination",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no solution always",
+      "Has no unique solution",
+      "Has unique solution",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has at least one solution",
+      "b = 0",
+      "It has no solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Two solutions",
+      "Infinite solutions",
+      "No solution",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b = 0",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "Two solutions",
+      "No solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Determinant",
+      "Eigenvalues",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Two solutions",
+      "Unique solution",
+      "Infinite solutions",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "Unique non-zero solution",
+      "No solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Zero",
+      "Only homogeneous",
+      "Only particular",
+      "Particular + homogeneous solutions"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b = 0",
+      "b not in column space of A",
+      "A is invertible"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b not in column space of A",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "b = 0",
+      "A is singular",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Two solutions",
+      "Infinite solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no solution always",
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "A is square and invertible",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "b = 0",
+      "A is rectangular",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only particular",
+      "Only homogeneous"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b = 0",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "No solution",
+      "Unique solution",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "b = 0",
+      "A is invertible",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Determinant",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "b = 0",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Infinite solutions always",
+      "At least the zero solution",
+      "Unique non-zero solution",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "A is singular",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "No solution",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Infinite solutions",
+      "Two solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "No solution",
+      "Unique non-zero solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b ≠ 0",
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Unique solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Unique solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is square and invertible",
+      "A is rectangular",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Two solutions",
+      "Unique solution",
+      "No solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only particular",
+      "Zero",
+      "Particular + homogeneous solutions",
+      "Only homogeneous"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no solution always",
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Gaussian elimination",
+      "Eigenvalues",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only particular",
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only homogeneous"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Zero",
+      "Particular + homogeneous solutions",
+      "Only homogeneous",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has no solution",
+      "It has at least one solution",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Eigenvalues",
+      "Cramer's rule",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Cramer's rule",
+      "Eigenvalues",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Cramer's rule",
+      "Eigenvalues",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has at least one solution",
+      "It has no solution",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "Infinite solutions always",
+      "Unique non-zero solution",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) = 0",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "It has no solution",
+      "It has at least one solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b not in column space of A",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "b = 0",
+      "A is invertible",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "Two solutions",
+      "No solution",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "Unique solution",
+      "No solution",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "It has no solution",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "A is singular",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has no solution always",
+      "Has unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "b = 0",
+      "A is singular",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "b not in column space of A",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Determinant",
+      "Eigenvalues",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "A is invertible",
+      "b = 0",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) ≠ 0",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "b = 0",
+      "A is square and invertible",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is singular",
+      "A is rectangular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "b = 0",
+      "A is invertible",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Cramer's rule",
+      "Determinant",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is rectangular",
+      "A is singular",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "It has no solution",
+      "It has at least one solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Determinant",
+      "Gaussian elimination",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Determinant",
+      "Eigenvalues",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "It has at least one solution",
+      "b = 0",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "b = 0",
+      "A is square and invertible",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Determinant",
+      "Eigenvalues",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "No solution",
+      "Two solutions",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only homogeneous",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Zero",
+      "Particular + homogeneous solutions",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Determinant",
+      "Eigenvalues",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "No solution",
+      "Two solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no solution always",
+      "Has infinite solutions always",
+      "Has no unique solution",
+      "Has unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Infinite solutions always",
+      "No solution",
+      "At least the zero solution",
+      "Unique non-zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "b = 0",
+      "det(A) = 0",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "At least the zero solution",
+      "No solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has at least one solution",
+      "b = 0",
+      "It has no solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "No solution",
+      "Unique non-zero solution",
+      "At least the zero solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has infinite solutions always",
+      "Has unique solution",
+      "Has no solution always",
+      "Has no unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Eigenvalues",
+      "Cramer's rule",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no solution always",
+      "Has no unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "No solution",
+      "Infinite solutions always",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has at least one solution",
+      "b = 0",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is rectangular",
+      "A is square and invertible",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has no solution",
+      "It has at least one solution",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "b ≠ 0",
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "It has at least one solution",
+      "b = 0",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Zero",
+      "Only homogeneous",
+      "Particular + homogeneous solutions",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no solution always",
+      "Has no unique solution",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b = 0",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "A is square and invertible",
+      "b = 0",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no unique solution",
+      "Has no solution always",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "A is rectangular",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b not in column space of A",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Determinant",
+      "Cramer's rule",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Cramer's rule",
+      "Eigenvalues",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only homogeneous",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "A is square and invertible",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only particular",
+      "Only homogeneous"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Determinant",
+      "Eigenvalues",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "No solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "A is rectangular",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "A is square and invertible",
+      "A is rectangular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "b = 0",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "At least the zero solution",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "It has no solution",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no solution always",
+      "Has no unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "A is rectangular",
+      "A is square and invertible",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Gaussian elimination",
+      "Cramer's rule",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "It has no solution",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b ≠ 0",
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no solution always",
+      "Has no unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "det(A) ≠ 0",
+      "b not in column space of A",
+      "A is invertible"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Determinant",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "It has at least one solution",
+      "A is singular",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "Two solutions",
+      "Unique solution",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "Infinite solutions",
+      "Two solutions",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b not in column space of A",
+      "b = 0",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Two solutions",
+      "No solution",
+      "Infinite solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only particular",
+      "Zero",
+      "Only homogeneous",
+      "Particular + homogeneous solutions"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Eigenvalues",
+      "Cramer's rule",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Infinite solutions",
+      "Two solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has infinite solutions always",
+      "Has no solution always",
+      "Has unique solution",
+      "Has no unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is singular",
+      "b = 0",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no solution always",
+      "Has no unique solution",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "A is singular",
+      "A is square and invertible",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "b = 0",
+      "It has at least one solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is rectangular",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "It has at least one solution",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) = 0",
+      "b = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "No solution",
+      "Two solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is square and invertible",
+      "A is rectangular",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "Two solutions",
+      "Infinite solutions",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Two solutions",
+      "Unique solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "b = 0",
+      "A is invertible",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "No solution",
+      "Two solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "It has at least one solution",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "No solution",
+      "Unique solution",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has infinite solutions always",
+      "Has no unique solution",
+      "Has no solution always",
+      "Has unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has at least one solution",
+      "A is singular",
+      "b = 0",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "A is invertible",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "No solution",
+      "Infinite solutions always",
+      "Unique non-zero solution",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no unique solution",
+      "Has unique solution",
+      "Has no solution always",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "A is singular",
+      "b = 0",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "A is invertible",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b not in column space of A",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "A is square and invertible",
+      "b = 0",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Cramer's rule",
+      "Determinant",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no solution always",
+      "Has no unique solution",
+      "Has unique solution",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) = 0",
+      "b = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Unique solution",
+      "Two solutions",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "No solution",
+      "At least the zero solution",
+      "Infinite solutions always",
+      "Unique non-zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Determinant",
+      "Gaussian elimination",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has at least one solution",
+      "It has no solution",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Eigenvalues",
+      "Cramer's rule",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has at least one solution",
+      "It has no solution",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "No solution",
+      "Two solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Two solutions",
+      "Unique solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has infinite solutions always",
+      "Has no solution always",
+      "Has unique solution",
+      "Has no unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "It has at least one solution",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Infinite solutions always",
+      "At least the zero solution",
+      "Unique non-zero solution",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "No solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "Unique solution",
+      "No solution",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no unique solution",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has at least one solution",
+      "A is singular",
+      "b = 0",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Gaussian elimination",
+      "Eigenvalues",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "At least the zero solution",
+      "No solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Cramer's rule",
+      "Gaussian elimination",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Cramer's rule",
+      "Eigenvalues",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Determinant",
+      "Eigenvalues",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has at least one solution",
+      "A is singular",
+      "b = 0",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) = 0",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is square and invertible",
+      "A is singular",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has infinite solutions always",
+      "Has no unique solution",
+      "Has no solution always",
+      "Has unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Zero",
+      "Particular + homogeneous solutions",
+      "Only homogeneous",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Eigenvalues",
+      "Determinant",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "b ≠ 0",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "It has at least one solution",
+      "It has no solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Unique solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "det(A) = 0",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only particular",
+      "Only homogeneous",
+      "Particular + homogeneous solutions",
+      "Zero"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "It has at least one solution",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) = 0",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "det(A) = 0",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Cramer's rule",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "A is invertible",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no unique solution",
+      "Has no solution always",
+      "Has unique solution",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "b = 0",
+      "It has at least one solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "b = 0",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "No solution",
+      "At least the zero solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "At least the zero solution",
+      "Infinite solutions always",
+      "No solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Infinite solutions",
+      "Unique solution",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) ≠ 0",
+      "b not in column space of A"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "Unique solution",
+      "Two solutions",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is square and invertible",
+      "A is singular",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "At least the zero solution",
+      "No solution",
+      "Infinite solutions always",
+      "Unique non-zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Unique solution",
+      "Infinite solutions",
+      "Two solutions",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Particular + homogeneous solutions",
+      "Only particular",
+      "Zero"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "b ≠ 0",
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "It has at least one solution",
+      "It has no solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Infinite solutions",
+      "Unique solution",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has infinite solutions always",
+      "Has no unique solution",
+      "Has no solution always",
+      "Has unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Two solutions",
+      "Unique solution",
+      "No solution",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Unique solution",
+      "Two solutions",
+      "Infinite solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Infinite solutions",
+      "Unique solution",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "b = 0",
+      "A is singular",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "No solution",
+      "At least the zero solution",
+      "Infinite solutions always",
+      "Unique non-zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "b = 0",
+      "det(A) = 0",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Unique solution",
+      "Infinite solutions",
+      "Two solutions"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no solution always",
+      "Has no unique solution",
+      "Has infinite solutions always",
+      "Has unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "A is invertible",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Infinite solutions always",
+      "No solution",
+      "Unique non-zero solution",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b not in column space of A",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "At least the zero solution",
+      "No solution",
+      "Infinite solutions always"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b not in column space of A",
+      "A is invertible",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "No solution",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Cramer's rule",
+      "Determinant",
+      "Eigenvalues",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "b = 0",
+      "A is singular",
+      "A is square and invertible"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b = 0",
+      "b not in column space of A",
+      "A is invertible"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "b = 0",
+      "A is rectangular",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination",
+      "Eigenvalues"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "det(A) ≠ 0",
+      "b not in column space of A",
+      "A is invertible"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) ≠ 0",
+      "b not in column space of A",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no unique solution",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Eigenvalues",
+      "Cramer's rule",
+      "Determinant"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "det(A) = 0",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "b ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "No solution",
+      "Two solutions",
+      "Infinite solutions",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has no solution always",
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "b = 0",
+      "It has at least one solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "b = 0",
+      "It has no solution",
+      "It has at least one solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "Two solutions",
+      "No solution",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Infinite solutions",
+      "Unique solution",
+      "Two solutions",
+      "No solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has no solution always",
+      "Has no unique solution",
+      "Has infinite solutions always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "b = 0",
+      "A is singular",
+      "det(A) = 0",
+      "A is invertible"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "det(A) ≠ 0",
+      "A is invertible"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0",
+      "b = 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is rectangular",
+      "A is square and invertible",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Particular + homogeneous solutions",
+      "Only homogeneous",
+      "Zero",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only particular",
+      "Particular + homogeneous solutions",
+      "Zero",
+      "Only homogeneous"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is rectangular",
+      "A is square and invertible",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Determinant",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "It has no solution",
+      "b = 0",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "No solution",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "A is singular",
+      "b = 0",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "A is singular",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "rank(A) < number of unknowns and consistent",
+      "A is invertible",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "b = 0",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "It has at least one solution",
+      "b = 0",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Particular + homogeneous solutions",
+      "Only particular",
+      "Zero"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Particular + homogeneous solutions",
+      "Only homogeneous",
+      "Zero",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "Unique non-zero solution",
+      "Infinite solutions always",
+      "No solution",
+      "At least the zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Zero",
+      "Only homogeneous",
+      "Particular + homogeneous solutions",
+      "Only particular"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "det(A) = 0",
+      "b = 0",
+      "A is singular",
+      "A is invertible"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "A is invertible",
+      "det(A) ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "b = 0",
+      "A is square and invertible",
+      "A is rectangular",
+      "A is singular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "A is singular",
+      "b = 0",
+      "It has no solution",
+      "It has at least one solution"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "det(A) = 0",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has infinite solutions always",
+      "Has unique solution",
+      "Has no solution always",
+      "Has no unique solution"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "options": [
+      "Two solutions",
+      "Infinite solutions",
+      "No solution",
+      "Unique solution"
+    ],
+    "answer": "Unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "A is singular",
+      "b = 0",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b = 0",
+      "A is invertible",
+      "b not in column space of A",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "A system Ax = b has a unique solution if:",
+    "answer": "A is invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Eigenvalues",
+      "Determinant",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Determinant",
+      "Gaussian elimination",
+      "Eigenvalues",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "For consistent system, solution is:",
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Gaussian elimination",
+      "Eigenvalues",
+      "Determinant",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent",
+      "b ≠ 0",
+      "det(A) ≠ 0"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is singular",
+      "A is invertible",
+      "det(A) = 0",
+      "b = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Determinant",
+      "Cramer's rule",
+      "Gaussian elimination"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is singular",
+      "A is square and invertible",
+      "A is rectangular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has infinitely many solutions if:",
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is rectangular",
+      "A is singular",
+      "b = 0"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has infinitely many solutions if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b ≠ 0",
+      "A is invertible",
+      "rank(A) < number of unknowns and consistent"
+    ],
+    "answer": "rank(A) < number of unknowns and consistent"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If det(A) = 0, the system:",
+    "options": [
+      "Has unique solution",
+      "Has infinite solutions always",
+      "Has no unique solution",
+      "Has no solution always"
+    ],
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "No solution",
+      "Infinite solutions always",
+      "At least the zero solution",
+      "Unique non-zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Cramer's rule applies when:",
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "MCQ",
+    "question": "Augmented matrix [A|b] is used in:",
+    "options": [
+      "Eigenvalues",
+      "Gaussian elimination",
+      "Determinant",
+      "Cramer's rule"
+    ],
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "System has no solution if:",
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "For consistent system, solution is:",
+    "options": [
+      "Only homogeneous",
+      "Zero",
+      "Only particular",
+      "Particular + homogeneous solutions"
+    ],
+    "answer": "Particular + homogeneous solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System is consistent if:",
+    "options": [
+      "It has no solution",
+      "b = 0",
+      "It has at least one solution",
+      "A is singular"
+    ],
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Homogeneous system Ax = 0 always has:",
+    "options": [
+      "No solution",
+      "At least the zero solution",
+      "Infinite solutions always",
+      "Unique non-zero solution"
+    ],
+    "answer": "At least the zero solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "b not in column space of A",
+      "b = 0",
+      "A is invertible",
+      "det(A) ≠ 0"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Augmented matrix [A|b] is used in:",
+    "answer": "Gaussian elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Cramer's rule applies when:",
+    "options": [
+      "A is square and invertible",
+      "A is singular",
+      "b = 0",
+      "A is rectangular"
+    ],
+    "answer": "A is square and invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "n×n system with det(A) ≠ 0 has:",
+    "answer": "Unique solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "A system Ax = b has a unique solution if:",
+    "options": [
+      "A is invertible",
+      "A is singular",
+      "b = 0",
+      "det(A) = 0"
+    ],
+    "answer": "A is invertible"
+  },
+  {
+    "type": "FIB",
+    "question": "System is consistent if:",
+    "answer": "It has at least one solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "System has no solution if:",
+    "options": [
+      "det(A) ≠ 0",
+      "b = 0",
+      "b not in column space of A",
+      "A is invertible"
+    ],
+    "answer": "b not in column space of A"
+  },
+  {
+    "type": "FIB",
+    "question": "If det(A) = 0, the system:",
+    "answer": "Has no unique solution"
+  }
+]

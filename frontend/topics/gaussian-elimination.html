@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaussian Elimination - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🔄 Gaussian Elimination</h1>
+
+            <h2>What is Gaussian Elimination?</h2>
+            <p><strong>Gaussian elimination</strong> is a systematic method to solve systems of linear equations by row-reducing the augmented matrix to row echelon form.</p>
+
+            <h2>Elementary Row Operations</h2>
+            <div class="example-box">
+                <p><strong>R1:</strong> Swap two rows</p>
+                <p><strong>R2:</strong> Multiply a row by a non-zero scalar</p>
+                <p><strong>R3:</strong> Add a multiple of one row to another</p>
+            </div>
+
+            <h2>Steps</h2>
+            <div class="example-box">
+                <p><strong>1.</strong> Write the augmented matrix $[A|\vec{b}]$</p>
+                <p><strong>2.</strong> Forward elimination: create zeros below each pivot</p>
+                <p><strong>3.</strong> Back substitution: solve from the bottom row upward</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=gaussian-elimination'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

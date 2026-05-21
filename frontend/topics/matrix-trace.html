@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matrix Trace - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">✨ Matrix Trace</h1>
+
+            <!-- SECTION 1: Concept Overview -->
+            <h2>Concept Overview</h2>
+            <p>
+                The <strong>trace</strong> of a square matrix is the sum of all elements along its main diagonal (from top-left to bottom-right).
+                It is one of the most important scalar invariants of a matrix, meaning it does not change when the matrix undergoes a similarity transformation $A \mapsto P^{-1}AP$.
+                The trace is also equal to the sum of the matrix's eigenvalues, providing a deep connection between the matrix's structure and its spectral properties.
+            </p>
+
+            <!-- SECTION 2: Key Formula -->
+            <h2>Key Formula</h2>
+            <div class="example-box">
+                <p><strong>Definition:</strong> For an $n \times n$ matrix $A$, the trace is:</p>
+                $$\text{tr}(A) = \sum_{i=1}^{n} a_{ii} = a_{11} + a_{22} + \cdots + a_{nn}$$
+
+                <p><strong>Linearity:</strong></p>
+                $$\text{tr}(A + B) = \text{tr}(A) + \text{tr}(B) \qquad \text{tr}(cA) = c \cdot \text{tr}(A)$$
+
+                <p><strong>Cyclic Property:</strong></p>
+                $$\text{tr}(AB) = \text{tr}(BA)$$
+
+                <p><strong>Eigenvalue Connection:</strong> If $\lambda_1, \lambda_2, \ldots, \lambda_n$ are the eigenvalues of $A$, then:</p>
+                $$\text{tr}(A) = \lambda_1 + \lambda_2 + \cdots + \lambda_n$$
+            </div>
+
+            <!-- SECTION 3: Practice Problems -->
+            <h2>Practice Problems</h2>
+
+            <!-- Problem 1 -->
+            <div class="example-box">
+                <p><strong>Problem 1 (Easy):</strong> Find the trace of the matrix</p>
+                $$A = \begin{pmatrix} 3 & 1 & 2 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{pmatrix}$$
+
+                <p><strong>Step 1:</strong> Identify the main diagonal elements.</p>
+                <p>The diagonal entries are $a_{11} = 3$, $a_{22} = 5$, and $a_{33} = 9$.</p>
+
+                <p><strong>Step 2:</strong> Sum the diagonal entries.</p>
+                $$\text{tr}(A) = a_{11} + a_{22} + a_{33} = 3 + 5 + 9$$
+
+                <p><strong>Step 3:</strong> Compute the sum.</p>
+                $$3 + 5 + 9 = 17$$
+
+                <p>✅ <strong>Answer:</strong> $\text{tr}(A) = 17$</p>
+            </div>
+
+            <!-- Problem 2 -->
+            <div class="example-box">
+                <p><strong>Problem 2 (Medium):</strong> Let</p>
+                $$A = \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix}, \quad B = \begin{pmatrix} 5 & 6 \\ 7 & 8 \end{pmatrix}$$
+                <p>Verify the cyclic property $\text{tr}(AB) = \text{tr}(BA)$.</p>
+
+                <p><strong>Step 1:</strong> Compute $AB$.</p>
+                $$AB = \begin{pmatrix} 1\cdot5 + 2\cdot7 & 1\cdot6 + 2\cdot8 \\ 3\cdot5 + 4\cdot7 & 3\cdot6 + 4\cdot8 \end{pmatrix} = \begin{pmatrix} 5+14 & 6+16 \\ 15+28 & 18+32 \end{pmatrix} = \begin{pmatrix} 19 & 22 \\ 43 & 50 \end{pmatrix}$$
+
+                <p><strong>Step 2:</strong> Compute $\text{tr}(AB)$.</p>
+                $$\text{tr}(AB) = 19 + 50 = 69$$
+
+                <p><strong>Step 3:</strong> Compute $BA$.</p>
+                $$BA = \begin{pmatrix} 5\cdot1 + 6\cdot3 & 5\cdot2 + 6\cdot4 \\ 7\cdot1 + 8\cdot3 & 7\cdot2 + 8\cdot4 \end{pmatrix} = \begin{pmatrix} 5+18 & 10+24 \\ 7+24 & 14+32 \end{pmatrix} = \begin{pmatrix} 23 & 34 \\ 31 & 46 \end{pmatrix}$$
+
+                <p><strong>Step 4:</strong> Compute $\text{tr}(BA)$.</p>
+                $$\text{tr}(BA) = 23 + 46 = 69$$
+
+                <p><strong>Step 5:</strong> Compare both sides.</p>
+                $$\text{tr}(AB) = 69 = \text{tr}(BA) \quad \checkmark$$
+
+                <p>✅ <strong>Answer:</strong> Both $\text{tr}(AB)$ and $\text{tr}(BA)$ equal $69$, confirming the cyclic property.</p>
+            </div>
+
+            <!-- Problem 3 -->
+            <div class="example-box">
+                <p><strong>Problem 3 (Harder):</strong> The eigenvalues of a $3 \times 3$ matrix $A$ are $\lambda_1 = 2$, $\lambda_2 = 3$, $\lambda_3 = 5$. What is $\text{tr}(A)$? Then verify by computing the trace directly for the diagonal matrix with those eigenvalues.</p>
+
+                <p><strong>Step 1:</strong> Use the eigenvalue-trace connection.</p>
+                <p>Since the trace equals the sum of eigenvalues:</p>
+                $$\text{tr}(A) = \lambda_1 + \lambda_2 + \lambda_3 = 2 + 3 + 5 = 10$$
+
+                <p><strong>Step 2:</strong> Construct a concrete example. Consider the diagonal matrix with the eigenvalues on its diagonal:</p>
+                $$A = \begin{pmatrix} 2 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 5 \end{pmatrix}$$
+
+                <p><strong>Step 3:</strong> Read off the diagonal entries: $a_{11} = 2$, $a_{22} = 3$, $a_{33} = 5$.</p>
+
+                <p><strong>Step 4:</strong> Compute the trace directly.</p>
+                $$\text{tr}(A) = 2 + 3 + 5 = 10$$
+
+                <p><strong>Step 5:</strong> Both methods agree.</p>
+                $$\text{tr}(A) = \lambda_1 + \lambda_2 + \lambda_3 = 10 \quad \checkmark$$
+
+                <p>✅ <strong>Answer:</strong> $\text{tr}(A) = 10$</p>
+            </div>
+
+            <!-- SECTION 4: Key Properties -->
+            <h2>Key Properties</h2>
+            <div class="example-box">
+                <p><strong>1.</strong> The trace is the <em>sum of the diagonal elements</em>: $\text{tr}(A) = \sum_{i=1}^n a_{ii}$. Off-diagonal elements do not contribute.</p>
+                <p><strong>2.</strong> The trace is <em>linear</em>: $\text{tr}(A + B) = \text{tr}(A) + \text{tr}(B)$ and $\text{tr}(cA) = c \cdot \text{tr}(A)$.</p>
+                <p><strong>3.</strong> The trace satisfies the <em>cyclic property</em>: $\text{tr}(AB) = \text{tr}(BA)$. Note that $AB \neq BA$ in general, but their traces are always equal.</p>
+                <p><strong>4.</strong> The trace is a <em>similarity invariant</em>: if $B = P^{-1}AP$, then $\text{tr}(B) = \text{tr}(A)$. This means the trace is the same regardless of which basis is used to represent the linear transformation.</p>
+                <p><strong>5.</strong> The trace equals the <em>sum of the eigenvalues</em> (counting algebraic multiplicity): $\text{tr}(A) = \lambda_1 + \lambda_2 + \cdots + \lambda_n$.</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=matrix-trace'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+    <script src="../js/theme.js"></script>
+</body>
+</html>

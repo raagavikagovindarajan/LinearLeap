@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orthogonality - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">⊥ Orthogonality</h1>
+
+            <h2>What is Orthogonality?</h2>
+            <p>Two vectors are <strong>orthogonal</strong> (perpendicular) if their dot product is zero: $\vec{u} \cdot \vec{v} = 0$.</p>
+
+            <h2>Orthogonal Matrices</h2>
+            <div class="example-box">
+                <p>A square matrix $Q$ is <strong>orthogonal</strong> if its columns form an orthonormal set:</p>
+                <p style="text-align:center; font-size:1.2rem; margin:1rem 0;">$$Q^T Q = QQ^T = I, \text{ so } Q^{-1} = Q^T$$</p>
+            </div>
+
+            <h2>Orthonormal Sets</h2>
+            <div class="example-box">
+                <p>A set of vectors is <strong>orthonormal</strong> if every pair is orthogonal AND each vector has magnitude 1.</p>
+                <p>$\vec{u}_i \cdot \vec{u}_j = \begin{cases} 1 & i = j \\ 0 & i \neq j \end{cases}$</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=orthogonality'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

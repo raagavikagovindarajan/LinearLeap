@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linear Transformations - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🔀 Linear Transformations</h1>
+
+            <h2>Concept Overview</h2>
+            <p>A <strong>linear transformation</strong> is a function $T: \mathbb{R}^n \to \mathbb{R}^m$ that preserves vector addition and scalar multiplication. This means it maps lines through the origin to lines through the origin and keeps the grid lines parallel and evenly spaced. Every linear transformation can be represented by multiplication by a matrix $A$, so that $T(\mathbf{x}) = A\mathbf{x}$.</p>
+            <p>The two defining properties are: <strong>additivity</strong> — $T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v})$ — and <strong>homogeneity</strong> — $T(c\mathbf{u}) = cT(\mathbf{u})$ for any scalar $c$. Common examples include rotations, reflections, scalings, and shear transformations.</p>
+
+            <h2>Key Formulas</h2>
+            <div class="example-box">
+                <p><strong>General Matrix Representation:</strong></p>
+                $$T(\mathbf{x}) = A\mathbf{x}$$
+                <p><strong>Linearity Conditions:</strong></p>
+                $$T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v}), \qquad T(c\mathbf{u}) = cT(\mathbf{u})$$
+                <p><strong>Rotation by angle $\theta$ (counterclockwise):</strong></p>
+                $$R_\theta = \begin{pmatrix} \cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{pmatrix}$$
+                <p><strong>Scaling matrix (scale $x$ by $a$, $y$ by $b$):</strong></p>
+                $$S = \begin{pmatrix} a & 0 \\ 0 & b \end{pmatrix}$$
+                <p><strong>Horizontal shear:</strong></p>
+                $$H = \begin{pmatrix} 1 & k \\ 0 & 1 \end{pmatrix}$$
+            </div>
+
+            <h2>Practice Problems</h2>
+
+            <div class="example-box">
+                <p><strong>Problem 1 (Easy) — Rotation by 90°</strong></p>
+                <p>The rotation matrix for $\theta = 90°$ is:</p>
+                $$R_{90°} = \begin{pmatrix} \cos 90° & -\sin 90° \\ \sin 90° & \cos 90° \end{pmatrix} = \begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}$$
+                <p>Apply $T$ to the vector $\mathbf{x} = (3, 1)$:</p>
+                $$T\begin{pmatrix}3\\1\end{pmatrix} = \begin{pmatrix}0 & -1\\1 & 0\end{pmatrix}\begin{pmatrix}3\\1\end{pmatrix}$$
+                <p>Computing each entry:</p>
+                $$\text{Row 1: } (0)(3) + (-1)(1) = 0 - 1 = -1$$
+                $$\text{Row 2: } (1)(3) + (0)(1) = 3 + 0 = 3$$
+                <p>✅ <strong>Answer:</strong> $T(3, 1) = (-1, 3)$</p>
+                <p><em>Geometrically, rotating $(3,1)$ by $90°$ counterclockwise gives $(-1,3)$.</em></p>
+            </div>
+
+            <div class="example-box">
+                <p><strong>Problem 2 (Medium) — Scaling Transformation</strong></p>
+                <p>Let $A = \begin{pmatrix}2 & 0\\0 & 3\end{pmatrix}$ be a scaling matrix that doubles the $x$-component and triples the $y$-component.</p>
+                <p><strong>Part (a):</strong> Apply $T$ to $(1, 4)$:</p>
+                $$T\begin{pmatrix}1\\4\end{pmatrix} = \begin{pmatrix}2 & 0\\0 & 3\end{pmatrix}\begin{pmatrix}1\\4\end{pmatrix}$$
+                $$\text{Row 1: } (2)(1) + (0)(4) = 2$$
+                $$\text{Row 2: } (0)(1) + (3)(4) = 12$$
+                <p>✅ <strong>Answer (a):</strong> $T(1, 4) = (2, 12)$</p>
+                <p><strong>Part (b):</strong> Apply $T$ to $(1, 1)$:</p>
+                $$T\begin{pmatrix}1\\1\end{pmatrix} = \begin{pmatrix}2 & 0\\0 & 3\end{pmatrix}\begin{pmatrix}1\\1\end{pmatrix}$$
+                $$\text{Row 1: } (2)(1) + (0)(1) = 2$$
+                $$\text{Row 2: } (0)(1) + (3)(1) = 3$$
+                <p>✅ <strong>Answer (b):</strong> $T(1, 1) = (2, 3)$</p>
+            </div>
+
+            <div class="example-box">
+                <p><strong>Problem 3 (Harder) — Shear Transformation & Unit Square</strong></p>
+                <p>Let $A = \begin{pmatrix}1 & 1\\0 & 1\end{pmatrix}$ be a horizontal shear matrix.</p>
+                <p><strong>Part (a):</strong> Apply $T$ to $(2, 3)$:</p>
+                $$T\begin{pmatrix}2\\3\end{pmatrix} = \begin{pmatrix}1 & 1\\0 & 1\end{pmatrix}\begin{pmatrix}2\\3\end{pmatrix}$$
+                $$\text{Row 1: } (1)(2) + (1)(3) = 2 + 3 = 5$$
+                $$\text{Row 2: } (0)(2) + (1)(3) = 0 + 3 = 3$$
+                <p>✅ <strong>Answer (a):</strong> $T(2, 3) = (5, 3)$</p>
+                <p><strong>Part (b):</strong> Find the image of the four unit square corners $\{(0,0),\,(1,0),\,(0,1),\,(1,1)\}$:</p>
+                $$T\begin{pmatrix}0\\0\end{pmatrix} = \begin{pmatrix}0+0\\0\end{pmatrix} = \begin{pmatrix}0\\0\end{pmatrix}$$
+                $$T\begin{pmatrix}1\\0\end{pmatrix} = \begin{pmatrix}1+0\\0\end{pmatrix} = \begin{pmatrix}1\\0\end{pmatrix}$$
+                $$T\begin{pmatrix}0\\1\end{pmatrix} = \begin{pmatrix}0+1\\1\end{pmatrix} = \begin{pmatrix}1\\1\end{pmatrix}$$
+                $$T\begin{pmatrix}1\\1\end{pmatrix} = \begin{pmatrix}1+1\\1\end{pmatrix} = \begin{pmatrix}2\\1\end{pmatrix}$$
+                <p>✅ <strong>Answer (b):</strong> The unit square is mapped to the parallelogram with corners $(0,0)$, $(1,0)$, $(1,1)$, $(2,1)$. The shear slides the top edge to the right while keeping the bottom edge fixed.</p>
+            </div>
+
+            <h2>Key Properties</h2>
+            <div class="example-box">
+                <p><strong>1.</strong> A linear transformation always maps the zero vector to the zero vector: $T(\mathbf{0}) = \mathbf{0}$.</p>
+                <p><strong>2.</strong> The <strong>standard matrix</strong> of $T$ is formed by computing $T(\mathbf{e}_1), T(\mathbf{e}_2), \ldots$ and using them as columns: $A = [T(\mathbf{e}_1) \mid T(\mathbf{e}_2) \mid \cdots]$.</p>
+                <p><strong>3.</strong> The <strong>composition</strong> of two linear transformations $T_1$ and $T_2$ is also linear, with matrix $A_1 A_2$ (note the order: apply $T_2$ first).</p>
+                <p><strong>4.</strong> A linear transformation $T: \mathbb{R}^n \to \mathbb{R}^m$ is <strong>one-to-one</strong> if and only if $A\mathbf{x} = \mathbf{0}$ has only the trivial solution (i.e., $\text{Null}(A) = \{\mathbf{0}\}$).</p>
+                <p><strong>5.</strong> $T$ is <strong>onto</strong> $\mathbb{R}^m$ if and only if the columns of $A$ span $\mathbb{R}^m$, i.e., $\text{rank}(A) = m$.</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=linear-transformations'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+    <script src="../js/theme.js"></script>
+</body>
+</html>

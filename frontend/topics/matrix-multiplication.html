@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matrix Multiplication - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">📐 Matrix Multiplication</h1>
+
+            <h2>Concept Overview</h2>
+            <p>
+                Matrix multiplication combines two matrices to produce a third matrix by taking dot products of rows and columns.
+                For two matrices $A$ (of size $m \times n$) and $B$ (of size $n \times p$), the product $AB$ is defined only when the number of columns of $A$ equals the number of rows of $B$, resulting in an $m \times p$ matrix.
+                Unlike scalar multiplication, matrix multiplication is generally <strong>not commutative</strong> — that is, $AB \neq BA$ in general.
+            </p>
+
+            <h2>Key Formula</h2>
+            <div class="example-box">
+                <p>Each entry of the product matrix $C = AB$ is computed as:</p>
+                $$C_{ij} = \sum_{k=1}^{n} A_{ik} \cdot B_{kj}$$
+                <p>That is, the $(i,j)$ entry of $C$ is the dot product of the $i$-th row of $A$ with the $j$-th column of $B$.</p>
+                <p><strong>Dimension rule:</strong> If $A$ is $m \times n$ and $B$ is $n \times p$, then $AB$ is $m \times p$.</p>
+                $$\underbrace{A}_{m \times n} \cdot \underbrace{B}_{n \times p} = \underbrace{C}_{m \times p}$$
+            </div>
+
+            <h2>Practice Problems</h2>
+
+            <div class="example-box">
+                <p><strong>Problem 1</strong> — Multiply the following $2 \times 2$ matrices:</p>
+                $$A = \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix}, \quad B = \begin{pmatrix} 5 & 0 \\ 1 & 2 \end{pmatrix}$$
+                <p><strong>Step 1:</strong> Identify the dimensions. $A$ is $2\times 2$, $B$ is $2\times 2$, so $AB$ is $2\times 2$.</p>
+                <p><strong>Step 2:</strong> Compute each entry of $C = AB$:</p>
+                <p>$C_{11}$: Row 1 of $A$ · Col 1 of $B$ $= (1)(5) + (2)(1) = 5 + 2 = 7$</p>
+                <p>$C_{12}$: Row 1 of $A$ · Col 2 of $B$ $= (1)(0) + (2)(2) = 0 + 4 = 4$</p>
+                <p>$C_{21}$: Row 2 of $A$ · Col 1 of $B$ $= (3)(5) + (4)(1) = 15 + 4 = 19$</p>
+                <p>$C_{22}$: Row 2 of $A$ · Col 2 of $B$ $= (3)(0) + (4)(2) = 0 + 8 = 8$</p>
+                <p><strong>Step 3:</strong> Assemble the result:</p>
+                $$AB = \begin{pmatrix} 7 & 4 \\ 19 & 8 \end{pmatrix}$$
+                <p>✅ <strong>Answer:</strong> $AB = \begin{pmatrix} 7 & 4 \\ 19 & 8 \end{pmatrix}$</p>
+            </div>
+
+            <div class="example-box">
+                <p><strong>Problem 2</strong> — Multiply the following $2 \times 2$ matrices (with negative numbers):</p>
+                $$A = \begin{pmatrix} 2 & -1 \\ 4 & 3 \end{pmatrix}, \quad B = \begin{pmatrix} 1 & 2 \\ -3 & 5 \end{pmatrix}$$
+                <p><strong>Step 1:</strong> Both matrices are $2\times 2$, so $AB$ is $2\times 2$.</p>
+                <p><strong>Step 2:</strong> Compute each entry:</p>
+                <p>$C_{11}$: $(2)(1) + (-1)(-3) = 2 + 3 = 5$</p>
+                <p>$C_{12}$: $(2)(2) + (-1)(5) = 4 - 5 = -1$</p>
+                <p>$C_{21}$: $(4)(1) + (3)(-3) = 4 - 9 = -5$</p>
+                <p>$C_{22}$: $(4)(2) + (3)(5) = 8 + 15 = 23$</p>
+                <p><strong>Step 3:</strong> Assemble the result:</p>
+                $$AB = \begin{pmatrix} 5 & -1 \\ -5 & 23 \end{pmatrix}$$
+                <p>✅ <strong>Answer:</strong> $AB = \begin{pmatrix} 5 & -1 \\ -5 & 23 \end{pmatrix}$</p>
+            </div>
+
+            <div class="example-box">
+                <p><strong>Problem 3</strong> — Multiply the following $3 \times 3$ matrices:</p>
+                $$A = \begin{pmatrix} 1 & 0 & 2 \\ 0 & 1 & 3 \\ 2 & 1 & 0 \end{pmatrix}, \quad B = \begin{pmatrix} 1 & 1 & 0 \\ 0 & 1 & 1 \\ 1 & 0 & 1 \end{pmatrix}$$
+                <p><strong>Step 1:</strong> Both are $3\times 3$, so $AB$ is $3\times 3$. There are 9 entries to compute.</p>
+                <p><strong>Step 2:</strong> Compute each entry row by row:</p>
+                <p><em>Row 1 of $A$ = $(1, 0, 2)$:</em></p>
+                <p>$C_{11}$: $(1)(1)+(0)(0)+(2)(1) = 1+0+2 = 3$</p>
+                <p>$C_{12}$: $(1)(1)+(0)(1)+(2)(0) = 1+0+0 = 1$</p>
+                <p>$C_{13}$: $(1)(0)+(0)(1)+(2)(1) = 0+0+2 = 2$</p>
+                <p><em>Row 2 of $A$ = $(0, 1, 3)$:</em></p>
+                <p>$C_{21}$: $(0)(1)+(1)(0)+(3)(1) = 0+0+3 = 3$</p>
+                <p>$C_{22}$: $(0)(1)+(1)(1)+(3)(0) = 0+1+0 = 1$</p>
+                <p>$C_{23}$: $(0)(0)+(1)(1)+(3)(1) = 0+1+3 = 4$</p>
+                <p><em>Row 3 of $A$ = $(2, 1, 0)$:</em></p>
+                <p>$C_{31}$: $(2)(1)+(1)(0)+(0)(1) = 2+0+0 = 2$</p>
+                <p>$C_{32}$: $(2)(1)+(1)(1)+(0)(0) = 2+1+0 = 3$</p>
+                <p>$C_{33}$: $(2)(0)+(1)(1)+(0)(1) = 0+1+0 = 1$</p>
+                <p><strong>Step 3:</strong> Assemble the result:</p>
+                $$AB = \begin{pmatrix} 3 & 1 & 2 \\ 3 & 1 & 4 \\ 2 & 3 & 1 \end{pmatrix}$$
+                <p>✅ <strong>Answer:</strong> $AB = \begin{pmatrix} 3 & 1 & 2 \\ 3 & 1 & 4 \\ 2 & 3 & 1 \end{pmatrix}$</p>
+            </div>
+
+            <h2>Key Properties</h2>
+            <div class="example-box">
+                <p><strong>1.</strong> <strong>Not commutative (in general):</strong> $AB \neq BA$. The order of multiplication matters.</p>
+                <p><strong>2.</strong> <strong>Associative:</strong> $(AB)C = A(BC)$. You can group multiplications in any order.</p>
+                <p><strong>3.</strong> <strong>Distributive:</strong> $A(B+C) = AB + AC$ and $(A+B)C = AC + BC$.</p>
+                <p><strong>4.</strong> <strong>Dimension compatibility:</strong> $A_{m\times n} \cdot B_{n\times p}$ is defined only when the inner dimensions match ($n = n$).</p>
+                <p><strong>5.</strong> <strong>Identity element:</strong> $AI = IA = A$ where $I$ is the identity matrix of appropriate size.</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=matrix'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+    <script src="../js/theme.js"></script>
+</body>
+</html>

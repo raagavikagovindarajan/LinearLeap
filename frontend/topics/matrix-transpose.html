@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matrix Transpose - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🔄 Matrix Transpose</h1>
+
+            <h2>Concept Overview</h2>
+            <p>
+                The <strong>transpose</strong> of a matrix $A$, written $A^T$, is formed by flipping the matrix over its main diagonal — that is, swapping its rows and columns. If $A$ is an $m \times n$ matrix, then $A^T$ is an $n \times m$ matrix. Formally, the entry in row $i$, column $j$ of $A^T$ equals the entry in row $j$, column $i$ of $A$: $(A^T)_{ij} = A_{ji}$.
+            </p>
+            <p>
+                Transposing is a fundamental operation in linear algebra used in everything from solving systems of equations to computing projections, covariance matrices in statistics, and defining symmetric and orthogonal matrices.
+            </p>
+
+            <h2>Key Formula</h2>
+            <div class="example-box">
+                <p><strong>Entry-wise definition:</strong></p>
+                $$(A^T)_{ij} = A_{ji}$$
+                <p><strong>Double transpose (involution):</strong></p>
+                $$(A^T)^T = A$$
+                <p><strong>Transpose of a product:</strong></p>
+                $$(AB)^T = B^T A^T$$
+                <p><strong>Transpose of a sum:</strong></p>
+                $$(A + B)^T = A^T + B^T$$
+            </div>
+
+            <h2>Practice Problems</h2>
+
+            <div class="example-box">
+                <p><strong>Problem 1 (Easy):</strong> Let $A = \begin{pmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{pmatrix}$. Compute $A^T$.</p>
+                <hr>
+                <p><strong>Step 1:</strong> Identify the dimensions. $A$ is a $2 \times 3$ matrix, so $A^T$ will be $3 \times 2$.</p>
+                <p><strong>Step 2:</strong> Apply the rule $(A^T)_{ij} = A_{ji}$. The first row of $A$ becomes the first column of $A^T$, and the second row of $A$ becomes the second column of $A^T$.</p>
+                <p><strong>Step 3:</strong> Write out $A^T$ by placing each row of $A$ as a column:</p>
+                $$A^T = \begin{pmatrix} 1 & 4 \\ 2 & 5 \\ 3 & 6 \end{pmatrix}$$
+                <p>✅ <strong>Answer:</strong> $A^T = \begin{pmatrix} 1 & 4 \\ 2 & 5 \\ 3 & 6 \end{pmatrix}$, a $3 \times 2$ matrix.</p>
+            </div>
+
+            <div class="example-box">
+                <p><strong>Problem 2 (Medium):</strong> Let $A = \begin{pmatrix} 2 & 1 \\ 3 & 4 \\ 1 & 0 \end{pmatrix}$. Compute $A^T$, then verify that $(A^T)^T = A$.</p>
+                <hr>
+                <p><strong>Step 1:</strong> $A$ is $3 \times 2$, so $A^T$ will be $2 \times 3$. Swap rows and columns:</p>
+                $$A^T = \begin{pmatrix} 2 & 3 & 1 \\ 1 & 4 & 0 \end{pmatrix}$$
+                <p><strong>Step 2:</strong> Verify $(A^T)^T = A$ by transposing $A^T$. $A^T$ is $2 \times 3$, so $(A^T)^T$ is $3 \times 2$. The first row of $A^T$ (which is $[2, 3, 1]$) becomes the first column of $(A^T)^T$, and the second row of $A^T$ (which is $[1, 4, 0]$) becomes the second column:</p>
+                $$(A^T)^T = \begin{pmatrix} 2 & 1 \\ 3 & 4 \\ 1 & 0 \end{pmatrix}$$
+                <p><strong>Step 3:</strong> Compare with the original $A$:</p>
+                $$A = \begin{pmatrix} 2 & 1 \\ 3 & 4 \\ 1 & 0 \end{pmatrix} \quad \checkmark$$
+                <p>✅ <strong>Answer:</strong> $A^T = \begin{pmatrix} 2 & 3 & 1 \\ 1 & 4 & 0 \end{pmatrix}$, and $(A^T)^T = A$ is verified.</p>
+            </div>
+
+            <div class="example-box">
+                <p><strong>Problem 3 (Harder):</strong> Let $A = \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix}$ and $B = \begin{pmatrix} 5 & 6 \\ 7 & 8 \end{pmatrix}$. Compute $(AB)^T$ and verify it equals $B^T A^T$.</p>
+                <hr>
+                <p><strong>Step 1:</strong> Compute $AB$.</p>
+                $$AB = \begin{pmatrix} 1\cdot5 + 2\cdot7 & 1\cdot6 + 2\cdot8 \\ 3\cdot5 + 4\cdot7 & 3\cdot6 + 4\cdot8 \end{pmatrix} = \begin{pmatrix} 5+14 & 6+16 \\ 15+28 & 18+32 \end{pmatrix} = \begin{pmatrix} 19 & 22 \\ 43 & 50 \end{pmatrix}$$
+                <p><strong>Step 2:</strong> Compute $(AB)^T$ by swapping rows and columns of $AB$:</p>
+                $$(AB)^T = \begin{pmatrix} 19 & 43 \\ 22 & 50 \end{pmatrix}$$
+                <p><strong>Step 3:</strong> Compute $B^T$ and $A^T$:</p>
+                $$B^T = \begin{pmatrix} 5 & 7 \\ 6 & 8 \end{pmatrix}, \quad A^T = \begin{pmatrix} 1 & 3 \\ 2 & 4 \end{pmatrix}$$
+                <p><strong>Step 4:</strong> Compute $B^T A^T$:</p>
+                $$B^T A^T = \begin{pmatrix} 5\cdot1 + 7\cdot2 & 5\cdot3 + 7\cdot4 \\ 6\cdot1 + 8\cdot2 & 6\cdot3 + 8\cdot4 \end{pmatrix} = \begin{pmatrix} 5+14 & 15+28 \\ 6+16 & 18+32 \end{pmatrix} = \begin{pmatrix} 19 & 43 \\ 22 & 50 \end{pmatrix}$$
+                <p><strong>Step 5:</strong> Compare: $(AB)^T = \begin{pmatrix} 19 & 43 \\ 22 & 50 \end{pmatrix} = B^T A^T$ ✓</p>
+                <p>✅ <strong>Answer:</strong> $(AB)^T = B^T A^T = \begin{pmatrix} 19 & 43 \\ 22 & 50 \end{pmatrix}$. The property is verified.</p>
+            </div>
+
+            <h2>Key Properties</h2>
+            <div class="example-box">
+                <p><strong>1.</strong> <strong>Involution:</strong> $(A^T)^T = A$. Transposing twice returns the original matrix.</p>
+                <p><strong>2.</strong> <strong>Reversal for products:</strong> $(AB)^T = B^T A^T$. The order of multiplication reverses when transposing a product.</p>
+                <p><strong>3.</strong> <strong>Linearity:</strong> $(A + B)^T = A^T + B^T$ and $(cA)^T = cA^T$ for any scalar $c$.</p>
+                <p><strong>4.</strong> <strong>Symmetric matrices:</strong> A matrix is symmetric if $A^T = A$, and skew-symmetric if $A^T = -A$.</p>
+                <p><strong>5.</strong> <strong>Determinant preserved:</strong> $\det(A^T) = \det(A)$, so transposing does not change the determinant.</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=matrix-transpose'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+    <script src="../js/theme.js"></script>
+</body>
+</html>
