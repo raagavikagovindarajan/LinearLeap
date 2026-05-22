@@ -1,0 +1,8002 @@
+[
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "All possible outputs",
+      "Null space",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Kernel",
+      "All inputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Distances always",
+      "Volume always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "An n×m matrix",
+      "A scalar",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Not linear",
+      "Zero",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Kernel",
+      "Null space",
+      "All inputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Translation",
+      "Reflection",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Rotation",
+      "Reflection",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "Kernel",
+      "Null space",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "T",
+      "I",
+      "v",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "I",
+      "0",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Kernel",
+      "All inputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "T",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "A vector",
+      "A scalar",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Zero",
+      "Not linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "I",
+      "0",
+      "v",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "0",
+      "T",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Rotation",
+      "Reflection",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "All inputs",
+      "Kernel",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "0",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Non-invertible",
+      "A linear transformation",
+      "A translation",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "Kernel",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Reflection",
+      "Rotation",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Angles always",
+      "Volume always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Zero",
+      "Not linear",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "0",
+      "T",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "I",
+      "T",
+      "v"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A linear transformation",
+      "Non-invertible",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A linear transformation",
+      "Non-invertible",
+      "A translation",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "T",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Translation",
+      "Scaling",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "An n×m matrix",
+      "An m×n matrix",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Zero",
+      "Undefined",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A linear transformation",
+      "Not linear",
+      "A translation",
+      "Non-invertible"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "All possible outputs",
+      "Kernel",
+      "All inputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Zero",
+      "Linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Zero",
+      "Not linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "v",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Not linear",
+      "Linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Translation",
+      "Reflection",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "All possible outputs",
+      "All inputs",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "v",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "Undefined",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Linear",
+      "Undefined",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "T",
+      "v",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "0",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "Kernel",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Linear",
+      "Not linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Rotation",
+      "Scaling",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "A vector",
+      "An n×m matrix",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "T",
+      "Undefined",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A linear transformation",
+      "A translation",
+      "Non-invertible",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "0",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Zero",
+      "Linear",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A linear transformation",
+      "Non-invertible",
+      "A translation",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Linear",
+      "Zero",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Volume always",
+      "Distances always",
+      "Angles always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A translation",
+      "A linear transformation",
+      "Non-invertible"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Reflection",
+      "Scaling",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Distances always",
+      "Volume always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "I",
+      "T",
+      "v",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A linear transformation",
+      "Not linear",
+      "Non-invertible",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Translation",
+      "Reflection",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Zero",
+      "Undefined",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Distances always",
+      "Volume always",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A translation",
+      "Non-invertible",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A linear transformation",
+      "Not linear",
+      "Non-invertible",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Angles always",
+      "Linear combinations",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "All inputs",
+      "All possible outputs",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "I",
+      "T",
+      "v",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "Null space",
+      "All possible outputs",
+      "All inputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "A vector",
+      "An m×n matrix",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "Kernel",
+      "All inputs",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Scaling",
+      "Rotation",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "Undefined",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "Undefined",
+      "T",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "T",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "A vector",
+      "An m×n matrix",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "Undefined",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Not linear",
+      "Zero",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "I",
+      "Undefined",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Linear combinations",
+      "Volume always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Angles always",
+      "Volume always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Rotation",
+      "Reflection",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Distances always",
+      "Volume always",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "A vector",
+      "An n×m matrix",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Angles always",
+      "Volume always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Linear",
+      "Undefined",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "I",
+      "T",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Linear combinations",
+      "Volume always",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Undefined",
+      "Linear",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Translation",
+      "Scaling",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Zero",
+      "Undefined",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A linear transformation",
+      "Non-invertible",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Linear combinations",
+      "Angles always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "An m×n matrix",
+      "An n×m matrix",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A translation",
+      "Non-invertible",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Undefined",
+      "Zero",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Linear",
+      "Zero",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "An n×m matrix",
+      "A scalar",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "Kernel",
+      "All inputs",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "An n×m matrix",
+      "A scalar",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Undefined",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Zero",
+      "Not linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "A vector",
+      "An m×n matrix",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A translation",
+      "A linear transformation",
+      "Non-invertible",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Zero",
+      "Linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Scaling",
+      "Translation",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "0",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Scaling",
+      "Translation",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "0",
+      "T",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "0",
+      "Undefined",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "I",
+      "v",
+      "0",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "An n×m matrix",
+      "A scalar",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "Null space",
+      "All possible outputs",
+      "All inputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Reflection",
+      "Translation",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "Kernel",
+      "All inputs",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "All inputs",
+      "Kernel",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "I",
+      "0",
+      "v",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Non-invertible",
+      "Not linear",
+      "A translation",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An m×n matrix",
+      "An n×m matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Translation",
+      "Rotation",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "T",
+      "I",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "Null space",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Reflection",
+      "Translation",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Reflection",
+      "Rotation",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "T",
+      "Undefined",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Undefined",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "I",
+      "0",
+      "v",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Linear combinations",
+      "Angles always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Reflection",
+      "Translation",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Scaling",
+      "Reflection",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "0",
+      "I",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "I",
+      "T",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "0",
+      "I",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Reflection",
+      "Translation",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All possible outputs",
+      "Null space",
+      "All inputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "T",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Volume always",
+      "Linear combinations",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "A scalar",
+      "An n×m matrix",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "An n×m matrix",
+      "An m×n matrix",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "Undefined",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "I",
+      "0",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Volume always",
+      "Distances always",
+      "Linear combinations",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Non-invertible",
+      "A translation",
+      "Not linear",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Undefined",
+      "Zero",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Translation",
+      "Reflection",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "v",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Reflection",
+      "Rotation",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "T",
+      "I",
+      "v"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Not linear",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Not linear",
+      "Linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Rotation",
+      "Reflection",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Zero",
+      "Linear",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Distances always",
+      "Angles always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Undefined",
+      "Zero",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "Null space",
+      "All possible outputs",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "An n×m matrix",
+      "A vector",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "0",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Distances always",
+      "Linear combinations",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Scaling",
+      "Rotation",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Translation",
+      "Rotation",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "An n×m matrix",
+      "A scalar",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Linear combinations",
+      "Distances always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Not linear",
+      "Undefined",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A linear transformation",
+      "Non-invertible",
+      "A translation",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An m×n matrix",
+      "An n×m matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Rotation",
+      "Translation",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "All possible outputs",
+      "Kernel",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Distances always",
+      "Volume always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Not linear",
+      "Linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Volume always",
+      "Angles always",
+      "Distances always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "0",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Rotation",
+      "Scaling",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Volume always",
+      "Angles always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "I",
+      "T",
+      "0",
+      "v"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A translation",
+      "A linear transformation",
+      "Non-invertible",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "A vector",
+      "An m×n matrix",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "I",
+      "T",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Kernel",
+      "Null space",
+      "All inputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Linear combinations",
+      "Distances always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "I",
+      "T",
+      "Undefined",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Translation",
+      "Scaling",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Volume always",
+      "Distances always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A linear transformation",
+      "Non-invertible",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "A scalar",
+      "A vector",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "All possible outputs",
+      "Null space",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "Undefined",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Scaling",
+      "Reflection",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Translation",
+      "Reflection",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "Undefined",
+      "T",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "An n×m matrix",
+      "A vector",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "I",
+      "0",
+      "Undefined",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Kernel",
+      "Null space",
+      "All inputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Translation",
+      "Rotation",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A translation",
+      "Non-invertible",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "0",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Not linear",
+      "Zero",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Reflection",
+      "Rotation",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "I",
+      "T",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Rotation",
+      "Reflection",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "T",
+      "v",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "An m×n matrix",
+      "A scalar",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Angles always",
+      "Distances always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "I",
+      "0",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Zero",
+      "Undefined",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "An n×m matrix",
+      "A scalar",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Rotation",
+      "Reflection",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Linear",
+      "Undefined",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "A scalar",
+      "A vector",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Scaling",
+      "Reflection",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A linear transformation",
+      "Non-invertible",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Kernel",
+      "All inputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Non-invertible",
+      "A linear transformation",
+      "Not linear",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "T",
+      "0",
+      "v",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Volume always",
+      "Linear combinations",
+      "Distances always",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "All possible outputs",
+      "Kernel",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Volume always",
+      "Angles always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Scaling",
+      "Rotation",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Undefined",
+      "Not linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Translation",
+      "Rotation",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Undefined",
+      "Zero",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Scaling",
+      "Rotation",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "A scalar",
+      "An n×m matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "All possible outputs",
+      "All inputs",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Linear",
+      "Not linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A translation",
+      "A linear transformation",
+      "Not linear",
+      "Non-invertible"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Scaling",
+      "Reflection",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Translation",
+      "Reflection",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Volume always",
+      "Distances always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Reflection",
+      "Rotation",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "Undefined",
+      "T",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Translation",
+      "Scaling",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A linear transformation",
+      "Non-invertible",
+      "Not linear",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "An m×n matrix",
+      "An n×m matrix",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Scaling",
+      "Translation",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Not linear",
+      "Zero",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Scaling",
+      "Rotation",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Not linear",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Not linear",
+      "Zero",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "I",
+      "0",
+      "T",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Non-invertible",
+      "Not linear",
+      "A linear transformation",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "All possible outputs",
+      "All inputs",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Not linear",
+      "Zero",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Reflection",
+      "Rotation",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "T",
+      "I",
+      "v"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "I",
+      "T",
+      "0",
+      "v"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Rotation",
+      "Scaling",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Scaling",
+      "Translation",
+      "Rotation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Volume always",
+      "Angles always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "A scalar",
+      "An n×m matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Scaling",
+      "Reflection",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A translation",
+      "Not linear",
+      "Non-invertible",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Non-invertible",
+      "Not linear",
+      "A translation",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Linear combinations",
+      "Volume always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Non-invertible",
+      "A translation",
+      "A linear transformation",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "All possible outputs",
+      "Kernel",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "I",
+      "0",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "An n×m matrix",
+      "A scalar",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A translation",
+      "A linear transformation",
+      "Not linear",
+      "Non-invertible"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A translation",
+      "Not linear",
+      "A linear transformation",
+      "Non-invertible"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Linear combinations",
+      "Volume always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A linear transformation",
+      "A translation",
+      "Non-invertible"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "A vector",
+      "An n×m matrix",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Distances always",
+      "Volume always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "I",
+      "0",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Kernel",
+      "Null space",
+      "All inputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "I",
+      "T",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "All possible outputs",
+      "All inputs",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "A vector",
+      "A scalar",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "A scalar",
+      "A vector",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Kernel",
+      "Null space",
+      "All inputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "I",
+      "0",
+      "v",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Non-invertible",
+      "A linear transformation",
+      "Not linear",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "All possible outputs",
+      "All inputs",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Translation",
+      "Rotation",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "I",
+      "T",
+      "v"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Linear combinations",
+      "Volume always",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A translation",
+      "Not linear",
+      "Non-invertible",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "All possible outputs",
+      "Null space",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An m×n matrix",
+      "A vector",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Undefined",
+      "Linear",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Undefined",
+      "Linear",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "All inputs",
+      "Null space",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "I",
+      "T",
+      "0",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Linear",
+      "Zero",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An n×m matrix",
+      "An m×n matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "A scalar",
+      "A vector",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "Non-invertible",
+      "A translation",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A translation",
+      "Not linear",
+      "Non-invertible",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Zero",
+      "Linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "T",
+      "v",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Volume always",
+      "Angles always",
+      "Linear combinations",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Not linear",
+      "Linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Rotation",
+      "Scaling",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "Null space",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "0",
+      "I",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Null space",
+      "All inputs",
+      "Kernel",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Reflection",
+      "Rotation",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Null space",
+      "All inputs",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Angles always",
+      "Distances always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "T",
+      "I",
+      "v"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "I",
+      "T",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Reflection",
+      "Translation",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "An m×n matrix",
+      "A scalar",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "An n×m matrix",
+      "A vector",
+      "A scalar"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Distances always",
+      "Linear combinations",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Not linear",
+      "Linear",
+      "Undefined",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Linear combinations",
+      "Angles always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Rotation",
+      "Translation",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "A translation",
+      "Non-invertible",
+      "A linear transformation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "Non-invertible",
+      "A linear transformation",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "I",
+      "0",
+      "T",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Linear combinations",
+      "Angles always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All inputs",
+      "Kernel",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Rotation",
+      "Translation",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "Null space",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Angles always",
+      "Volume always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Not linear",
+      "Zero",
+      "Linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Angles always",
+      "Distances always",
+      "Volume always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Translation",
+      "Rotation",
+      "Reflection",
+      "Scaling"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Linear combinations",
+      "Volume always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Not linear",
+      "Linear",
+      "Undefined"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "T",
+      "v",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Volume always",
+      "Linear combinations",
+      "Distances always",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "0",
+      "I",
+      "T",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Distances always",
+      "Volume always",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "0",
+      "Undefined",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "I",
+      "T",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Linear",
+      "Zero",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Volume always",
+      "Distances always",
+      "Linear combinations",
+      "Angles always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An m×n matrix",
+      "An n×m matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Distances always",
+      "Angles always",
+      "Volume always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Not linear",
+      "Non-invertible",
+      "A linear transformation",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Volume always",
+      "Angles always",
+      "Linear combinations",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "v",
+      "T",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Reflection",
+      "Rotation",
+      "Scaling",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "0",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Scaling",
+      "Rotation",
+      "Translation",
+      "Reflection"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "0",
+      "I",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A translation",
+      "A linear transformation",
+      "Non-invertible",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(T(c) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(c)T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "Undefined",
+      "T",
+      "I",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "I",
+      "T",
+      "0",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "A vector",
+      "An m×n matrix",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Undefined",
+      "Zero",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "All possible outputs",
+      "Null space",
+      "All inputs",
+      "Kernel"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "All possible outputs",
+      "Null space"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Linear",
+      "Not linear",
+      "Undefined",
+      "Zero"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Undefined",
+      "Linear",
+      "Zero",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "A linear transformation",
+      "Non-invertible",
+      "A translation",
+      "Not linear"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Undefined",
+      "Linear",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Reflection",
+      "Scaling",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Composition of linear transformations is:",
+    "options": [
+      "Zero",
+      "Undefined",
+      "Linear",
+      "Not linear"
+    ],
+    "answer": "Linear"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Volume always",
+      "Angles always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "I",
+      "0",
+      "T"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A vector",
+      "An m×n matrix",
+      "A scalar",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Composition of linear transformations is:",
+    "answer": "Linear"
+  },
+  {
+    "type": "MCQ",
+    "question": "T(0) = ?",
+    "options": [
+      "T",
+      "0",
+      "I",
+      "Undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Reflection",
+      "Scaling",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An m×n matrix",
+      "A vector",
+      "A scalar",
+      "An n×m matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The range of T is:",
+    "options": [
+      "Kernel",
+      "All inputs",
+      "Null space",
+      "All possible outputs"
+    ],
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "FIB",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "0",
+      "v",
+      "T",
+      "I"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "A scalar",
+      "An m×n matrix",
+      "A vector"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Which is NOT linear?",
+    "answer": "Translation"
+  },
+  {
+    "type": "MCQ",
+    "question": "The kernel (null space) of T contains vectors where T(v) = ?",
+    "options": [
+      "v",
+      "I",
+      "T",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Volume always",
+      "Distances always",
+      "Angles always",
+      "Linear combinations"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(cv) = \\\\\\\\\\\\\\\\)?",
+    "answer": "\\\\\\\\\\\\\\\\(cT(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Angles always",
+      "Linear combinations",
+      "Volume always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "An n×m matrix",
+      "A vector",
+      "A scalar",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "T(0) = ?",
+    "answer": "0"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation preserves:",
+    "options": [
+      "Linear combinations",
+      "Volume always",
+      "Angles always",
+      "Distances always"
+    ],
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "A linear transformation satisfies \\\\\\\\\\\\\\\\(T(u+v) = \\\\\\\\\\\\\\\\)?",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) \\\\\\\\\\\\\\\\cdot T(v)\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(T(u) - T(v)\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(T(u) + T(v)\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "A rotation in R^2 is:",
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "MCQ",
+    "question": "Every linear transformation T: R^n → R^m is represented by:",
+    "options": [
+      "A scalar",
+      "An n×m matrix",
+      "A vector",
+      "An m×n matrix"
+    ],
+    "answer": "An m×n matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  },
+  {
+    "type": "MCQ",
+    "question": "A rotation in R^2 is:",
+    "options": [
+      "Non-invertible",
+      "Not linear",
+      "A linear transformation",
+      "A translation"
+    ],
+    "answer": "A linear transformation"
+  },
+  {
+    "type": "FIB",
+    "question": "A linear transformation preserves:",
+    "answer": "Linear combinations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Which is NOT linear?",
+    "options": [
+      "Rotation",
+      "Scaling",
+      "Reflection",
+      "Translation"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "type": "FIB",
+    "question": "The range of T is:",
+    "answer": "All possible outputs"
+  }
+]

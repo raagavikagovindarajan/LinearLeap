@@ -1,0 +1,8002 @@
+[
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Column operations only",
+      "Elementary row operations",
+      "Matrix multiplication"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Rank of A",
+      "Trace",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Always fail",
+      "Make system inconsistent",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 1",
+      "Doesn't change determinant",
+      "Changes sign of determinant",
+      "Makes det = 0"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Row echelon form only",
+      "Diagonal form always",
+      "Identity always",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Identity",
+      "Diagonal form",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Doesn't change determinant",
+      "Makes det = 1",
+      "Changes sign of determinant",
+      "Makes det = 0"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Before elimination",
+      "Instead of elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Diagonal form",
+      "Identity",
+      "Row echelon form",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only swap",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Any entries",
+      "Last entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Rank of A",
+      "Eigenvectors",
+      "Eigenvalues",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Row echelon form",
+      "Diagonal form",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Row echelon form only",
+      "Reduced row echelon form",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Last entries",
+      "Any entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Eigenvectors",
+      "Trace",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Identity",
+      "Diagonal form",
+      "Row echelon form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 1",
+      "Doesn't change determinant",
+      "Changes sign of determinant",
+      "Makes det = 0"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Eigenvalues",
+      "Trace",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 1",
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 0"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Rank of A",
+      "Eigenvectors",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Expansion",
+      "Forward elimination",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Only scale",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "Any entries",
+      "Last entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Diagonal form",
+      "Identity",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Instead of elimination",
+      "Before elimination",
+      "After forward elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Always fail"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Back substitution",
+      "Expansion",
+      "Forward elimination"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Identity always",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Forward elimination",
+      "Expansion",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Column operations only",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Diagonal form always",
+      "Reduced row echelon form",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Identity",
+      "Row echelon form",
+      "Diagonal form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Identity always",
+      "Reduced row echelon form",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Reduced row echelon form",
+      "Identity always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "First non-zero entries in rows",
+      "Last entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 1",
+      "Makes det = 0",
+      "Changes sign of determinant",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Elementary row operations",
+      "Determinants",
+      "Matrix multiplication"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Swap, scale, add multiple of row",
+      "Only scale",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Rank of A",
+      "Eigenvalues",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Determinants",
+      "Elementary row operations",
+      "Column operations only"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Any entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 0",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Eigenvectors",
+      "Eigenvalues",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Any entries",
+      "First non-zero entries in rows",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Back substitution",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Column operations only",
+      "Matrix multiplication",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Identity always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Forward elimination",
+      "Reduction",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Instead of elimination",
+      "Before elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "After forward elimination",
+      "Instead of elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Diagonal form",
+      "Identity",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Make system inconsistent",
+      "Always fail",
+      "Don't change solutions",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Never",
+      "Instead of elimination",
+      "After forward elimination",
+      "Before elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Back substitution",
+      "Expansion",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Only swap",
+      "Multiply rows",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Multiply rows",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Doesn't change determinant",
+      "Makes det = 1",
+      "Changes sign of determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Expansion",
+      "Forward elimination",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "First non-zero entries in rows",
+      "Zero entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Determinants",
+      "Elementary row operations",
+      "Column operations only"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Never",
+      "After forward elimination",
+      "Before elimination",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Zero entries",
+      "Last entries",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Identity always",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Zero",
+      "Row echelon form",
+      "Diagonal form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Never",
+      "Instead of elimination",
+      "Before elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Rank of A",
+      "Eigenvectors",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Identity always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Multiply rows",
+      "Only swap",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Makes det = 0",
+      "Doesn't change determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Change solutions",
+      "Make system inconsistent",
+      "Don't change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Make system inconsistent",
+      "Change solutions",
+      "Don't change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Last entries",
+      "Zero entries",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Any entries",
+      "First non-zero entries in rows",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "Last entries",
+      "First non-zero entries in rows",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Diagonal form",
+      "Zero",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Make system inconsistent",
+      "Don't change solutions",
+      "Change solutions",
+      "Always fail"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 1",
+      "Changes sign of determinant",
+      "Makes det = 0",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Back substitution",
+      "Forward elimination",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "After forward elimination",
+      "Never",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 1",
+      "Makes det = 0",
+      "Doesn't change determinant",
+      "Changes sign of determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Always fail",
+      "Change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Identity always",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Doesn't change determinant",
+      "Changes sign of determinant",
+      "Makes det = 0",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Back substitution",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "Last entries",
+      "Any entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Trace",
+      "Rank of A",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "Instead of elimination",
+      "Never",
+      "After forward elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Make system inconsistent",
+      "Change solutions",
+      "Don't change solutions",
+      "Always fail"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Back substitution",
+      "Reduction",
+      "Forward elimination"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Row echelon form only",
+      "Reduced row echelon form",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Makes det = 0",
+      "Doesn't change determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Diagonal form always",
+      "Row echelon form only",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "Instead of elimination",
+      "Never",
+      "After forward elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Identity always",
+      "Row echelon form only",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Forward elimination",
+      "Back substitution",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Last entries",
+      "Any entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Zero entries",
+      "Last entries",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Zero entries",
+      "Any entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Always fail",
+      "Make system inconsistent",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Determinants",
+      "Elementary row operations",
+      "Column operations only"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Diagonal form",
+      "Identity",
+      "Row echelon form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Rank of A",
+      "Eigenvalues",
+      "Trace",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "Never",
+      "Instead of elimination",
+      "After forward elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Identity always",
+      "Diagonal form always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Elementary row operations",
+      "Column operations only",
+      "Matrix multiplication"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Changes sign of determinant",
+      "Makes det = 1",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Always fail",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Identity always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Elementary row operations",
+      "Matrix multiplication",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Doesn't change determinant",
+      "Makes det = 0",
+      "Changes sign of determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Rank of A",
+      "Trace",
+      "Eigenvalues",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Any entries",
+      "Zero entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Never",
+      "Before elimination",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Eigenvalues",
+      "Eigenvectors",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Rank of A",
+      "Eigenvalues",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "After forward elimination",
+      "Never",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Determinants",
+      "Column operations only"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Last entries",
+      "Zero entries",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Rank of A",
+      "Trace",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "After forward elimination",
+      "Never",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "After forward elimination",
+      "Instead of elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Makes det = 1",
+      "Changes sign of determinant",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Eigenvectors",
+      "Rank of A",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Trace",
+      "Rank of A",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Instead of elimination",
+      "After forward elimination",
+      "Never",
+      "Before elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Rank of A",
+      "Trace",
+      "Eigenvectors",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Rank of A",
+      "Eigenvalues",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Rank of A",
+      "Eigenvectors",
+      "Eigenvalues",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Multiply rows",
+      "Only scale",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Elementary row operations",
+      "Column operations only",
+      "Determinants",
+      "Matrix multiplication"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Any entries",
+      "First non-zero entries in rows",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Row echelon form only",
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Trace",
+      "Eigenvalues",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Diagonal form always",
+      "Row echelon form only",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Eigenvectors",
+      "Trace",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Only scale",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Column operations only",
+      "Elementary row operations",
+      "Matrix multiplication"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Don't change solutions",
+      "Change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Eigenvalues",
+      "Rank of A",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Always fail",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "Zero entries",
+      "Last entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 1",
+      "Makes det = 0",
+      "Changes sign of determinant",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Any entries",
+      "First non-zero entries in rows",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Only scale",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Back substitution",
+      "Reduction",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Column operations only",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Forward elimination",
+      "Back substitution",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Don't change solutions",
+      "Change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Back substitution",
+      "Expansion",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Identity always",
+      "Row echelon form only",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Diagonal form",
+      "Zero",
+      "Row echelon form",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 0",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Rank of A",
+      "Eigenvectors",
+      "Trace",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Last entries",
+      "Any entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Diagonal form always",
+      "Row echelon form only",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Reduction",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "Zero entries",
+      "Last entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Row echelon form only",
+      "Reduced row echelon form",
+      "Identity always",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Row echelon form only",
+      "Diagonal form always",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Any entries",
+      "First non-zero entries in rows",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Reduction",
+      "Expansion",
+      "Forward elimination"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Multiply rows",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Always fail",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 1",
+      "Makes det = 0"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Determinants",
+      "Matrix multiplication",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "First non-zero entries in rows",
+      "Any entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "First non-zero entries in rows",
+      "Zero entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Multiply rows",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Reduced row echelon form",
+      "Identity always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Multiply rows",
+      "Swap, scale, add multiple of row",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Forward elimination",
+      "Expansion",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "Any entries",
+      "First non-zero entries in rows",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Never",
+      "Before elimination",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Before elimination",
+      "Instead of elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Only scale",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Row echelon form",
+      "Diagonal form",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Never",
+      "Before elimination",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Determinants",
+      "Column operations only",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Rank of A",
+      "Trace",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Elementary row operations",
+      "Determinants",
+      "Column operations only",
+      "Matrix multiplication"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Diagonal form always",
+      "Reduced row echelon form",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Only swap",
+      "Multiply rows",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Any entries",
+      "Last entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Diagonal form",
+      "Identity",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Row echelon form only",
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Elementary row operations",
+      "Column operations only",
+      "Matrix multiplication",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "After forward elimination",
+      "Instead of elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "First non-zero entries in rows",
+      "Any entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Makes det = 1",
+      "Makes det = 0",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Rank of A",
+      "Eigenvectors",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Row echelon form only",
+      "Diagonal form always",
+      "Identity always",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Determinants",
+      "Column operations only",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Row echelon form only",
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "First non-zero entries in rows",
+      "Last entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only scale",
+      "Only swap",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Any entries",
+      "Zero entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Eigenvectors",
+      "Rank of A",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Always fail",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Diagonal form",
+      "Row echelon form",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Expansion",
+      "Forward elimination",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Multiply rows",
+      "Swap, scale, add multiple of row",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Trace",
+      "Rank of A",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only swap",
+      "Only scale",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Multiply rows",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Back substitution",
+      "Forward elimination",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Make system inconsistent",
+      "Don't change solutions",
+      "Always fail",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Multiply rows",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Rank of A",
+      "Eigenvalues",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Elementary row operations",
+      "Matrix multiplication",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Determinants",
+      "Column operations only",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Identity",
+      "Zero",
+      "Diagonal form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Swap, scale, add multiple of row",
+      "Only scale",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Forward elimination",
+      "Back substitution",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "Instead of elimination",
+      "After forward elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Eigenvalues",
+      "Rank of A",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Only scale",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Identity",
+      "Diagonal form",
+      "Row echelon form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only scale",
+      "Only swap",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Reduction",
+      "Forward elimination",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Rank of A",
+      "Eigenvectors",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Make system inconsistent",
+      "Don't change solutions",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Trace",
+      "Eigenvectors",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Reduction",
+      "Back substitution",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Always fail"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Makes det = 0",
+      "Doesn't change determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only scale",
+      "Only swap",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Column operations only",
+      "Matrix multiplication",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Determinants",
+      "Elementary row operations",
+      "Matrix multiplication"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Diagonal form",
+      "Identity",
+      "Row echelon form",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Eigenvectors",
+      "Eigenvalues",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Always fail",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only scale",
+      "Only swap",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Elementary row operations",
+      "Column operations only",
+      "Matrix multiplication",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Any entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "Instead of elimination",
+      "Never",
+      "After forward elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Any entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Instead of elimination",
+      "Before elimination",
+      "After forward elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Trace",
+      "Eigenvectors",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Reduction",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Only scale",
+      "Multiply rows",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Diagonal form",
+      "Row echelon form",
+      "Zero",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Row echelon form",
+      "Zero",
+      "Diagonal form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Makes det = 1",
+      "Changes sign of determinant",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Make system inconsistent",
+      "Don't change solutions",
+      "Change solutions",
+      "Always fail"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Identity",
+      "Zero",
+      "Diagonal form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Trace",
+      "Rank of A",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Zero entries",
+      "Any entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only scale",
+      "Multiply rows",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Diagonal form",
+      "Zero",
+      "Row echelon form",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Reduction",
+      "Forward elimination",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Instead of elimination",
+      "Never",
+      "Before elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Diagonal form",
+      "Zero",
+      "Row echelon form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "Any entries",
+      "Last entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Always fail",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "First non-zero entries in rows",
+      "Any entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Column operations only",
+      "Determinants",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Row echelon form only",
+      "Diagonal form always",
+      "Reduced row echelon form",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Reduction",
+      "Expansion",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "First non-zero entries in rows",
+      "Zero entries",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Row echelon form only",
+      "Identity always",
+      "Diagonal form always",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "First non-zero entries in rows",
+      "Any entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Only scale",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Eigenvalues",
+      "Rank of A",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Rank of A",
+      "Eigenvectors",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Instead of elimination",
+      "Before elimination",
+      "Never",
+      "After forward elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "Zero entries",
+      "Last entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Trace",
+      "Rank of A",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Eigenvectors",
+      "Trace",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Rank of A",
+      "Eigenvectors",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 0",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Row echelon form only",
+      "Diagonal form always",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Eigenvalues",
+      "Rank of A",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "Last entries",
+      "First non-zero entries in rows",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Expansion",
+      "Back substitution",
+      "Forward elimination"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Doesn't change determinant",
+      "Changes sign of determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Zero entries",
+      "Any entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Trace",
+      "Eigenvectors",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Identity always",
+      "Reduced row echelon form",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Reduction",
+      "Expansion",
+      "Forward elimination"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Diagonal form always",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "First non-zero entries in rows",
+      "Zero entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "Instead of elimination",
+      "After forward elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Instead of elimination",
+      "Never",
+      "After forward elimination",
+      "Before elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Trace",
+      "Eigenvalues",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Diagonal form",
+      "Zero",
+      "Row echelon form",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 1",
+      "Makes det = 0",
+      "Doesn't change determinant",
+      "Changes sign of determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Zero",
+      "Diagonal form",
+      "Row echelon form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Make system inconsistent",
+      "Change solutions",
+      "Always fail",
+      "Don't change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Rank of A",
+      "Eigenvectors",
+      "Trace",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only swap",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Identity always",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Before elimination",
+      "Never",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Determinants",
+      "Column operations only",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Instead of elimination",
+      "Never",
+      "Before elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Diagonal form",
+      "Row echelon form",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Reduction",
+      "Expansion",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Rank of A",
+      "Trace",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Row echelon form",
+      "Diagonal form",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Make system inconsistent",
+      "Don't change solutions",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Instead of elimination",
+      "After forward elimination",
+      "Before elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "Instead of elimination",
+      "After forward elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Diagonal form",
+      "Zero",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Make system inconsistent",
+      "Don't change solutions",
+      "Always fail",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Always fail",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Make system inconsistent",
+      "Change solutions",
+      "Don't change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Back substitution",
+      "Expansion",
+      "Forward elimination"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Eigenvalues",
+      "Rank of A",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Row echelon form",
+      "Diagonal form",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Makes det = 1",
+      "Makes det = 0",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Doesn't change determinant",
+      "Makes det = 0",
+      "Changes sign of determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Row echelon form",
+      "Diagonal form",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Doesn't change determinant",
+      "Changes sign of determinant",
+      "Makes det = 0",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Diagonal form",
+      "Row echelon form",
+      "Identity",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Trace",
+      "Rank of A",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Column operations only"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Diagonal form always",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Forward elimination",
+      "Back substitution",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Identity always",
+      "Diagonal form always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Reduction",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Identity",
+      "Diagonal form",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Only scale",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Row echelon form only",
+      "Identity always",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Forward elimination",
+      "Back substitution",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Diagonal form",
+      "Identity",
+      "Zero",
+      "Row echelon form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Eigenvectors",
+      "Trace",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only swap",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Rank of A",
+      "Eigenvalues",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Make system inconsistent",
+      "Always fail",
+      "Don't change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 1",
+      "Makes det = 0"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Makes det = 1",
+      "Changes sign of determinant",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Multiply rows",
+      "Swap, scale, add multiple of row",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Matrix multiplication",
+      "Column operations only",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "Never",
+      "Instead of elimination",
+      "After forward elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Instead of elimination",
+      "Before elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Make system inconsistent",
+      "Always fail",
+      "Don't change solutions",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Back substitution",
+      "Reduction",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Column operations only"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Multiply rows",
+      "Only swap",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Rank of A",
+      "Trace",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Identity always",
+      "Row echelon form only",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Change solutions",
+      "Make system inconsistent",
+      "Don't change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Any entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Any entries",
+      "Zero entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Before elimination",
+      "Never",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Last entries",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Expansion",
+      "Forward elimination",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Change solutions",
+      "Always fail",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Always fail",
+      "Don't change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Never",
+      "Before elimination",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Diagonal form",
+      "Row echelon form",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Expansion",
+      "Back substitution",
+      "Forward elimination"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Identity",
+      "Zero",
+      "Diagonal form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Reduction",
+      "Back substitution",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Row echelon form only",
+      "Diagonal form always",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Rank of A",
+      "Trace",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Column operations only",
+      "Matrix multiplication",
+      "Elementary row operations",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Makes det = 1",
+      "Doesn't change determinant",
+      "Changes sign of determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Forward elimination",
+      "Expansion",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Never",
+      "Instead of elimination",
+      "Before elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only swap",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Eigenvectors",
+      "Rank of A",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only swap",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Column operations only",
+      "Matrix multiplication",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Before elimination",
+      "Never",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Reduction",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Diagonal form",
+      "Identity",
+      "Row echelon form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Make system inconsistent",
+      "Always fail",
+      "Don't change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Reduction",
+      "Forward elimination",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Determinants",
+      "Column operations only",
+      "Matrix multiplication",
+      "Elementary row operations"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Reduction",
+      "Expansion",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Back substitution",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Back substitution",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Always fail",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Row echelon form",
+      "Diagonal form",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Multiply rows",
+      "Swap, scale, add multiple of row",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Elementary row operations",
+      "Column operations only",
+      "Determinants",
+      "Matrix multiplication"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Makes det = 1",
+      "Doesn't change determinant",
+      "Makes det = 0"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Expansion",
+      "Forward elimination",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Last entries",
+      "Any entries",
+      "First non-zero entries in rows",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Back substitution",
+      "Reduction",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Diagonal form",
+      "Row echelon form",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Before elimination",
+      "Never",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Matrix multiplication",
+      "Determinants",
+      "Elementary row operations",
+      "Column operations only"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Back substitution",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Row echelon form",
+      "Diagonal form",
+      "Zero"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Expansion",
+      "Forward elimination",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Expansion",
+      "Reduction",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Back substitution",
+      "Forward elimination",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Always fail",
+      "Change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Never",
+      "Instead of elimination",
+      "After forward elimination",
+      "Before elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "Last entries",
+      "Zero entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Identity always",
+      "Diagonal form always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Forward elimination",
+      "Expansion",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Change solutions",
+      "Always fail"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Any entries",
+      "Zero entries",
+      "Last entries",
+      "First non-zero entries in rows"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Last entries",
+      "Any entries",
+      "Zero entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination uses which operations?",
+    "options": [
+      "Elementary row operations",
+      "Matrix multiplication",
+      "Column operations only",
+      "Determinants"
+    ],
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only swap",
+      "Only scale",
+      "Multiply rows",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Makes det = 1",
+      "Doesn't change determinant",
+      "Changes sign of determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Make system inconsistent",
+      "Always fail",
+      "Change solutions",
+      "Don't change solutions"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Zero",
+      "Diagonal form",
+      "Identity",
+      "Row echelon form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Doesn't change determinant",
+      "Makes det = 1",
+      "Makes det = 0",
+      "Changes sign of determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "First non-zero entries in rows",
+      "Zero entries",
+      "Last entries",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 1",
+      "Changes sign of determinant",
+      "Makes det = 0",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Instead of elimination",
+      "After forward elimination",
+      "Never",
+      "Before elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Identity always",
+      "Row echelon form only",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Reduction",
+      "Forward elimination",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "First non-zero entries in rows",
+      "Any entries",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Never",
+      "Instead of elimination",
+      "Before elimination",
+      "After forward elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Before elimination",
+      "Instead of elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Multiply rows",
+      "Only swap"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Always fail",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Forward elimination",
+      "Reduction",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Don't change solutions",
+      "Change solutions",
+      "Always fail",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Forward elimination",
+      "Back substitution",
+      "Reduction",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Reduction",
+      "Forward elimination",
+      "Expansion"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvalues",
+      "Trace",
+      "Rank of A",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Instead of elimination",
+      "Before elimination",
+      "After forward elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Never",
+      "Before elimination",
+      "Instead of elimination",
+      "After forward elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Identity always",
+      "Reduced row echelon form",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only scale",
+      "Only swap",
+      "Swap, scale, add multiple of row"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Eigenvectors",
+      "Rank of A",
+      "Eigenvalues",
+      "Trace"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Diagonal form always",
+      "Row echelon form only",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Makes det = 1",
+      "Changes sign of determinant",
+      "Doesn't change determinant"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Swap, scale, add multiple of row",
+      "Only swap",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Always fail"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 0",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "Last entries",
+      "First non-zero entries in rows",
+      "Any entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Rank of A",
+      "Eigenvectors",
+      "Eigenvalues"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Rank of A",
+      "Eigenvalues",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Multiply rows",
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Only scale"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Eliminating variables is called:",
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Identity always",
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Row echelon form only"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Pivots are:",
+    "options": [
+      "Zero entries",
+      "Any entries",
+      "First non-zero entries in rows",
+      "Last entries"
+    ],
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Row echelon form only",
+      "Identity always",
+      "Reduced row echelon form",
+      "Diagonal form always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "After forward elimination",
+      "Before elimination",
+      "Instead of elimination",
+      "Never"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Row operations:",
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Before elimination",
+      "Never",
+      "Instead of elimination",
+      "After forward elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Reduced row echelon form",
+      "Diagonal form always",
+      "Row echelon form only",
+      "Identity always"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "options": [
+      "Diagonal form always",
+      "Row echelon form only",
+      "Identity always",
+      "Reduced row echelon form"
+    ],
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Identity",
+      "Zero",
+      "Diagonal form",
+      "Row echelon form"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent",
+      "Always fail"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Expansion",
+      "Back substitution",
+      "Forward elimination",
+      "Reduction"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination can find:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Three elementary row operations are:",
+    "options": [
+      "Only scale",
+      "Only swap",
+      "Swap, scale, add multiple of row",
+      "Multiply rows"
+    ],
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination can find:",
+    "options": [
+      "Trace",
+      "Rank of A",
+      "Eigenvalues",
+      "Eigenvectors"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Back substitution is used:",
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "MCQ",
+    "question": "Gaussian elimination transforms A to:",
+    "options": [
+      "Row echelon form",
+      "Diagonal form",
+      "Zero",
+      "Identity"
+    ],
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination transforms A to:",
+    "answer": "Row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Makes det = 0",
+      "Changes sign of determinant",
+      "Doesn't change determinant",
+      "Makes det = 1"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Gauss-Jordan elimination transforms A to:",
+    "answer": "Reduced row echelon form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Swapping two rows:",
+    "options": [
+      "Changes sign of determinant",
+      "Makes det = 1",
+      "Doesn't change determinant",
+      "Makes det = 0"
+    ],
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Row operations:",
+    "options": [
+      "Always fail",
+      "Change solutions",
+      "Don't change solutions",
+      "Make system inconsistent"
+    ],
+    "answer": "Don't change solutions"
+  },
+  {
+    "type": "FIB",
+    "question": "Swapping two rows:",
+    "answer": "Changes sign of determinant"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Back substitution",
+      "Reduction",
+      "Expansion",
+      "Forward elimination"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Three elementary row operations are:",
+    "answer": "Swap, scale, add multiple of row"
+  },
+  {
+    "type": "MCQ",
+    "question": "Back substitution is used:",
+    "options": [
+      "Never",
+      "Before elimination",
+      "After forward elimination",
+      "Instead of elimination"
+    ],
+    "answer": "After forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Gaussian elimination uses which operations?",
+    "answer": "Elementary row operations"
+  },
+  {
+    "type": "MCQ",
+    "question": "Eliminating variables is called:",
+    "options": [
+      "Reduction",
+      "Forward elimination",
+      "Expansion",
+      "Back substitution"
+    ],
+    "answer": "Forward elimination"
+  },
+  {
+    "type": "FIB",
+    "question": "Pivots are:",
+    "answer": "First non-zero entries in rows"
+  }
+]

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Column & Row Space - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">📐 Column & Row Space</h1>
+
+            <h2>Column Space</h2>
+            <p>The <strong>column space</strong> (range) of $A$ is the set of all linear combinations of the columns of $A$:</p>
+            <p style="text-align:center; font-size:1.2rem; margin:1rem 0;">$$\text{Col}(A) = \{A\vec{x} : \vec{x} \in \mathbb{R}^n\}$$</p>
+
+            <h2>Row Space</h2>
+            <p>The <strong>row space</strong> of $A$ is the set of all linear combinations of the rows of $A$ = $\text{Col}(A^T)$.</p>
+
+            <h2>Key Facts</h2>
+            <div class="example-box">
+                <p><strong>dim(Col(A)) = rank(A)</strong> — the column rank.</p>
+                <p><strong>dim(Row(A)) = rank(A)</strong> — row rank always equals column rank.</p>
+                <p>The column space tells you which $\vec{b}$ values make $A\vec{x} = \vec{b}$ consistent.</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=column-row-space'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

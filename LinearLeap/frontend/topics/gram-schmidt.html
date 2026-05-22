@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gram-Schmidt Process - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🎯 Gram-Schmidt Process</h1>
+
+            <h2>What is the Gram-Schmidt Process?</h2>
+            <p>The <strong>Gram-Schmidt process</strong> converts a set of linearly independent vectors into an orthonormal set spanning the same space.</p>
+
+            <h2>Algorithm</h2>
+            <div class="example-box">
+                <p>Given vectors $\{\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n\}$:</p>
+                <p><strong>Step 1:</strong> $\vec{u}_1 = \vec{v}_1$</p>
+                <p><strong>Step 2:</strong> $\vec{u}_2 = \vec{v}_2 - \text{proj}_{\vec{u}_1}\vec{v}_2$</p>
+                <p><strong>Step k:</strong> $\vec{u}_k = \vec{v}_k - \sum_{j=1}^{k-1}\text{proj}_{\vec{u}_j}\vec{v}_k$</p>
+                <p><strong>Normalize:</strong> $\vec{e}_k = \dfrac{\vec{u}_k}{|\vec{u}_k|}$</p>
+            </div>
+
+            <h2>Application: QR Decomposition</h2>
+            <div class="example-box">
+                <p>Gram-Schmidt produces the $Q$ factor in $A = QR$, where $Q$ is orthogonal and $R$ is upper triangular.</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=gram-schmidt'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LU Decomposition - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🧮 LU Decomposition</h1>
+
+            <h2>What is LU Decomposition?</h2>
+            <p><strong>LU decomposition</strong> factors a matrix $A$ into a lower triangular matrix $L$ and an upper triangular matrix $U$: $A = LU$.</p>
+
+            <h2>Structure</h2>
+            <div class="example-box">
+                <p>$L$ has 1s on the diagonal and zeros above.</p>
+                <p>$U$ is upper triangular (zeros below the diagonal).</p>
+                <p style="text-align:center; font-size:1.1rem; margin:1rem 0;">
+                    $$A = LU = \begin{bmatrix} 1 & 0 \\ l_{21} & 1 \end{bmatrix}\begin{bmatrix} u_{11} & u_{12} \\ 0 & u_{22} \end{bmatrix}$$
+                </p>
+            </div>
+
+            <h2>Why Use LU?</h2>
+            <div class="example-box">
+                <p>Solving $A\vec{x} = \vec{b}$ becomes two easy triangular solves:</p>
+                <p><strong>1.</strong> Solve $L\vec{y} = \vec{b}$ (forward substitution)</p>
+                <p><strong>2.</strong> Solve $U\vec{x} = \vec{y}$ (back substitution)</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=lu-decomposition'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

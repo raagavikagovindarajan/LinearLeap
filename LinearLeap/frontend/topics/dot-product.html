@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dot Product - Learn</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: white; text-align: center; margin-bottom: 2rem;">⚫ Dot Product</h1>
+
+            <h2>What is the Dot Product?</h2>
+            <p>
+                The <strong>dot product</strong> (also called <strong>scalar product</strong>) takes two vectors and
+                produces a single number (scalar). It measures how much two vectors point in the same direction.
+            </p>
+
+            <h2>Formula</h2>
+            <p>For vectors in n-dimensional space:</p>
+            <p style="text-align: center; font-size: 1.3rem; margin: 2rem 0;">
+                $$\vec{u} \cdot \vec{v} = u_1 v_1 + u_2 v_2 + \cdots + u_n v_n = \sum_{i=1}^n u_i v_i$$
+            </p>
+
+            <div class="example-box">
+                <h4>2D Example</h4>
+                <p>Given: \(\vec{u} = (3, 4)\) and \(\vec{v} = (2, 5)\)</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$\vec{u} \cdot \vec{v} = 3 \cdot 2 + 4 \cdot 5 = 6 + 20 = 26$$
+                </p>
+
+                <h4>3D Example</h4>
+                <p>Given: \(\vec{a} = (1, 2, 3)\) and \(\vec{b} = (4, 5, 6)\)</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$\vec{a} \cdot \vec{b} = 1 \cdot 4 + 2 \cdot 5 + 3 \cdot 6 = 4 + 10 + 18 = 32$$
+                </p>
+            </div>
+
+            <h2>Geometric Interpretation</h2>
+            <p>The dot product is also related to the angle between vectors:</p>
+            <p style="text-align: center; font-size: 1.3rem; margin: 2rem 0;">
+                $$\vec{u} \cdot \vec{v} = |\vec{u}| |\vec{v}| \cos \theta$$
+            </p>
+            <p>Where \(\theta\) is the angle between the two vectors.</p>
+
+            <div class="example-box">
+                <h4>Special Cases</h4>
+                <p><strong>Perpendicular vectors:</strong> \(\vec{u} \cdot \vec{v} = 0\) (angle is 90°)</p>
+                <p><strong>Parallel vectors:</strong> \(\vec{u} \cdot \vec{v} = |\vec{u}| |\vec{v}|\) (angle is 0°)</p>
+                <p><strong>Opposite vectors:</strong> \(\vec{u} \cdot \vec{v} = -|\vec{u}| |\vec{v}|\) (angle is 180°)
+                </p>
+            </div>
+
+            <h2>Properties</h2>
+            <div class="example-box">
+                <p><strong>1. Commutative:</strong> \(\vec{u} \cdot \vec{v} = \vec{v} \cdot \vec{u}\)</p>
+                <p><strong>2. Distributive:</strong> \(\vec{u} \cdot (\vec{v} + \vec{w}) = \vec{u} \cdot \vec{v} +
+                    \vec{u} \cdot \vec{w}\)</p>
+                <p><strong>3. Scalar multiplication:</strong> \((c\vec{u}) \cdot \vec{v} = c(\vec{u} \cdot \vec{v})\)
+                </p>
+                <p><strong>4. Self dot product:</strong> \(\vec{u} \cdot \vec{u} = |\vec{u}|^2\)</p>
+            </div>
+
+            <h2>Applications</h2>
+            <ul style="color: var(--text-secondary); line-height: 2; margin-left: 2rem;">
+                <li><strong>Work in Physics:</strong> \(W = \vec{F} \cdot \vec{d}\)</li>
+                <li><strong>Projection:</strong> Finding component of one vector along another</li>
+                <li><strong>Machine Learning:</strong> Similarity between feature vectors</li>
+                <li><strong>Computer Graphics:</strong> Lighting calculations and surface normals</li>
+            </ul>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=dot-product'">📝 Take the
+                    Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

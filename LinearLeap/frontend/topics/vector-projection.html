@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vector Projection - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">📊 Vector Projection</h1>
+
+            <h2>What is Vector Projection?</h2>
+            <p>The <strong>projection</strong> of vector $\vec{u}$ onto vector $\vec{v}$ gives the component of $\vec{u}$ in the direction of $\vec{v}$.</p>
+
+            <h2>Formula</h2>
+            <div class="example-box">
+                <p style="text-align:center; font-size:1.2rem; margin:1.5rem 0;">
+                    $$\text{proj}_{\vec{v}}\vec{u} = \frac{\vec{u} \cdot \vec{v}}{|\vec{v}|^2}\vec{v}$$
+                </p>
+            </div>
+
+            <h2>Scalar Projection</h2>
+            <div class="example-box">
+                <p>The scalar projection (length of the shadow) is:</p>
+                <p style="text-align:center; font-size:1.2rem; margin:1rem 0;">$$\text{comp}_{\vec{v}}\vec{u} = \frac{\vec{u} \cdot \vec{v}}{|\vec{v}|}$$</p>
+            </div>
+
+            <h2>Applications</h2>
+            <ul style="color: var(--text-secondary); line-height: 2; margin-left: 2rem;">
+                <li><strong>Physics:</strong> Work done by a force</li>
+                <li><strong>Gram-Schmidt:</strong> Orthogonalization process</li>
+                <li><strong>Least Squares:</strong> Best-fit approximations</li>
+            </ul>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=vector-projection'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matrix Inverse - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">↩️ Matrix Inverse</h1>
+
+            <h2>What is a Matrix Inverse?</h2>
+            <p>The <strong>inverse</strong> of a matrix $A$, written $A^{-1}$, satisfies $A \cdot A^{-1} = A^{-1} \cdot A = I$, where $I$ is the identity matrix.</p>
+
+            <h2>2×2 Inverse Formula</h2>
+            <div class="example-box">
+                <p style="text-align:center; font-size:1.2rem; margin:1.5rem 0;">
+                    $$A = \begin{bmatrix} a & b \\ c & d \end{bmatrix} \quad\Rightarrow\quad A^{-1} = \frac{1}{ad-bc}\begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
+                </p>
+            </div>
+
+            <h2>When Does an Inverse Exist?</h2>
+            <div class="example-box">
+                <p>A matrix is <strong>invertible</strong> (non-singular) if and only if $\det(A) \neq 0$.</p>
+            </div>
+
+            <h2>Properties</h2>
+            <div class="example-box">
+                <p><strong>1.</strong> $(A^{-1})^{-1} = A$</p>
+                <p><strong>2.</strong> $(AB)^{-1} = B^{-1}A^{-1}$</p>
+                <p><strong>3.</strong> $(A^T)^{-1} = (A^{-1})^T$</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=matrix-inverse'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

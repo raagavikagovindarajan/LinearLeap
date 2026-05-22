@@ -1,0 +1,8002 @@
+[
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of columns",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Number of linearly independent columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "They are orthogonal",
+      "They span R^n",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Determinant",
+      "Trace",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Number of columns",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "det(A) = 0",
+      "det(A) ≠ 0",
+      "They are normalized"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) = 0",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They span R^n",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Number of linearly independent columns",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Orthogonal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of columns",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Zero",
+      "Parallel",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "Determinant is zero",
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "Determinant is zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are normalized",
+      "det(A) ≠ 0",
+      "They are orthogonal"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Orthogonal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Orthogonal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Linearly independent",
+      "Parallel",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "Determinant is zero",
+      "All vectors are parallel",
+      "All vectors are zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They are orthogonal",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "They span R^n",
+      "Determinant ≠ 0",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "All vectors are parallel",
+      "Determinant is zero",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "They are normalized",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They are orthogonal",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Trace",
+      "Number of linearly independent columns",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "They are orthogonal",
+      "One is a combination of others",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Orthonormal",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "Determinant is zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "They span R^n",
+      "Determinant ≠ 0",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "det(A) = 0",
+      "det(A) ≠ 0",
+      "They are orthogonal"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They span R^n",
+      "One is a combination of others",
+      "They are orthogonal",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "Determinant is zero",
+      "All vectors are zero",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "They span R^n",
+      "One is a combination of others",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Trace",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of columns",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "They are normalized"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "Determinant is zero",
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "All vectors are parallel",
+      "No vector is a linear combination of others",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) ≠ 0",
+      "det(A) = 0",
+      "They are orthogonal",
+      "They are normalized"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "They are normalized",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "All vectors are parallel",
+      "Determinant is zero",
+      "All vectors are zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "Orthogonal",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "Orthogonal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Orthonormal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Number of linearly independent columns",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "Determinant is zero",
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Linearly dependent",
+      "Orthonormal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Orthonormal",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Orthogonal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "They are normalized",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are orthogonal",
+      "They are normalized",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) = 0",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "All vectors are parallel",
+      "Determinant is zero",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Orthonormal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Number of columns",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "Orthogonal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "One is a combination of others",
+      "They span R^n",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "They span R^n",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "Determinant is zero",
+      "All vectors are parallel",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Linearly dependent",
+      "Orthonormal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "They span R^n",
+      "They are orthogonal",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Orthonormal",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "det(A) = 0",
+      "They are normalized",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Orthonormal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "Ax = b has no solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Orthogonal",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Number of columns",
+      "Determinant",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Trace",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Number of linearly independent columns",
+      "Number of columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Parallel",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Trace",
+      "Number of linearly independent columns",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "All vectors are parallel",
+      "No vector is a linear combination of others",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "Determinant is zero",
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Determinant",
+      "Trace",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "All vectors are parallel",
+      "No vector is a linear combination of others",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Orthogonal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "Determinant is zero",
+      "No vector is a linear combination of others",
+      "All vectors are zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "Determinant is zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0",
+      "A is singular",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Zero",
+      "Parallel",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "They are orthogonal",
+      "They span R^n",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Number of linearly independent columns",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Number of columns",
+      "Determinant",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) ≠ 0",
+      "They are orthogonal",
+      "det(A) = 0",
+      "They are normalized"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Zero",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "Determinant is zero",
+      "All vectors are parallel",
+      "All vectors are zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "Determinant is zero",
+      "All vectors are parallel",
+      "All vectors are zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "They span R^n",
+      "They are orthogonal",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "Determinant is zero",
+      "All vectors are zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "det(A) ≠ 0",
+      "det(A) = 0",
+      "They are orthogonal"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "They span R^n",
+      "One is a combination of others",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Parallel",
+      "Zero",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) ≠ 0",
+      "They are normalized",
+      "det(A) = 0",
+      "They are orthogonal"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Parallel",
+      "Linearly dependent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = b has no solution",
+      "A is singular",
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "One is a combination of others",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Zero",
+      "Parallel",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of columns",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They are orthogonal",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "Parallel",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of columns",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "They span R^n",
+      "They are orthogonal",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Trace",
+      "Number of linearly independent columns",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "det(A) = 0",
+      "They are normalized"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Zero",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They span R^n",
+      "Determinant ≠ 0",
+      "One is a combination of others",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "Determinant is zero",
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "Determinant is zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "det(A) = 0",
+      "det(A) ≠ 0",
+      "They are orthogonal"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Determinant",
+      "Number of columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "Determinant is zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "Ax = b has no solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "They span R^n",
+      "One is a combination of others",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Orthonormal",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "Determinant is zero",
+      "All vectors are zero",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They are orthogonal",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They span R^n",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "They are normalized",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "Determinant is zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "Determinant is zero",
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "They are normalized",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "det(A) = 0",
+      "det(A) ≠ 0",
+      "They are normalized"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = b has no solution",
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They span R^n",
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "They are orthogonal",
+      "They span R^n",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Orthonormal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Orthonormal",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthonormal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = b has no solution",
+      "A is singular",
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Orthonormal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = b has no solution",
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "They span R^n",
+      "They are orthogonal",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution",
+      "A is singular",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They span R^n",
+      "Determinant ≠ 0",
+      "They are orthogonal",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are orthogonal",
+      "det(A) = 0",
+      "They are normalized",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "det(A) = 0",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "det(A) ≠ 0",
+      "They are orthogonal",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Orthogonal",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Number of linearly independent columns",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Orthonormal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "All vectors are parallel",
+      "Determinant is zero",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthonormal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Orthonormal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "All vectors are zero",
+      "Determinant is zero",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = b has no solution",
+      "A is singular",
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Orthogonal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "det(A) = 0",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Orthogonal",
+      "Parallel",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "det(A) ≠ 0",
+      "They are normalized",
+      "They are orthogonal"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "One is a combination of others",
+      "They span R^n",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = b has no solution",
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They span R^n",
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) ≠ 0",
+      "They are orthogonal",
+      "det(A) = 0",
+      "They are normalized"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Linearly independent",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Number of linearly independent columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "Determinant is zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel",
+      "All vectors are zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Determinant",
+      "Trace",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Number of linearly independent columns",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "Determinant is zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel",
+      "All vectors are zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "They are orthogonal",
+      "They span R^n",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Zero",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Determinant",
+      "Number of columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "All vectors are parallel",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel",
+      "Orthogonal"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "They span R^n",
+      "One is a combination of others",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "They span R^n",
+      "One is a combination of others",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent",
+      "Orthogonal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Orthonormal",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Trace",
+      "Number of columns",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Number of columns",
+      "Determinant",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "Determinant is zero",
+      "No vector is a linear combination of others",
+      "All vectors are zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "One is a combination of others",
+      "They are orthogonal",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Number of linearly independent columns",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "They span R^n",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Orthonormal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "One is a combination of others",
+      "They span R^n",
+      "They are orthogonal",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly dependent",
+      "Orthogonal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Orthogonal",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Orthonormal",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "All vectors are parallel",
+      "No vector is a linear combination of others",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Number of linearly independent columns",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "One is a combination of others",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Parallel",
+      "Linearly dependent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Number of linearly independent columns",
+      "Trace"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Orthonormal",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "det(A) = 0",
+      "det(A) ≠ 0",
+      "They are orthogonal"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Number of columns",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "det(A) ≠ 0",
+      "They are orthogonal",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "det(A) = 0",
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Orthonormal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) = 0",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Number of linearly independent columns",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "Determinant is zero",
+      "All vectors are parallel",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Orthonormal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Zero",
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Linearly dependent",
+      "Orthogonal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They span R^n",
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Orthogonal",
+      "Parallel",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "Orthogonal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) = 0",
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "They are normalized"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Orthonormal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "Determinant is zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Linearly dependent",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "det(A) = 0",
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "All vectors are zero",
+      "Determinant is zero",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "det(A) = 0",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Orthonormal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "det(A) = 0",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "Determinant is zero",
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "Determinant ≠ 0",
+      "They span R^n",
+      "One is a combination of others"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "det(A) = 0",
+      "det(A) ≠ 0",
+      "They are orthogonal"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Linearly dependent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "A basis",
+      "Linearly dependent",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "Determinant is zero",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "A basis",
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "They span R^n",
+      "One is a combination of others",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Orthonormal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "A basis",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Trace",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Parallel",
+      "Linearly dependent",
+      "Zero",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are parallel",
+      "All vectors are zero",
+      "No vector is a linear combination of others",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = 0 has only trivial solution",
+      "Ax = b has no solution",
+      "det(A) = 0",
+      "A is singular"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly dependent",
+      "Linearly independent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Trace",
+      "Determinant",
+      "Number of columns",
+      "Number of linearly independent columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "No vector is a linear combination of others",
+      "All vectors are zero",
+      "All vectors are parallel",
+      "Determinant is zero"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "Determinant ≠ 0",
+      "One is a combination of others",
+      "They span R^n",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly independent",
+      "Parallel",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They are orthogonal",
+      "One is a combination of others",
+      "Determinant ≠ 0",
+      "They span R^n"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "Determinant is zero",
+      "All vectors are parallel",
+      "No vector is a linear combination of others"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "Orthogonal",
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Parallel",
+      "Zero",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Orthogonal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "Ax = b has no solution",
+      "Ax = 0 has only trivial solution",
+      "A is singular",
+      "det(A) = 0"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They span R^n",
+      "One is a combination of others",
+      "They are orthogonal",
+      "Determinant ≠ 0"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Parallel",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly independent",
+      "Parallel",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "If columns of A are independent:",
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "A basis",
+      "Linearly independent",
+      "Orthonormal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "n vectors in R^n are independent if:",
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "If one vector is zero, the set is:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Parallel",
+      "Linearly independent",
+      "Zero"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two parallel vectors are:",
+    "options": [
+      "A basis",
+      "Linearly dependent",
+      "Orthogonal",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly dependent",
+      "Linearly independent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors in R^n are:",
+    "options": [
+      "Linearly independent",
+      "Zero",
+      "Linearly dependent",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Linearly dependent",
+      "Linearly independent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Orthonormal",
+      "Linearly independent",
+      "Linearly dependent",
+      "A basis"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "Orthonormal",
+      "A basis",
+      "Linearly independent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If vectors are linearly dependent:",
+    "options": [
+      "They span R^n",
+      "Determinant ≠ 0",
+      "One is a combination of others",
+      "They are orthogonal"
+    ],
+    "answer": " One is a combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If columns of A are independent:",
+    "options": [
+      "A is singular",
+      "Ax = 0 has only trivial solution",
+      "det(A) = 0",
+      "Ax = b has no solution"
+    ],
+    "answer": "Ax = 0 has only trivial solution"
+  },
+  {
+    "type": "FIB",
+    "question": "Vectors are linearly independent if:",
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Linearly dependent",
+      "Linearly independent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "More than n vectors in R^n are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If one vector is zero, the set is:",
+    "options": [
+      "Orthogonal",
+      "A basis",
+      "Linearly independent",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "More than n vectors in R^n are:",
+    "options": [
+      "Linearly dependent",
+      "A basis",
+      "Linearly independent",
+      "Orthonormal"
+    ],
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors in R^n are:",
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "MCQ",
+    "question": "If c₁v₁ + c₂v₂ + ... = 0 only when all cᵢ = 0, vectors are:",
+    "options": [
+      "Parallel",
+      "Linearly independent",
+      "Orthogonal",
+      "Linearly dependent"
+    ],
+    "answer": "Linearly independent"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "det(A) ≠ 0",
+      "They are normalized",
+      "det(A) = 0",
+      "They are orthogonal"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "The rank of a matrix equals:",
+    "options": [
+      "Number of columns",
+      "Number of linearly independent columns",
+      "Trace",
+      "Determinant"
+    ],
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "Vectors are linearly independent if:",
+    "options": [
+      "All vectors are zero",
+      "Determinant is zero",
+      "No vector is a linear combination of others",
+      "All vectors are parallel"
+    ],
+    "answer": "No vector is a linear combination of others"
+  },
+  {
+    "type": "FIB",
+    "question": "Two parallel vectors are:",
+    "answer": "Linearly dependent"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "det(A) = 0",
+      "They are orthogonal",
+      "det(A) ≠ 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "The rank of a matrix equals:",
+    "answer": "Number of linearly independent columns"
+  },
+  {
+    "type": "MCQ",
+    "question": "n vectors in R^n are independent if:",
+    "options": [
+      "They are normalized",
+      "They are orthogonal",
+      "det(A) ≠ 0",
+      "det(A) = 0"
+    ],
+    "answer": "det(A) ≠ 0"
+  },
+  {
+    "type": "FIB",
+    "question": "If vectors are linearly dependent:",
+    "answer": " One is a combination of others"
+  }
+]

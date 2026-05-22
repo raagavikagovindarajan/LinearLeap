@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Row Echelon Form - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">📊 Row Echelon Form</h1>
+
+            <h2>Row Echelon Form (REF)</h2>
+            <p>A matrix is in <strong>REF</strong> when:</p>
+            <div class="example-box">
+                <p>1. All zero rows are at the bottom.</p>
+                <p>2. Each leading entry (pivot) is to the right of the pivot above it.</p>
+                <p>3. All entries below a pivot are zero.</p>
+            </div>
+
+            <h2>Reduced Row Echelon Form (RREF)</h2>
+            <p>RREF adds two more conditions:</p>
+            <div class="example-box">
+                <p>4. Each pivot is 1.</p>
+                <p>5. All entries <em>above</em> a pivot are also zero.</p>
+            </div>
+
+            <h2>Example</h2>
+            <div class="example-box">
+                <p style="text-align:center; font-size:1.1rem; margin:1rem 0;">
+                    $$\text{RREF: }\begin{bmatrix} 1 & 0 & 2 \\ 0 & 1 & -1 \\ 0 & 0 & 0 \end{bmatrix}$$
+                </p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=row-echelon-form'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - LinearLeap</title>
+    <meta name="description" content="Test your linear algebra knowledge with interactive quizzes on LinearLeap.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div id="quiz-container">
+            <div id="loading">
+                <div class="spinner"></div>
+                <p>Loading quiz questions...</p>
+            </div>
+
+            <div id="quiz-content" style="display: none;">
+                <div class="progress-bar">
+                    <div id="progress-text">Question 1 of 5</div>
+                </div>
+
+                <div class="question-card">
+                    <h2 id="question-text"></h2>
+
+                    <div id="answer-section"></div>
+                </div>
+
+                <div class="button-group">
+                    <button id="prev-btn" class="btn btn-secondary" onclick="prevQuestion()" style="display: none;">← Prev</button>
+                    <button id="next-btn" class="btn btn-primary" onclick="nextQuestion()">Next →</button>
+                    <button id="submit-btn" class="btn btn-primary" onclick="submitQuiz()" style="display: none;">Submit Quiz</button>
+                    <button class="btn btn-secondary" onclick="location.href='index.html'">🏠 Home</button>
+                </div>
+            </div>
+
+            <div id="results-screen" style="display: none;">
+                <div class="score-display">
+                    <h1>🎉 Quiz Complete!</h1>
+                    <div class="score-number" id="final-score">0/5</div>
+                </div>
+
+                <h2>Review Your Answers</h2>
+                <div id="review-section"></div>
+
+                <div class="button-group">
+                    <button class="btn btn-primary" onclick="retakeQuiz()">🔄 Retake Quiz</button>
+                    <button class="btn btn-secondary" id="learn-more-btn" onclick="goToLearnPage()">📚 Learn More</button>
+                    <button class="btn btn-secondary" onclick="location.href='index.html'">⬅ Back to Home</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/theme.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

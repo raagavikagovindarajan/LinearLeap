@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vector Addition - Learn</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">➕ Vector Addition</h1>
+
+            <h2>What is Vector Addition?</h2>
+            <p>
+                <strong>Vector addition</strong> combines two or more vectors by adding their corresponding components.
+                Geometrically, it represents placing vectors head-to-tail.
+            </p>
+
+            <h2>Formula</h2>
+            <p>Vectors are added component-by-component:</p>
+            <p style="text-align: center; font-size: 1.3rem; margin: 2rem 0;">
+                $$\vec{u} + \vec{v} = (u_1 + v_1, u_2 + v_2, \ldots, u_n + v_n)$$
+            </p>
+
+            <div class="example-box">
+                <h4>2D Example</h4>
+                <p>Add \(\vec{u} = (3, 5)\) and \(\vec{v} = (2, -1)\):</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$\vec{u} + \vec{v} = (3 + 2, 5 + (-1)) = (5, 4)$$
+                </p>
+
+                <h4>3D Example</h4>
+                <p>Add \(\vec{a} = (1, 2, 3)\) and \(\vec{b} = (4, 5, 6)\):</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$\vec{a} + \vec{b} = (1 + 4, 2 + 5, 3 + 6) = (5, 7, 9)$$
+                </p>
+
+                <h4>Multiple Vectors</h4>
+                <p>Add \(\vec{p} = (1, 0)\), \(\vec{q} = (0, 1)\), and \(\vec{r} = (2, 2)\):</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$\vec{p} + \vec{q} + \vec{r} = (1 + 0 + 2, 0 + 1 + 2) = (3, 3)$$
+                </p>
+            </div>
+
+            <h2>Geometric Interpretation</h2>
+            <p>
+                Geometrically, vector addition follows the <strong>parallelogram law</strong> or <strong>triangle
+                    rule</strong>:
+                place the tail of the second vector at the head of the first vector. The sum is the vector from the
+                tail of the first to the head of the second.
+            </p>
+
+            <div class="example-box">
+                <h4>Visual Understanding</h4>
+                <p>If you walk 3 meters east, then 4 meters north:</p>
+                <p style="text-align: center; font-size: 1.1rem; margin: 1rem 0;">
+                    $$\vec{displacement} = (3, 0) + (0, 4) = (3, 4)$$
+                </p>
+                <p>Your final position is 3 meters east and 4 meters north of where you started!</p>
+            </div>
+
+            <h2>Properties</h2>
+            <div class="example-box">
+                <p><strong>1. Commutative:</strong> \(\vec{u} + \vec{v} = \vec{v} + \vec{u}\)</p>
+                <p><strong>2. Associative:</strong> \((\vec{u} + \vec{v}) + \vec{w} = \vec{u} + (\vec{v} + \vec{w})\)
+                </p>
+                <p><strong>3. Identity element:</strong> \(\vec{v} + \vec{0} = \vec{v}\) (zero vector)</p>
+                <p><strong>4. Inverse element:</strong> \(\vec{v} + (-\vec{v}) = \vec{0}\)</p>
+            </div>
+
+            <h2>Vector Subtraction</h2>
+            <p>Subtracting a vector is the same as adding its negative:</p>
+            <p style="text-align: center; font-size: 1.3rem; margin: 2rem 0;">
+                $$\vec{u} - \vec{v} = \vec{u} + (-\vec{v}) = (u_1 - v_1, u_2 - v_2, \ldots, u_n - v_n)$$
+            </p>
+
+            <div class="example-box">
+                <h4>Example</h4>
+                <p>Subtract \(\vec{v} = (2, 3)\) from \(\vec{u} = (5, 8)\):</p>
+                <p style="text-align: center; font-size: 1.2rem; margin: 1.5rem 0;">
+                    $$\vec{u} - \vec{v} = (5 - 2, 8 - 3) = (3, 5)$$
+                </p>
+            </div>
+
+            <h2>Applications</h2>
+            <ul style="color: var(--text-secondary); line-height: 2; margin-left: 2rem;">
+                <li><strong>Physics:</strong> Combining forces, velocities, or displacements</li>
+                <li><strong>Navigation:</strong> Finding total displacement from multiple movements</li>
+                <li><strong>Computer Graphics:</strong> Translating objects in space</li>
+                <li><strong>Engineering:</strong> Analyzing resultant forces on structures</li>
+            </ul>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=vector-addition'">📝 Take the
+                    Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Linear Algebra - LinearLeap</title>
+    <meta name="description" content="Explore 28 linear algebra topics including matrices, vectors, eigenvalues, and more with LinearLeap's interactive lessons.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <header class="hero" style="margin-bottom: 2rem;">
+            <h1 class="hero-title">📚 Learn</h1>
+            <p class="hero-subtitle">Choose a topic to explore</p>
+            <button class="btn btn-secondary" style="margin-top:1rem;" onclick="location.href='index.html'">⬅ Back to Home</button>
+        </header>
+
+        <div class="cards-grid-modern">
+            <div class="modern-card">
+                <div class="icon-box matrix-gradient"><span>📐</span></div>
+                <h2 class="modern-card-title">Matrix Multiplication</h2>
+                <p class="modern-card-description">Learn how to multiply matrices step by step.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/matrix-multiplication.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=matrix'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box identity-gradient"><span>🆔</span></div>
+                <h2 class="modern-card-title">Identity Matrix</h2>
+                <p class="modern-card-description">Understand the identity matrix and its properties.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/identity-matrix.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=identity-matrix'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box vectors-gradient"><span>📍</span></div>
+                <h2 class="modern-card-title">Vectors</h2>
+                <p class="modern-card-description">Learn vector operations with interactive examples.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/vectors.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=vectors'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box dotproduct-gradient"><span>⚫</span></div>
+                <h2 class="modern-card-title">Dot Product</h2>
+                <p class="modern-card-description">Calculate the dot product of vectors.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/dot-product.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=dot-product'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box magnitude-gradient"><span>📏</span></div>
+                <h2 class="modern-card-title">Vector Magnitude</h2>
+                <p class="modern-card-description">Find the length of a vector.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/vector-magnitude.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=vector-magnitude'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box addition-gradient"><span>➕</span></div>
+                <h2 class="modern-card-title">Vector Addition</h2>
+                <p class="modern-card-description">Add vectors component by component.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/vector-addition.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=vector-addition'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box crossproduct-gradient"><span>✖️</span></div>
+                <h2 class="modern-card-title">Cross Product</h2>
+                <p class="modern-card-description">Calculate perpendicular vectors in 3D space.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/cross-product.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=cross-product'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box transpose-gradient"><span>🔄</span></div>
+                <h2 class="modern-card-title">Matrix Transpose</h2>
+                <p class="modern-card-description">Flip matrices across their diagonal.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/matrix-transpose.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=matrix-transpose'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box determinant-gradient"><span>🔢</span></div>
+                <h2 class="modern-card-title">Matrix Determinant</h2>
+                <p class="modern-card-description">Calculate determinants of 2×2 and 3×3 matrices.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/matrix-determinant.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=matrix-determinant'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box inverse-gradient"><span>↩️</span></div>
+                <h2 class="modern-card-title">Matrix Inverse</h2>
+                <p class="modern-card-description">Find and apply inverse matrices.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/matrix-inverse.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=matrix-inverse'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box eigen-gradient"><span>λ</span></div>
+                <h2 class="modern-card-title">Eigenvalues & Eigenvectors</h2>
+                <p class="modern-card-description">Special vectors and their scaling factors.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/eigenvalues-eigenvectors.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=eigenvalues-eigenvectors'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box projection-gradient"><span>📊</span></div>
+                <h2 class="modern-card-title">Vector Projection</h2>
+                <p class="modern-card-description">Project vectors onto other vectors.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/vector-projection.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=vector-projection'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box independence-gradient"><span>🎯</span></div>
+                <h2 class="modern-card-title">Linear Independence</h2>
+                <p class="modern-card-description">Determine if vectors are linearly independent.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/linear-independence.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=linear-independence'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box basis-gradient"><span>🏗️</span></div>
+                <h2 class="modern-card-title">Basis Vectors</h2>
+                <p class="modern-card-description">Foundations of vector spaces.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/basis-vectors.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=basis-vectors'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box transform-gradient"><span>🔀</span></div>
+                <h2 class="modern-card-title">Linear Transformations</h2>
+                <p class="modern-card-description">Transform vectors with matrices.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/linear-transformations.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=linear-transformations'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box orthogonal-gradient"><span>⊥</span></div>
+                <h2 class="modern-card-title">Orthogonality</h2>
+                <p class="modern-card-description">Perpendicular vectors and orthogonal matrices.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/orthogonality.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=orthogonality'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box rank-gradient"><span>🏅</span></div>
+                <h2 class="modern-card-title">Matrix Rank</h2>
+                <p class="modern-card-description">Measure matrix dimensionality.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/matrix-rank.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=matrix-rank'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box nullspace-gradient"><span>∅</span></div>
+                <h2 class="modern-card-title">Null Space</h2>
+                <p class="modern-card-description">Find solutions to homogeneous systems.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/null-space.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=null-space'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box systems-gradient"><span>⚡</span></div>
+                <h2 class="modern-card-title">Systems of Linear Equations</h2>
+                <p class="modern-card-description">Solve 2×2 and 3×3 systems of linear equations.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/systems-linear-equations.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=systems-linear-equations'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box gaussian-gradient"><span>🔄</span></div>
+                <h2 class="modern-card-title">Gaussian Elimination</h2>
+                <p class="modern-card-description">Row reduction techniques for solving systems.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/gaussian-elimination.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=gaussian-elimination'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box rref-gradient"><span>📊</span></div>
+                <h2 class="modern-card-title">Row Echelon Form</h2>
+                <p class="modern-card-description">Reduce matrices to REF and RREF.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/row-echelon-form.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=row-echelon-form'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box trace-gradient"><span>✨</span></div>
+                <h2 class="modern-card-title">Matrix Trace</h2>
+                <p class="modern-card-description">Sum of diagonal elements and its properties.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/matrix-trace.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=matrix-trace'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box gramschmidt-gradient"><span>🎯</span></div>
+                <h2 class="modern-card-title">Gram-Schmidt Process</h2>
+                <p class="modern-card-description">Orthogonalize vectors to create orthogonal bases.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/gram-schmidt.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=gram-schmidt'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box diag-gradient"><span>🔢</span></div>
+                <h2 class="modern-card-title">Diagonalization</h2>
+                <p class="modern-card-description">Convert matrices to diagonal form using eigenvalues.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/diagonalization.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=diagonalization'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box colrow-gradient"><span>📐</span></div>
+                <h2 class="modern-card-title">Column & Row Space</h2>
+                <p class="modern-card-description">Fundamental subspaces and their relationship to rank.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/column-row-space.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=column-row-space'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box lu-gradient"><span>🧮</span></div>
+                <h2 class="modern-card-title">LU Decomposition</h2>
+                <p class="modern-card-description">Factor matrices into lower and upper triangular forms.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/lu-decomposition.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=lu-decomposition'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box leastsquares-gradient"><span>📈</span></div>
+                <h2 class="modern-card-title">Least Squares</h2>
+                <p class="modern-card-description">Find best-fit solutions and linear regression.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/least-squares.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=least-squares'">Quiz</button>
+                </div>
+            </div>
+
+            <div class="modern-card">
+                <div class="icon-box changebasis-gradient"><span>🔀</span></div>
+                <h2 class="modern-card-title">Change of Basis</h2>
+                <p class="modern-card-description">Transform coordinates between different bases.</p>
+                <div class="button-row">
+                    <button class="outline-button" onclick="location.href='topics/change-of-basis.html'">Learn</button>
+                    <button class="outline-button" onclick="location.href='quiz.html?type=change-of-basis'">Quiz</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/theme.js"></script>
+</body>
+
+</html>

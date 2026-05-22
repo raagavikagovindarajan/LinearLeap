@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagonalization - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🔢 Diagonalization</h1>
+
+            <h2>What is Diagonalization?</h2>
+            <p>A matrix $A$ is <strong>diagonalizable</strong> if it can be written as $A = PDP^{-1}$, where $D$ is diagonal (containing eigenvalues) and $P$ contains the corresponding eigenvectors.</p>
+
+            <h2>Steps to Diagonalize</h2>
+            <div class="example-box">
+                <p><strong>1.</strong> Find all eigenvalues $\lambda_i$ by solving $\det(A - \lambda I) = 0$</p>
+                <p><strong>2.</strong> Find eigenvectors for each eigenvalue</p>
+                <p><strong>3.</strong> Form $P$ (columns = eigenvectors) and $D$ (diagonal = eigenvalues)</p>
+                <p><strong>4.</strong> Verify: $A = PDP^{-1}$</p>
+            </div>
+
+            <h2>When is a Matrix Diagonalizable?</h2>
+            <div class="example-box">
+                <p>An $n\times n$ matrix is diagonalizable iff it has $n$ linearly independent eigenvectors.</p>
+                <p>Matrices with $n$ distinct eigenvalues are always diagonalizable.</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=diagonalization'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

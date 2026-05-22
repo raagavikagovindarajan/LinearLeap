@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change of Basis - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🔀 Change of Basis</h1>
+
+            <h2>What is Change of Basis?</h2>
+            <p>Coordinates of a vector depend on the basis. A <strong>change of basis</strong> re-expresses the same vector using a different basis.</p>
+
+            <h2>Change of Basis Matrix</h2>
+            <div class="example-box">
+                <p>If $B = \{\vec{b}_1, \vec{b}_2\}$ is a new basis, the <strong>change of basis matrix</strong> $P$ has the new basis vectors as its columns:</p>
+                <p style="text-align:center; font-size:1.2rem; margin:1rem 0;">$$P = [\vec{b}_1 \mid \vec{b}_2]$$</p>
+                <p>Convert from $B$-coordinates to standard: $\vec{x} = P\vec{x}_B$</p>
+                <p>Convert from standard to $B$: $\vec{x}_B = P^{-1}\vec{x}$</p>
+            </div>
+
+            <h2>Transformation in a New Basis</h2>
+            <div class="example-box">
+                <p>If $A$ represents a transformation in standard coordinates, then in the $B$ basis it becomes:</p>
+                <p style="text-align:center; font-size:1.2rem; margin:1rem 0;">$$A_B = P^{-1}AP$$</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=change-of-basis'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linear Independence - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">🎯 Linear Independence</h1>
+
+            <h2>What is Linear Independence?</h2>
+            <p>A set of vectors is <strong>linearly independent</strong> if no vector in the set can be written as a linear combination of the others.</p>
+
+            <h2>Test for Independence</h2>
+            <div class="example-box">
+                <p>Vectors $\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n$ are linearly independent if the only solution to:</p>
+                <p style="text-align:center; font-size:1.2rem; margin:1rem 0;">$$c_1\vec{v}_1 + c_2\vec{v}_2 + \cdots + c_n\vec{v}_n = \vec{0}$$</p>
+                <p>is $c_1 = c_2 = \cdots = c_n = 0$.</p>
+            </div>
+
+            <h2>Quick Check</h2>
+            <div class="example-box">
+                <p>For 2D vectors: two vectors are linearly dependent if they are parallel (one is a scalar multiple of the other).</p>
+                <p>For a matrix: columns are linearly independent iff $\det(A) \neq 0$.</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=linear-independence'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

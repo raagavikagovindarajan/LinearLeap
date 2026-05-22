@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Systems of Linear Equations - LinearLeap</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '\\[', right: '\\]', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false}
+        ]
+    });"></script>
+</head>
+
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="topic-content">
+            <h1 style="color: var(--text-primary); text-align: center; margin-bottom: 2rem;">⚡ Systems of Linear Equations</h1>
+
+            <h2>What is a System of Linear Equations?</h2>
+            <p>A collection of linear equations involving the same variables. In matrix form: $A\vec{x} = \vec{b}$</p>
+
+            <h2>Types of Solutions</h2>
+            <div class="example-box">
+                <p><strong>Unique solution:</strong> Lines/planes intersect at exactly one point. ($\det(A) \neq 0$)</p>
+                <p><strong>Infinite solutions:</strong> Equations are dependent (one is a multiple of another).</p>
+                <p><strong>No solution:</strong> Equations are inconsistent (parallel lines).</p>
+            </div>
+
+            <h2>Solution Methods</h2>
+            <div class="example-box">
+                <p><strong>1. Substitution</strong> — solve one equation, substitute into others.</p>
+                <p><strong>2. Elimination (Gaussian)</strong> — row-reduce via elementary operations.</p>
+                <p><strong>3. Cramer's Rule</strong> — use determinants for small systems.</p>
+                <p><strong>4. Matrix Inverse</strong> — $\vec{x} = A^{-1}\vec{b}$ (when $A$ is invertible).</p>
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="btn btn-primary" onclick="location.href='../quiz.html?type=systems-linear-equations'">📝 Take the Quiz</button>
+                <button class="btn btn-secondary" onclick="location.href='../index.html'">⬅ Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/theme.js"></script>
+</body>
+
+</html>

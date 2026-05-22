@@ -1,0 +1,8002 @@
+[
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Lengths and angles",
+      "Nothing",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u||² - ||v||²",
+      "||u|| · ||v||",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q² = I",
+      "Q = I",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "90°",
+      "0°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "Q",
+      "Q^T",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Nothing",
+      "Only angles",
+      "Only lengths",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Orthogonal only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Equal",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Perpendicular",
+      "Zero",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Nothing",
+      "Only lengths",
+      "Only angles",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "-Q",
+      "I",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "Q^T",
+      "Q",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "180°",
+      "90°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Parallel",
+      "Perpendicular",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "Q",
+      "-Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Only lengths",
+      "Lengths and angles",
+      "Nothing"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "-Q",
+      "Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Lengths and angles",
+      "Only lengths",
+      "Nothing"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u||² - ||v||²",
+      "||u|| · ||v||",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "None",
+      "Dependent",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only lengths",
+      "Nothing",
+      "Only angles",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q^T Q = I",
+      "Q = 0",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Perpendicular",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u||² - ||v||²",
+      "||u|| · ||v||",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Zero",
+      "Parallel",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Only lengths",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Parallel and unit length",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Parallel",
+      "Orthonormal",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Dependent",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "-Q",
+      "Q^T",
+      "I",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Orthonormal",
+      "Parallel",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Lengths and angles",
+      "Only angles",
+      "Nothing",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² - ||v||²",
+      "0",
+      "||u|| · ||v||",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "None",
+      "Parallel",
+      "Orthogonal",
+      "Dependent"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Orthogonal only",
+      "Unit length only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Equal",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Zero",
+      "Parallel",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Dependent",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Perpendicular",
+      "Parallel",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Dependent",
+      "Orthonormal",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q = 0",
+      "Q² = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "-Q",
+      "Q^T",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "None",
+      "Parallel",
+      "Dependent"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "I",
+      "-Q",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = I",
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "90°",
+      "45°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "I",
+      "Q^T",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Dependent",
+      "Orthonormal",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Orthogonal only",
+      "Parallel and unit length",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Equal",
+      "Perpendicular",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Perpendicular",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u|| · ||v||",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "180°",
+      "45°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "Dependent",
+      "None",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q = I",
+      "Q = 0",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Equal",
+      "Parallel",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Equal",
+      "Perpendicular",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Lengths and angles",
+      "Only angles",
+      "Only lengths",
+      "Nothing"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Perpendicular",
+      "Equal",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "None",
+      "Parallel",
+      "Dependent"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only lengths",
+      "Nothing",
+      "Lengths and angles",
+      "Only angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Orthogonal only",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Dependent",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Unit length only",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "0°",
+      "180°",
+      "90°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "None",
+      "Dependent",
+      "Orthogonal"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "Q^T",
+      "I",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Lengths and angles",
+      "Only angles",
+      "Nothing",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Lengths and angles",
+      "Nothing",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Only lengths",
+      "Nothing",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Parallel and unit length",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = I",
+      "Q^T Q = I",
+      "Q = 0",
+      "Q² = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Zero",
+      "Parallel",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "None",
+      "Dependent",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "-Q",
+      "Q^T",
+      "Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "Q",
+      "-Q",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only lengths",
+      "Only angles",
+      "Nothing",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q^T Q = I",
+      "Q = 0",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Orthonormal",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "Orthogonal",
+      "Parallel",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "0°",
+      "90°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "None",
+      "Parallel",
+      "Dependent"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "-Q",
+      "Q^T",
+      "Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² + ||v||²",
+      "0",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "-Q",
+      "Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "0°",
+      "45°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "45°",
+      "90°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "None",
+      "Orthogonal",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "-Q",
+      "Q",
+      "Q^T",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "Q^T",
+      "Q",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q = 0",
+      "Q² = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Lengths and angles",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "-Q",
+      "I",
+      "Q",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Dependent",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "||u||² - ||v||²",
+      "0",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "Parallel",
+      "None",
+      "Orthogonal"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "Dependent",
+      "Orthogonal",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Orthonormal",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "||u||² - ||v||²",
+      "0",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Lengths and angles",
+      "Nothing",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Lengths and angles",
+      "Only lengths",
+      "Nothing",
+      "Only angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Nothing",
+      "Lengths and angles",
+      "Only angles",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Dependent",
+      "Zero",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Only lengths",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Perpendicular",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Equal",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Only lengths",
+      "Lengths and angles",
+      "Nothing"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "-Q",
+      "I",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "45°",
+      "0°",
+      "90°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Orthogonal only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Only lengths",
+      "Nothing",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "0",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "180°",
+      "90°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q = I",
+      "Q^T Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "0°",
+      "90°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "Q^T",
+      "-Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Lengths and angles",
+      "Only angles",
+      "Nothing",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Equal",
+      "Perpendicular",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Dependent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Dependent",
+      "Parallel",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Zero",
+      "Parallel",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Lengths and angles",
+      "Nothing",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Equal",
+      "Perpendicular",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Zero",
+      "Parallel",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "Q^T",
+      "Q",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Nothing",
+      "Only lengths",
+      "Only angles",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² - ||v||²",
+      "0",
+      "||u|| · ||v||",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "Dependent",
+      "Orthogonal",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal only",
+      "Unit length only",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "0°",
+      "90°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "None",
+      "Dependent",
+      "Parallel",
+      "Orthogonal"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "-Q",
+      "I",
+      "Q^T",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Dependent",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Unit length only",
+      "Orthogonal only",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "-Q",
+      "Q",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Zero",
+      "Parallel",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "None",
+      "Orthogonal",
+      "Dependent"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Dependent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "I",
+      "-Q",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Dependent",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "None",
+      "Parallel",
+      "Dependent",
+      "Orthogonal"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q = I",
+      "Q = 0",
+      "Q² = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "-Q",
+      "Q^T",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "Q",
+      "-Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "0°",
+      "180°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "I",
+      "Q",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Unit length only",
+      "Orthogonal and unit length",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "-Q",
+      "Q",
+      "I",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Parallel and unit length",
+      "Unit length only",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Dependent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Zero",
+      "Parallel",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q = I",
+      "Q² = I",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "180°",
+      "90°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u|| · ||v||",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² - ||v||²",
+      "0",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q = 0",
+      "Q^T Q = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "180°",
+      "45°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Orthonormal",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Parallel",
+      "Equal",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Dependent",
+      "Zero",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = I",
+      "Q^T Q = I",
+      "Q = 0",
+      "Q² = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Zero",
+      "Parallel",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = I",
+      "Q² = I",
+      "Q^T Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "Q^T",
+      "-Q",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Parallel",
+      "Zero",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Orthonormal",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Dependent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Orthogonal only",
+      "Parallel and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q = I",
+      "Q^T Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Lengths and angles",
+      "Only lengths",
+      "Nothing"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "I",
+      "-Q",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only lengths",
+      "Nothing",
+      "Only angles",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "180°",
+      "0°",
+      "90°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Lengths and angles",
+      "Only angles",
+      "Only lengths",
+      "Nothing"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "45°",
+      "180°",
+      "90°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "0",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Perpendicular",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "||u|| · ||v||",
+      "0",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Dependent",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Perpendicular",
+      "Zero",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal only",
+      "Unit length only",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q = 0",
+      "Q = I",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u||² + ||v||²",
+      "||u||² - ||v||²",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "Parallel",
+      "None",
+      "Orthogonal"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² - ||v||²",
+      "||u|| · ||v||",
+      "0",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "Parallel",
+      "Orthogonal",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Orthogonal and unit length",
+      "Orthogonal only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Lengths and angles",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² - ||v||²",
+      "0",
+      "||u||² + ||v||²",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Zero",
+      "Parallel",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "Q",
+      "I",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Perpendicular",
+      "Equal",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Orthogonal only",
+      "Parallel and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Lengths and angles",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "45°",
+      "180°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "None",
+      "Dependent",
+      "Parallel",
+      "Orthogonal"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q² = I",
+      "Q = I",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² - ||v||²",
+      "0",
+      "||u||² + ||v||²",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "Q^T",
+      "-Q",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q = 0",
+      "Q^T Q = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² + ||v||²",
+      "||u||² - ||v||²",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal only",
+      "Unit length only",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Parallel",
+      "Zero",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Orthonormal",
+      "Zero",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Zero",
+      "Equal",
+      "Parallel"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "-Q",
+      "Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = 0",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "45°",
+      "90°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Parallel",
+      "Zero",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only lengths",
+      "Nothing",
+      "Lengths and angles",
+      "Only angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q = 0",
+      "Q² = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "90°",
+      "0°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Equal",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Perpendicular",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "-Q",
+      "Q",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Lengths and angles",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q = I",
+      "Q² = I",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "Undefined"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "180°",
+      "90°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Zero",
+      "Orthonormal",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Orthogonal only",
+      "Parallel and unit length",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "-Q",
+      "Q",
+      "Q^T",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Orthogonal only",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Orthonormal",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "||u|| · ||v||",
+      "||u||² - ||v||²",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Nothing",
+      "Lengths and angles",
+      "Only angles",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "45°",
+      "90°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Orthogonal only",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Only lengths",
+      "Nothing",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Perpendicular",
+      "Parallel",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "None",
+      "Dependent",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "0",
+      "||u|| · ||v||",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Parallel",
+      "Orthonormal",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Dependent",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "180°",
+      "45°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only lengths",
+      "Lengths and angles",
+      "Nothing",
+      "Only angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "-Q",
+      "I",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "0",
+      "||u||² - ||v||²",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "45°",
+      "180°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q² = I",
+      "Q = I",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Lengths and angles",
+      "Nothing",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "-Q",
+      "I",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "0°",
+      "180°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Parallel",
+      "Equal",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Dependent",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² + ||v||²",
+      "0",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "0",
+      "||u||² + ||v||²",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Nothing",
+      "Only lengths",
+      "Lengths and angles",
+      "Only angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Orthogonal only",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Orthogonal only",
+      "Parallel and unit length",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Orthonormal",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "None",
+      "Dependent"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Perpendicular",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "None",
+      "Orthogonal",
+      "Dependent",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Parallel and unit length",
+      "Orthogonal only",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Perpendicular",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "0",
+      "||u|| · ||v||",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = I",
+      "Q = 0",
+      "Q² = I",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Dependent",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "45°",
+      "90°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "90°",
+      "0°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "Q",
+      "I",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q^T Q = I",
+      "Q = I",
+      "Q² = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q = 0",
+      "Q = I",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Orthonormal",
+      "Zero",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Orthogonal only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = I",
+      "Q² = I",
+      "Q^T Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Dependent",
+      "Parallel",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "None",
+      "Parallel",
+      "Orthogonal"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Parallel",
+      "Zero",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Orthonormal",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "0°",
+      "90°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Dependent",
+      "Parallel",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "I",
+      "-Q",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "0°",
+      "180°",
+      "90°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "90°",
+      "180°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Orthonormal",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "-Q",
+      "Q",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "None",
+      "Parallel",
+      "Orthogonal",
+      "Dependent"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "0",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "I",
+      "Q^T",
+      "Q",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "-Q",
+      "Q",
+      "Q^T",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Orthonormal",
+      "Parallel",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = 0",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "0",
+      "||u||² - ||v||²",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Dependent",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Zero",
+      "Parallel",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Parallel",
+      "Zero",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "180°",
+      "90°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = I",
+      "Q^T Q = I",
+      "Q = 0",
+      "Q² = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Zero",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "Parallel",
+      "Dependent",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "Orthogonal",
+      "None",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q = 0",
+      "Q = I",
+      "Q^T Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Equal",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "0",
+      "||u||² - ||v||²",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Nothing",
+      "Only lengths",
+      "Lengths and angles",
+      "Only angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "Q",
+      "I",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "90°",
+      "45°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "90°",
+      "0°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Dependent",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "180°",
+      "90°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Lengths and angles",
+      "Nothing",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u|| · ||v||",
+      "||u||² + ||v||²",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Lengths and angles",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "180°",
+      "0°",
+      "45°",
+      "90°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² + ||v||²",
+      "0",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = I",
+      "Q² = I",
+      "Q^T Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Equal",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Orthogonal only",
+      "Unit length only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Unit length only",
+      "Parallel and unit length",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "Orthogonal",
+      "None",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Parallel",
+      "Orthonormal",
+      "Zero",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u||² - ||v||²",
+      "||u|| · ||v||",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "0",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Zero",
+      "Orthonormal",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "-Q",
+      "I",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Perpendicular",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "I",
+      "Q",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Dependent",
+      "Parallel",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Only lengths",
+      "Nothing",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Zero",
+      "Parallel",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Lengths and angles",
+      "Only lengths",
+      "Nothing"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Lengths and angles",
+      "Nothing",
+      "Only angles",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Zero",
+      "Perpendicular",
+      "Parallel"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Perpendicular",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Only lengths",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q = 0",
+      "Q² = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q^T Q = I",
+      "Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "0",
+      "||u|| · ||v||",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "0",
+      "||u||² - ||v||²",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "90°",
+      "180°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "45°",
+      "180°",
+      "90°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Equal",
+      "Perpendicular",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "-Q",
+      "Q^T",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Orthonormal",
+      "Dependent",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Zero",
+      "Orthonormal",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "Q^T",
+      "I",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal and unit length",
+      "Orthogonal only",
+      "Unit length only",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "Q^T",
+      "-Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "180°",
+      "90°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "||u||² - ||v||²",
+      "0",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "Orthogonal",
+      "None",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q² = I",
+      "Q = 0",
+      "Q^T Q = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Unit length only",
+      "Parallel and unit length",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Equal",
+      "Parallel",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Only lengths",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "Orthogonal",
+      "Dependent",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Lengths and angles",
+      "Only lengths",
+      "Only angles",
+      "Nothing"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only angles",
+      "Nothing",
+      "Only lengths",
+      "Lengths and angles"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Parallel",
+      "Orthonormal",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = I",
+      "Q^T Q = I",
+      "Q² = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Orthonormal",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "I",
+      "Q^T",
+      "-Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Perpendicular",
+      "Parallel",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "None",
+      "Orthogonal",
+      "Dependent"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Equal",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² - ||v||²",
+      "0",
+      "||u|| · ||v||",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Unit length only",
+      "Orthogonal and unit length",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Only lengths",
+      "Only angles",
+      "Lengths and angles",
+      "Nothing"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Perpendicular",
+      "Parallel",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Orthonormal",
+      "Dependent",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Unit length only",
+      "Orthogonal only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "Undefined"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "180°",
+      "90°",
+      "0°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² + ||v||²",
+      "0",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "180°",
+      "0°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Orthonormal",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Unit length only",
+      "Parallel and unit length",
+      "Orthogonal and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Zero",
+      "Equal",
+      "Perpendicular",
+      "Parallel"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Dependent",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Dependent",
+      "Orthonormal",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "0",
+      "||u||² + ||v||²",
+      "||u||² - ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal matrices preserve:",
+    "options": [
+      "Lengths and angles",
+      "Nothing",
+      "Only angles",
+      "Only lengths"
+    ],
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Orthogonal",
+      "Dependent",
+      "None",
+      "Parallel"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Zero",
+      "Equal",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Orthonormal",
+      "Dependent",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q = I",
+      "Q² = I",
+      "Q = 0"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² - ||v||²",
+      "0",
+      "||u|| · ||v||",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² + ||v||²",
+      "||u||² - ||v||²",
+      "||u|| · ||v||",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q = 0",
+      "Q² = I",
+      "Q = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Orthonormal",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "-Q",
+      "I",
+      "Q"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "0",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Equal",
+      "Parallel",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Orthonormal",
+      "Parallel",
+      "Dependent",
+      "Zero"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q",
+      "I",
+      "-Q",
+      "Q^T"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Unit length only",
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Parallel and unit length"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Parallel and unit length",
+      "Orthogonal and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Zero",
+      "Equal",
+      "Parallel"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Equal",
+      "Zero",
+      "Parallel",
+      "Perpendicular"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² + ||v||²",
+      "||u||² - ||v||²",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u||² - ||v||²",
+      "||u||² + ||v||²",
+      "||u|| · ||v||",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q = 0",
+      "Q = I",
+      "Q^T Q = I",
+      "Q² = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "||u|| · ||v||",
+      "||u||² + ||v||²",
+      "||u||² - ||v||²",
+      "0"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Dependent",
+      "Orthonormal",
+      "Zero",
+      "Parallel"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "The angle between orthogonal vectors is:",
+    "answer": "90°"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Dependent",
+      "Parallel",
+      "Orthonormal"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthogonal matrix Q satisfies:",
+    "options": [
+      "Q^T Q = I",
+      "Q = 0",
+      "Q = I",
+      "Q² = I"
+    ],
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "Standard basis vectors are:",
+    "options": [
+      "Zero",
+      "Orthonormal",
+      "Parallel",
+      "Dependent"
+    ],
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "An orthonormal set has vectors that are:",
+    "options": [
+      "Orthogonal only",
+      "Orthogonal and unit length",
+      "Parallel and unit length",
+      "Unit length only"
+    ],
+    "answer": "Orthogonal and unit length"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthogonal matrix Q satisfies:",
+    "answer": "Q^T Q = I"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Parallel",
+      "None",
+      "Orthogonal",
+      "Dependent"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "0°",
+      "180°",
+      "45°",
+      "90°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Perpendicular",
+      "Parallel",
+      "Zero",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)",
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "options": [
+      "Undefined",
+      "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(1\\\\\\\\\\\\\\\\)",
+      "\\\\\\\\\\\\\\\\(-1\\\\\\\\\\\\\\\\)"
+    ],
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "FIB",
+    "question": "Standard basis vectors are:",
+    "answer": "Orthonormal"
+  },
+  {
+    "type": "MCQ",
+    "question": "If u and v are orthogonal, ||u + v||² = ?",
+    "options": [
+      "0",
+      "||u||² - ||v||²",
+      "||u||² + ||v||²",
+      "||u|| · ||v||"
+    ],
+    "answer": "||u||² + ||v||²"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal vectors are:",
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "90°",
+      "180°",
+      "0°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "options": [
+      "Dependent",
+      "Parallel",
+      "Orthogonal",
+      "None"
+    ],
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "FIB",
+    "question": "(1, 0) and (0, 1) in R^2 are:",
+    "answer": "Orthogonal"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Perpendicular",
+      "Equal",
+      "Zero"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "answer": "Q^T"
+  },
+  {
+    "type": "MCQ",
+    "question": "The angle between orthogonal vectors is:",
+    "options": [
+      "45°",
+      "90°",
+      "0°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "type": "FIB",
+    "question": "Two vectors are orthogonal if their dot product is:",
+    "answer": "\\\\\\\\\\\\\\\\(0\\\\\\\\\\\\\\\\)"
+  },
+  {
+    "type": "MCQ",
+    "question": "Orthogonal vectors are:",
+    "options": [
+      "Parallel",
+      "Perpendicular",
+      "Zero",
+      "Equal"
+    ],
+    "answer": "Perpendicular"
+  },
+  {
+    "type": "FIB",
+    "question": "Orthogonal matrices preserve:",
+    "answer": "Lengths and angles"
+  },
+  {
+    "type": "MCQ",
+    "question": "If Q is orthogonal, Q^(-1) = ?",
+    "options": [
+      "Q^T",
+      "-Q",
+      "Q",
+      "I"
+    ],
+    "answer": "Q^T"
+  },
+  {
+    "type": "FIB",
+    "question": "An orthonormal set has vectors that are:",
+    "answer": "Orthogonal and unit length"
+  }
+]

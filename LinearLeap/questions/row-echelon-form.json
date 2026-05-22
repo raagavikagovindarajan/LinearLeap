@@ -1,0 +1,8002 @@
+[
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Basic variables",
+      "Determinant",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Undefined",
+      "Unique for each matrix",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Unique for each matrix",
+      "Not unique",
+      "Undefined",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Number of columns",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Reduced Excel Form",
+      "Row Elimination Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Ones",
+      "Zeros",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Unique for each matrix",
+      "Random",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Free variables",
+      "Basic variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "Not allowed",
+      "At the top",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 0s",
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has all 1s",
+      "Has random values",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "At the bottom",
+      "At the top",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Anywhere",
+      "Not allowed",
+      "At the bottom",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "Anywhere",
+      "At the top",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "1",
+      "The determinant",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Any value",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Unique for each matrix",
+      "Not unique",
+      "Random",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Anywhere",
+      "At the top",
+      "Not allowed",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of rows",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "0",
+      "1",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has random values",
+      "Has all 0s",
+      "Has one 1 and rest 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Any value",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Rank of A",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Real REF",
+      "Rank REF",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Row Echelon Form",
+      "Row Elimination Form",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "The determinant",
+      "Any value",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Ones",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 0s",
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "Anywhere",
+      "At the bottom",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has random values",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "Free variables",
+      "No variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "Determinant",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 0s",
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Zeros",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Undefined",
+      "Unique for each matrix",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "Anywhere",
+      "Not allowed",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Basic variables",
+      "Free variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Reduced Excel Form",
+      "Row Elimination Form",
+      "Row Echelon Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Pivots",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Random",
+      "Unique for each matrix",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of rows",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Reduced Row Echelon Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Basic variables",
+      "Determinant",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "Any value",
+      "The determinant",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Ones",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Free variables",
+      "Determinant",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Undefined",
+      "Not unique",
+      "Unique for each matrix"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Undefined",
+      "Unique for each matrix",
+      "Random",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Rank REF",
+      "Real REF",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Basic variables",
+      "Determinant",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Determinant",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "No variables",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has all 0s",
+      "Has one 1 and rest 0s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Pivots",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Free variables",
+      "Basic variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Any value",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Row Elimination Form",
+      "Rank Echelon Format",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Rank of A",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "0",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Any value",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "1",
+      "The determinant",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Any value",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Determinant",
+      "Free variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "Anywhere",
+      "At the top",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Any value",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "No variables",
+      "Free variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Ones",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Any value",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Any value",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Basic variables",
+      "Determinant",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Any value",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Not unique",
+      "Undefined",
+      "Unique for each matrix"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "Free variables",
+      "Determinant",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Basic variables",
+      "Determinant",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "Determinant",
+      "No variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "Determinant",
+      "Free variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Reduced Excel Form",
+      "Rank Echelon Format",
+      "Row Elimination Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Rank of A",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Determinant",
+      "No variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "The determinant",
+      "1",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Unique for each matrix",
+      "Random",
+      "Undefined",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Rank of A",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of rows",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "Anywhere",
+      "At the bottom",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Zeros",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "Any value",
+      "0",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has all 1s",
+      "Has random values",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "1",
+      "0",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "At the top",
+      "Anywhere",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "No variables",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Determinant",
+      "Free variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Zeros",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "Determinant",
+      "No variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "0",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Determinant",
+      "Basic variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "At the top",
+      "Anywhere",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "0",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "0",
+      "Any value",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 0s",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Reduced Excel Form",
+      "Row Echelon Form",
+      "Rank Echelon Format",
+      "Row Elimination Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Undefined",
+      "Random",
+      "Unique for each matrix",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "1",
+      "Any value",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 1s",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "Anywhere",
+      "At the top",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Pivots",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Rank REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "Not allowed",
+      "Anywhere",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Rank of A",
+      "Number of rows",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "Anywhere",
+      "At the top",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Not unique",
+      "Undefined",
+      "Unique for each matrix"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 0s",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Ones",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Any value",
+      "Ones",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Any value",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "At the bottom",
+      "Anywhere",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Rank of A",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Rank Echelon Format",
+      "Row Echelon Form",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Real REF",
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Determinant",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Rank of A",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Ones",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Rank REF",
+      "Real REF",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Zeros",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "Any value",
+      "The determinant",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Determinant",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "Anywhere",
+      "Not allowed",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Rank Echelon Format",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Anywhere",
+      "At the top",
+      "At the bottom",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Unique for each matrix",
+      "Undefined",
+      "Not unique",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Rank of A",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Any value",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Rank REF",
+      "Real REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Free variables",
+      "Basic variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Determinant",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Determinant",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "No variables",
+      "Free variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Determinant",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "At the top",
+      "Anywhere",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Zeros",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Ones",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Undefined",
+      "Unique for each matrix",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Free variables",
+      "Basic variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "Any value",
+      "0",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Unique for each matrix",
+      "Undefined",
+      "Random",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Pivots",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "At the top",
+      "Anywhere",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "Anywhere",
+      "Not allowed",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Any value",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "1",
+      "0",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "Determinant",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "Determinant",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Any value",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Anywhere",
+      "At the bottom",
+      "Not allowed",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Number of columns",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Rank REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Undefined",
+      "Random",
+      "Not unique",
+      "Unique for each matrix"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Random",
+      "Unique for each matrix",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Zeros",
+      "Any value",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "Not allowed",
+      "Anywhere",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "Free variables",
+      "No variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Ones",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "Any value",
+      "The determinant",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Row Echelon Form",
+      "Reduced Excel Form",
+      "Row Elimination Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Reduced Excel Form",
+      "Row Elimination Form",
+      "Rank Echelon Format",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Rank of A",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Row Echelon Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Reduced Row Echelon Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "0",
+      "1",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "Not allowed",
+      "At the bottom",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "Free variables",
+      "Determinant",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Unique for each matrix",
+      "Undefined",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "Not allowed",
+      "Anywhere",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "0",
+      "1",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has random values",
+      "Has all 0s",
+      "Has one 1 and rest 0s",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Any value",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has random values",
+      "Has all 0s",
+      "Has one 1 and rest 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Any value",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Any value",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 0s",
+      "Has one 1 and rest 0s",
+      "Has all 1s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Reduced Excel Form",
+      "Row Echelon Form",
+      "Row Elimination Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Zeros",
+      "Any value",
+      "Ones",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Pivots",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Unique for each matrix",
+      "Undefined",
+      "Not unique",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "At the bottom",
+      "Anywhere",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has random values",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "The determinant",
+      "Any value",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Ones",
+      "Any value",
+      "Zeros",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "No variables",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Reduced Excel Form",
+      "Row Elimination Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Row Elimination Form",
+      "Row Echelon Form",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has all 1s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 1s",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "At the bottom",
+      "Anywhere",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "0",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "No variables",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Random",
+      "Undefined",
+      "Unique for each matrix"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 0s",
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Free variables",
+      "No variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Ones",
+      "Zeros",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Reduced Row Echelon Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "Anywhere",
+      "At the top",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Basic variables",
+      "Free variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Reduced Excel Form",
+      "Row Elimination Form",
+      "Rank Echelon Format",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Any value",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Ones",
+      "Zeros",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Rank of A",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has random values",
+      "Has all 1s",
+      "Has all 0s",
+      "Has one 1 and rest 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Undefined",
+      "Random",
+      "Unique for each matrix",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Unique for each matrix",
+      "Not unique",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Undefined",
+      "Not unique",
+      "Unique for each matrix",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Pivots",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Undefined",
+      "Unique for each matrix",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Rank REF",
+      "Real REF",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "Any value",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Rank Echelon Format",
+      "Row Echelon Form",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Rank REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Undefined",
+      "Random",
+      "Unique for each matrix"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has all 1s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Ones",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Unique for each matrix",
+      "Random",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Any value",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Rank REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "At the top",
+      "Anywhere",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "Not allowed",
+      "At the top",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Reduced Excel Form",
+      "Row Echelon Form",
+      "Row Elimination Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Ones",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "Determinant",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Reduced Row Echelon Form",
+      "Real REF",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Free variables",
+      "Basic variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "At the bottom",
+      "Anywhere",
+      "Not allowed"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "Any value",
+      "0",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "The determinant",
+      "Any value",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Any value",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Ones",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "Determinant",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "Any value",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "0",
+      "1",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Any value",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Row Echelon Form",
+      "Reduced Excel Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "Anywhere",
+      "At the top",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "Not allowed",
+      "Anywhere",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has random values",
+      "Has all 0s",
+      "Has one 1 and rest 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Rank of A",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "1",
+      "The determinant",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Any value",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "Not allowed",
+      "At the bottom",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "Any value",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Rank of A",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "1",
+      "0",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "The determinant",
+      "0",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Free variables",
+      "No variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Determinant",
+      "Free variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Rank REF",
+      "Reduced Row Echelon Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Number of rows",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "1",
+      "The determinant",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Rank of A",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "No variables",
+      "Free variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Unique for each matrix",
+      "Random",
+      "Not unique",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "0",
+      "1",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Number of rows",
+      "Determinant",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "The determinant",
+      "1",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Zeros",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "At the top",
+      "Not allowed",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Reduced Excel Form",
+      "Row Elimination Form",
+      "Row Echelon Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Free variables",
+      "No variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 1s",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Pivots",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "Free variables",
+      "Determinant",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Zeros",
+      "Ones",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "Any value",
+      "0",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Undefined",
+      "Not unique",
+      "Unique for each matrix"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Random",
+      "Unique for each matrix",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Zeros",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "No variables",
+      "Free variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "Not allowed",
+      "At the bottom",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Any value",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "Any value",
+      "0",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Reduced Row Echelon Form",
+      "Real REF",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Zeros",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Zeros",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Reduced Excel Form",
+      "Row Elimination Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "At the bottom",
+      "At the top",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 1s",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Any value",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Reduced Excel Form",
+      "Rank Echelon Format",
+      "Row Elimination Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Reduced Excel Form",
+      "Row Echelon Form",
+      "Row Elimination Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of rows",
+      "Number of columns",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Any value",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Determinant",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "Any value",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Any value",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "Any value",
+      "0",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Any value",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "Rank of A",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Zeros",
+      "Ones",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Reduced Excel Form",
+      "Rank Echelon Format",
+      "Row Elimination Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Row Elimination Form",
+      "Rank Echelon Format",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the top",
+      "Not allowed",
+      "Anywhere",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Row Echelon Form",
+      "Row Elimination Form",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Zeros",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "Any value",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Any value",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Number of rows",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has random values",
+      "Has all 0s",
+      "Has all 1s",
+      "Has one 1 and rest 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Free variables",
+      "Basic variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "0",
+      "Any value",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Reduced Row Echelon Form",
+      "Real REF",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Free variables",
+      "Basic variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Unique for each matrix",
+      "Undefined",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Row Echelon Form",
+      "Rank Echelon Format"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Number of columns",
+      "Number of rows",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Rank of A",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "At the top",
+      "Not allowed",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Random",
+      "Undefined",
+      "Unique for each matrix"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "Any value",
+      "0",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "Any value",
+      "The determinant",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "0",
+      "Any value",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Determinant",
+      "Number of columns",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Row Echelon Form",
+      "Rank Echelon Format",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Zeros",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Any value",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Unique for each matrix",
+      "Undefined",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Determinant",
+      "Number of columns",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Determinant",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Determinant",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Ones",
+      "Zeros",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "At the top",
+      "Anywhere",
+      "At the bottom"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Free variables",
+      "Basic variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Anywhere",
+      "At the bottom",
+      "Not allowed",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Rank REF",
+      "Real REF",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "Any value",
+      "0",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Row Echelon Form",
+      "Rank Echelon Format",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "At the top",
+      "At the bottom",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of columns",
+      "Determinant",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Undefined",
+      "Unique for each matrix",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "1",
+      "0",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Any value",
+      "Ones",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Basic variables",
+      "No variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Any value",
+      "Ones",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 1s",
+      "Has random values",
+      "Has all 0s",
+      "Has one 1 and rest 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Rank REF",
+      "Reduced Row Echelon Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Any value",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Rank of A",
+      "Number of rows",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Pivots",
+      "Zeros",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Not unique",
+      "Undefined",
+      "Unique for each matrix"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Any value",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Real REF",
+      "Rank REF",
+      "Row Reduced Excel Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Ones",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Rank of A",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Any value",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Any value",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "At the bottom",
+      "Anywhere",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Rank of A",
+      "Number of rows"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Free variables",
+      "Determinant",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Basic variables",
+      "Free variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Number of rows",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Row Elimination Form",
+      "Row Echelon Form",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Basic variables",
+      "Determinant",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Any value",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Reduced Excel Form",
+      "Row Elimination Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Rank REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Unique for each matrix",
+      "Not unique",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Pivots",
+      "Zeros",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Undefined",
+      "Not unique",
+      "Unique for each matrix",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Undefined",
+      "Random",
+      "Unique for each matrix",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Ones",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "Any value",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 0s",
+      "Has all 1s",
+      "Has random values",
+      "Has one 1 and rest 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Pivots",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Any value",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of columns",
+      "Determinant",
+      "Number of rows",
+      "Rank of A"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Reduced Excel Form",
+      "Rank Echelon Format",
+      "Row Elimination Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "1",
+      "Any value",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "0",
+      "The determinant",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "No variables",
+      "Basic variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Rank Echelon Format",
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Free variables",
+      "Determinant",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Unique for each matrix",
+      "Not unique",
+      "Random",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Zeros",
+      "Any value",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Undefined",
+      "Unique for each matrix",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "Any value",
+      "The determinant",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Free variables",
+      "Determinant",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Zeros",
+      "Ones",
+      "Any value",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has all 0s",
+      "Has all 1s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Free variables",
+      "No variables",
+      "Basic variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Rank REF",
+      "Reduced Row Echelon Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Determinant",
+      "Basic variables",
+      "Free variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Determinant",
+      "Number of rows",
+      "Rank of A",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Rank Echelon Format",
+      "Reduced Excel Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Determinant",
+      "Basic variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Random",
+      "Unique for each matrix",
+      "Undefined",
+      "Not unique"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "0",
+      "Any value",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has random values",
+      "Has all 1s",
+      "Has one 1 and rest 0s",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Reduced Excel Form",
+      "Rank Echelon Format",
+      "Row Elimination Form",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Real REF",
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Determinant",
+      "Basic variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Elimination Form",
+      "Reduced Excel Form",
+      "Rank Echelon Format",
+      "Row Echelon Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "The determinant",
+      "Any value",
+      "0",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Zeros",
+      "Any value",
+      "Pivots",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Anywhere",
+      "At the bottom",
+      "Not allowed",
+      "At the top"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Unique for each matrix",
+      "Random",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Ones",
+      "Any value",
+      "Zeros",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 0s",
+      "Has random values",
+      "Has all 1s",
+      "Has one 1 and rest 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has all 1s",
+      "Has all 0s",
+      "Has random values"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Number of rows",
+      "Number of columns",
+      "Rank of A",
+      "Determinant"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Ones",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "The determinant",
+      "0",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, what is above each pivot?",
+    "options": [
+      "Any value",
+      "Zeros",
+      "Ones",
+      "Pivots"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Determinant",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Reduced Row Echelon Form",
+      "Row Reduced Excel Form",
+      "Real REF",
+      "Rank REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Number of pivots in RREF equals:",
+    "options": [
+      "Rank of A",
+      "Number of rows",
+      "Determinant",
+      "Number of columns"
+    ],
+    "answer": "Rank of A"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has all 0s",
+      "Has random values",
+      "Has one 1 and rest 0s",
+      "Has all 1s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "Any value",
+      "1",
+      "0",
+      "The determinant"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Unique for each matrix",
+      "Random",
+      "Not unique",
+      "Undefined"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Ones",
+      "Any value",
+      "Pivots",
+      "Zeros"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "At the bottom",
+      "At the top",
+      "Not allowed",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "REF stands for:",
+    "options": [
+      "Row Echelon Form",
+      "Rank Echelon Format",
+      "Row Elimination Form",
+      "Reduced Excel Form"
+    ],
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "0",
+      "The determinant",
+      "1",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form",
+      "Real REF"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Basic variables",
+      "Free variables",
+      "Determinant",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Each pivot column in RREF:",
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "MCQ",
+    "question": "In RREF, each pivot is:",
+    "options": [
+      "1",
+      "0",
+      "The determinant",
+      "Any value"
+    ],
+    "answer": "1"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF is:",
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Pivots",
+      "Zeros",
+      "Ones",
+      "Any value"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "Columns without pivots correspond to:",
+    "answer": "Free variables"
+  },
+  {
+    "type": "MCQ",
+    "question": "Zero rows in REF are:",
+    "options": [
+      "Not allowed",
+      "At the bottom",
+      "At the top",
+      "Anywhere"
+    ],
+    "answer": "At the bottom"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "In REF, what is below each pivot?",
+    "options": [
+      "Zeros",
+      "Pivots",
+      "Any value",
+      "Ones"
+    ],
+    "answer": "Zeros"
+  },
+  {
+    "type": "FIB",
+    "question": "REF stands for:",
+    "answer": "Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Rank REF",
+      "Real REF",
+      "Row Reduced Excel Form",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF stands for:",
+    "options": [
+      "Row Reduced Excel Form",
+      "Rank REF",
+      "Real REF",
+      "Reduced Row Echelon Form"
+    ],
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, each pivot is:",
+    "answer": "1"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has all 1s",
+      "Has random values",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "No variables",
+      "Basic variables",
+      "Determinant"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In REF, what is below each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Determinant",
+      "Basic variables",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "RREF stands for:",
+    "answer": "Reduced Row Echelon Form"
+  },
+  {
+    "type": "MCQ",
+    "question": "Each pivot column in RREF:",
+    "options": [
+      "Has one 1 and rest 0s",
+      "Has random values",
+      "Has all 1s",
+      "Has all 0s"
+    ],
+    "answer": "Has one 1 and rest 0s"
+  },
+  {
+    "type": "FIB",
+    "question": "Number of pivots in RREF equals:",
+    "answer": "Rank of A"
+  },
+  {
+    "type": "MCQ",
+    "question": "RREF is:",
+    "options": [
+      "Not unique",
+      "Undefined",
+      "Unique for each matrix",
+      "Random"
+    ],
+    "answer": "Unique for each matrix"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "Free variables",
+      "Basic variables",
+      "Determinant",
+      "No variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "Zero rows in REF are:",
+    "answer": "At the bottom"
+  },
+  {
+    "type": "MCQ",
+    "question": "Columns without pivots correspond to:",
+    "options": [
+      "No variables",
+      "Determinant",
+      "Basic variables",
+      "Free variables"
+    ],
+    "answer": "Free variables"
+  },
+  {
+    "type": "FIB",
+    "question": "In RREF, what is above each pivot?",
+    "answer": "Zeros"
+  }
+]
