@@ -4,16 +4,36 @@ let currentQuestionIndex = 0;
 let userAnswers = [];
 let quizType = '';
 
-// Get quiz type from URL
-const urlParams = new URLSearchParams(window.location.search);
-quizType = urlParams.get('type') || 'matrix';
+/**
+ * Normalize an answer string for comparison.
+ * Strips LaTeX delimiters \\(...\\) and \\[...\\], extra whitespace,
+ * and collapses internal spaces so user input like "5" matches stored "\\(5\\)".
+ */
+function normalizeAnswer(str) {
+    if (!str) return '';
+    let s = str.trim();
+    // Remove LaTeX inline delimiters \( ... \)
+    s = s.replace(/\\\(|\\\)/g, '');
+    // Remove LaTeX display delimiters \[ ... \]
+    s = s.replace(/\\\[|\\\]/g, '');
+    // Remove double-escaped delimiters \\( \\)
+    s = s.replace(/\\\\\(|\\\\\)/g, '');
+    s = s.replace(/\\\\\[|\\\\\]/g, '');
+    // Collapse whitespace
+    s = s.replace(/\s+/g, ' ').trim();
+    return s.toLowerCase();
+}
 
-// API base URL
-// For local development: 'http://localhost:5000'
-// For production: replace with your Render URL e.g. 'https://linearleap-api.onrender.com'
-const API_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+// ============================================================
+// DEPLOYMENT CONFIG — update this after deploying to Render:
+// 1. Go to render.com, deploy the API, copy the service URL
+// 2. Paste it below as RENDER_API_URL (keep the https://)
+// ============================================================
+const RENDER_API_URL = 'https://linearleap-api.onrender.com'; // ← PASTE YOUR RENDER URL HERE
+
+const API_URL = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
     ? 'http://localhost:5000'
-    : 'https://linearleap-api.onrender.com';  // ← UPDATE THIS after deploying to Render
+    : RENDER_API_URL;
 
 // Load quiz on page load
 document.addEventListener('DOMContentLoaded', () => {
@@ -176,8 +196,8 @@ function submitQuiz() {
     // Calculate score
     let score = 0;
     questions.forEach((q, i) => {
-        const userAns = userAnswers[i] ? userAnswers[i].trim().toLowerCase() : '';
-        const correctAns = q.answer.trim().toLowerCase();
+        const userAns = normalizeAnswer(userAnswers[i]);
+        const correctAns = normalizeAnswer(q.answer);
         if (userAns === correctAns) {
             score++;
         }
@@ -198,7 +218,7 @@ function submitQuiz() {
         item.className = 'review-item';
 
         const userAns = userAnswers[i] || '(not answered)';
-        const isCorrect = userAns.trim().toLowerCase() === q.answer.trim().toLowerCase();
+        const isCorrect = normalizeAnswer(userAns) === normalizeAnswer(q.answer);
 
         item.innerHTML = `
             <h3>Question ${i + 1}</h3>

@@ -27,7 +27,16 @@ for topic in ["matrix", "vectors", "identity-matrix", "dot-product", "vector-mag
         STATIC_QUESTIONS[topic] = []
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS for frontend access
+
+# CORS configuration — allows your frontend to call this API.
+# Once your GoDaddy domain is live, replace '*' with your actual domain:
+#   e.g. CORS(app, origins=["https://yourdomain.com", "https://www.yourdomain.com"])
+CORS(app, origins=[
+    "https://linearleap.ehrlichpxp.com",
+    "http://linearleap.ehrlichpxp.com",
+    "http://localhost:5000",
+    "http://127.0.0.1:5000"
+])  # Enable CORS for frontend access
 
 # Gemini Configuration
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
