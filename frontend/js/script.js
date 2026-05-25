@@ -2,7 +2,8 @@
 let questions = [];
 let currentQuestionIndex = 0;
 let userAnswers = [];
-let quizType = '';
+const urlParams = new URLSearchParams(window.location.search);
+let quizType = urlParams.get('type') || 'matrix';
 
 /**
  * Normalize an answer string for comparison.
