@@ -29,7 +29,7 @@ function normalizeAnswer(str) {
 // 1. Go to render.com, deploy the API, copy the service URL
 // 2. Paste it below as RENDER_API_URL (keep the https://)
 // ============================================================
-const RENDER_API_URL = 'https://linearleap-api.onrender.com'; // ← PASTE YOUR RENDER URL HERE
+const RENDER_API_URL = 'https://linearleap-1.onrender.com';
 
 const API_URL = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
     ? 'http://localhost:5000'
